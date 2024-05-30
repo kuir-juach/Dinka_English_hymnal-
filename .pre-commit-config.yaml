@@ -1,0 +1,16 @@
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.6.0
+    hooks:
+      - id: check-json
+      - id: end-of-file-fixer
+      - id: pretty-format-json
+        args: ["--autofix", "--no-ensure-ascii"]
+      - id: trailing-whitespace
+        args: [--markdown-linebreak-ext=md]
+  - repo: https://github.com/python-jsonschema/check-jsonschema
+    rev: 0.28.4
+    hooks:
+      - id: check-jsonschema
+        args: ["--schemafile", "./json-schema.json"]
+        files: ^hymnals/.*/.*\.json$

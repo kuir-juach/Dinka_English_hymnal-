@@ -1,0 +1,116 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "O praise Him! O praise Him!"
+      },
+      {
+        "number": 2,
+        "text": "Alleluia! Alleluia! Alleluia!"
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "All creatures of our God and King"
+        },
+        {
+          "number": 2,
+          "text": "Lift up your voice and with us sing,"
+        },
+        {
+          "number": 3,
+          "text": "Alleluia! Alleluia!"
+        },
+        {
+          "number": 4,
+          "text": "O burning sun with golden beam"
+        },
+        {
+          "number": 5,
+          "text": "And silver moon with softer gleam!"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O rushing wind and breezes soft,"
+        },
+        {
+          "number": 2,
+          "text": "O clouds that ride the winds aloft,"
+        },
+        {
+          "number": 3,
+          "text": "O praise Him! Alleluia!"
+        },
+        {
+          "number": 4,
+          "text": "O rising morn, in praise rejoice,"
+        },
+        {
+          "number": 5,
+          "text": "O lights of evening, find a voice!"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O flowing waters, pure and clear,"
+        },
+        {
+          "number": 2,
+          "text": "Make music for your Lord to hear,"
+        },
+        {
+          "number": 3,
+          "text": "O praise Him! Alleluia!"
+        },
+        {
+          "number": 4,
+          "text": "O fire so masterful and bright,"
+        },
+        {
+          "number": 5,
+          "text": "Providing us with warmth and light."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Let all things their Creator bless,"
+        },
+        {
+          "number": 2,
+          "text": "And worship Him in humbleness,"
+        },
+        {
+          "number": 3,
+          "text": "O praise Him! Alleluia!"
+        },
+        {
+          "number": 4,
+          "text": "Oh, praise the Father, praise the Son,"
+        },
+        {
+          "number": 5,
+          "text": "And praise the Spirit, three in One!"
+        }
+      ],
+      "number": 4
+    }
+  ]
+}

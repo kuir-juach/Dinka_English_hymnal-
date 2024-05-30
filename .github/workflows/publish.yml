@@ -1,0 +1,14 @@
+name: publish hymnals on GitHub Pages
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Publish hymnals
+        run: |
+          echo "Todo: deployment commands"

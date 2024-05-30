@@ -1,0 +1,76 @@
+{
+  "$comment": "A schema for all hymns in all languages to adhere to",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "description": "A schema for all hymns in all languages to adhere to",
+  "properties": {
+    "refrain": {
+      "additionalProperties": false,
+      "properties": {
+        "lines": {
+          "items": {
+            "additionalProperties": false,
+            "properties": {
+              "number": {
+                "type": "number"
+              },
+              "text": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "number",
+              "text"
+            ],
+            "type": "object"
+          },
+          "type": "array"
+        }
+      },
+      "required": [
+        "lines"
+      ],
+      "type": "object"
+    },
+    "stanzas": {
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "lines": {
+            "items": {
+              "additionalProperties": false,
+              "properties": {
+                "number": {
+                  "type": "number"
+                },
+                "text": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "number",
+                "text"
+              ],
+              "type": "object"
+            },
+            "type": "array"
+          },
+          "number": {
+            "type": "number"
+          }
+        },
+        "required": [
+          "lines",
+          "number"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    }
+  },
+  "required": [
+    "stanzas"
+  ],
+  "title": "Hymns schema",
+  "type": "object"
+}

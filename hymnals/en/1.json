@@ -1,0 +1,67 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Praise to the Lord, the Almighty, the King of creation!"
+        },
+        {
+          "number": 2,
+          "text": "O my soul, praise Him, for He is thy health and salvation!"
+        },
+        {
+          "number": 3,
+          "text": "All ye who hear, now to His temple draw near;"
+        },
+        {
+          "number": 4,
+          "text": "Join ye in glad adoration!"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Praise to the Lord, Who o’er all things so wondrously reigneth,"
+        },
+        {
+          "number": 2,
+          "text": "Shieldeth thee under His wings, yea, so gently sustaineth!"
+        },
+        {
+          "number": 3,
+          "text": "Hast thou not seen how thy desires e’er have been"
+        },
+        {
+          "number": 4,
+          "text": "Granted in what He ordaineth?"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Praise to the Lord, who doth prosper thy work and defend thee;"
+        },
+        {
+          "number": 2,
+          "text": "Surely His goodness and mercy here daily attend thee."
+        },
+        {
+          "number": 3,
+          "text": "Ponder anew what the Almighty can do,"
+        },
+        {
+          "number": 4,
+          "text": "If with His love He befriend thee."
+        }
+      ],
+      "number": 3
+    }
+  ]
+}
