@@ -1,9 +1,10 @@
 # SDAHymnals
 
+[![CI workflow](https://github.com/kuir-juach/Dinka_English_hymnal-/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/kuir-juach/Dinka_English_hymnal-/actions/workflows/CI.yml)
+[![publish workflow](https://github.com/kuir-juach/Dinka_English_hymnal-/actions/workflows/publish.yml/badge.svg?branch=main)](https://github.com/kuir-juach/Dinka_English_hymnal-/actions/workflows/publish.yml)
 ![lang: din](https://img.shields.io/badge/lang-din-0a0.svg?style=flat&labelColor=333)
 ![lang: en](https://img.shields.io/badge/lang-en-0a0.svg?style=flat&labelColor=333)
 ![lang: sw](https://img.shields.io/badge/lang-sw-0a0.svg?style=flat&labelColor=333)
-[![CI workflow](https://github.com/kuir-juach/Dinka_English_hymnal-/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/kuir-juach/Dinka_English_hymnal-/actions/workflows/CI.yml)
 
 ## Development
 

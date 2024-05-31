@@ -1,5 +1,4 @@
-name: publish hymnals on GitHub Pages
-
+name: publish
 on:
   release:
     types: [published]
