@@ -1,0 +1,68 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Soon shall the trump of God"
+        },
+        {
+          "number": 2,
+          "text": "Give out the welcome sound,"
+        },
+        {
+          "number": 3,
+          "text": "That shakes death’s silent chamber walls,"
+        },
+        {
+          "number": 4,
+          "text": "And breaks the turf sealed ground."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "You dwellers in the dust,"
+        },
+        {
+          "number": 2,
+          "text": "Awake, come forth, and sing;"
+        },
+        {
+          "number": 3,
+          "text": "Sharp has your frost of winter been,"
+        },
+        {
+          "number": 4,
+          "text": "But bright shall be your spring."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "‘Twas sown in weakness here;"
+        },
+        {
+          "number": 2,
+          "text": "‘Twill then be raised in power;"
+        },
+        {
+          "number": 3,
+          "text": "That which was sown in earthly seed"
+        },
+        {
+          "number": 4,
+          "text": "Shall rise a heav’nly flower."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Soon Shall the Trump of God"
+}

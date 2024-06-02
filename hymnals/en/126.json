@@ -1,0 +1,116 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "In the bleak midwinter"
+        },
+        {
+          "number": 2,
+          "text": "Frosty wind made moan;"
+        },
+        {
+          "number": 3,
+          "text": "Earth stood hard as iron,"
+        },
+        {
+          "number": 4,
+          "text": "Water like a stone;"
+        },
+        {
+          "number": 5,
+          "text": "Snow had fallen, snow on snow,"
+        },
+        {
+          "number": 6,
+          "text": "Snow on snow,"
+        },
+        {
+          "number": 7,
+          "text": "In the bleak midwinter,"
+        },
+        {
+          "number": 8,
+          "text": "Long ago."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Angels and archangels"
+        },
+        {
+          "number": 2,
+          "text": "May have gathered there,"
+        },
+        {
+          "number": 3,
+          "text": "Cherubim and seraphim"
+        },
+        {
+          "number": 4,
+          "text": "Thronged the air:"
+        },
+        {
+          "number": 5,
+          "text": "But His mother only"
+        },
+        {
+          "number": 6,
+          "text": "In her maiden bliss,"
+        },
+        {
+          "number": 7,
+          "text": "Worshipped the beloved"
+        },
+        {
+          "number": 8,
+          "text": "With a kiss."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "What can I give Him,"
+        },
+        {
+          "number": 2,
+          "text": "Poor as I am?"
+        },
+        {
+          "number": 3,
+          "text": "If I were a shepherd"
+        },
+        {
+          "number": 4,
+          "text": "I would bring a lamb;"
+        },
+        {
+          "number": 5,
+          "text": "If I were a wise man"
+        },
+        {
+          "number": 6,
+          "text": "I would do my part;"
+        },
+        {
+          "number": 7,
+          "text": "Yet what can I give Him?"
+        },
+        {
+          "number": 8,
+          "text": "Give my heart."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "In the Bleak Midwinter"
+}

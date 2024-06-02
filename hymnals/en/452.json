@@ -1,0 +1,68 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "What heavenly music steals over the sea!"
+        },
+        {
+          "number": 2,
+          "text": "Entrancing the senses like sweet melody!"
+        },
+        {
+          "number": 3,
+          "text": "‘Tis the voice of the angels borne soft on the air;"
+        },
+        {
+          "number": 4,
+          "text": "For me they are singing; their welcome I hear."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "On the banks of old Jordan, here gazing I stand,"
+        },
+        {
+          "number": 2,
+          "text": "And earnestly longing, I stretch forth my hand;"
+        },
+        {
+          "number": 3,
+          "text": "Send a convoy of angels, dear Jesus, I pray!"
+        },
+        {
+          "number": 4,
+          "text": "Let me join that sweet music; come, take me away."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Though dark are the waters and rough is the wave,"
+        },
+        {
+          "number": 2,
+          "text": "If Jesus permit, the wild surges I’ll brave;"
+        },
+        {
+          "number": 3,
+          "text": "For that heavenly music hath ravished me so,"
+        },
+        {
+          "number": 4,
+          "text": "I must join in that chorus! I’ll go! let me go!"
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "What Heavenly Music"
+}

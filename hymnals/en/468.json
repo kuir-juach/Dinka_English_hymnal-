@@ -1,0 +1,109 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "I’m a child of the King,"
+      },
+      {
+        "number": 2,
+        "text": "A child of the King:"
+      },
+      {
+        "number": 3,
+        "text": "With Jesus my Savior,"
+      },
+      {
+        "number": 4,
+        "text": "I’m a child of the King."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "My Father is rich in houses and lands,"
+        },
+        {
+          "number": 2,
+          "text": "He holdeth the wealth of the world in His hands!"
+        },
+        {
+          "number": 3,
+          "text": "Of rubies and diamonds, of silver and gold,"
+        },
+        {
+          "number": 4,
+          "text": "His coffers are full, He has riches untold."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "My Father’s own Son, the Savior of men,"
+        },
+        {
+          "number": 2,
+          "text": "Once wandered on earth as the poorest of them;"
+        },
+        {
+          "number": 3,
+          "text": "But now He is pleading our pardon on high,"
+        },
+        {
+          "number": 4,
+          "text": "That we may be His when He comes by and by."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I once was an outcast stranger on earth,"
+        },
+        {
+          "number": 2,
+          "text": "A sinner by choice, an alien by birth,"
+        },
+        {
+          "number": 3,
+          "text": "But I’ve been adopted, my name’s written down,"
+        },
+        {
+          "number": 4,
+          "text": "An heir to a mansion, a robe and a crown."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "A tent or a cottage, why should I care?"
+        },
+        {
+          "number": 2,
+          "text": "They’re building a palace for me over there;"
+        },
+        {
+          "number": 3,
+          "text": "Though exiled from home, yet still may I sing:"
+        },
+        {
+          "number": 4,
+          "text": "All glory to God, I’m a child of the King."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "A Child of the King"
+}

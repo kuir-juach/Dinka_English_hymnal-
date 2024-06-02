@@ -1,0 +1,104 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Over yonder, down by the crystal sea,"
+      },
+      {
+        "number": 2,
+        "text": "                       down              by the crystal sea,"
+      },
+      {
+        "number": 3,
+        "text": "Over yonder, there’s where I long to be,"
+      },
+      {
+        "number": 4,
+        "text": "                       There’s            where I long to be,"
+      },
+      {
+        "number": 5,
+        "text": "No more sorrow, toil, grief, nor care,"
+      },
+      {
+        "number": 6,
+        "text": "In the homeland bright and fair,"
+      },
+      {
+        "number": 7,
+        "text": "Over, over there."
+      },
+      {
+        "number": 8,
+        "text": "                  Over there."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Come let us sing of homeland,"
+        },
+        {
+          "number": 2,
+          "text": "Down by the crystal sea;"
+        },
+        {
+          "number": 3,
+          "text": "Wonderful land where Jesus"
+        },
+        {
+          "number": 4,
+          "text": "Buildeth a mansion for me."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Water of life there floweth,"
+        },
+        {
+          "number": 2,
+          "text": "Fruit in abundant store;"
+        },
+        {
+          "number": 3,
+          "text": "Citizens of that country"
+        },
+        {
+          "number": 4,
+          "text": "Hunger and thirst never more."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Come go with me to homeland,"
+        },
+        {
+          "number": 2,
+          "text": "Jesus invites you there;"
+        },
+        {
+          "number": 3,
+          "text": "Help spread the invitation,"
+        },
+        {
+          "number": 4,
+          "text": "Tell it to men everywhere."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Over Yonder"
+}

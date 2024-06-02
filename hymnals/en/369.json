@@ -1,0 +1,88 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Bringing in the sheaves, bringing in the sheaves,"
+      },
+      {
+        "number": 2,
+        "text": "We shall come rejoicing, bringing in the sheaves."
+      },
+      {
+        "number": 3,
+        "text": "Bringing in the sheaves, bringing in the sheaves,"
+      },
+      {
+        "number": 4,
+        "text": "We shall come rejoicing, bringing in the sheaves."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Sowing in the morning, sowing seeds of kindness,"
+        },
+        {
+          "number": 2,
+          "text": "Sowing in the noontide and the dewy eve,"
+        },
+        {
+          "number": 3,
+          "text": "Waiting for the harvest and the time of reaping –"
+        },
+        {
+          "number": 4,
+          "text": "We shall come rejoicing, bringing in the sheaves."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Sowing in the sunshine, sowing in the shadows,"
+        },
+        {
+          "number": 2,
+          "text": "Fearing neither clouds nor winter’s chilling breeze;"
+        },
+        {
+          "number": 3,
+          "text": "By and by the harvest and the labor ended –"
+        },
+        {
+          "number": 4,
+          "text": "We shall come rejoicing, bringin in the sheaves."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Going forth with weeping, sowing for the Master,"
+        },
+        {
+          "number": 2,
+          "text": "Tho the loss sustained our spirit often grieves;"
+        },
+        {
+          "number": 3,
+          "text": "When our weeping’s over He will bid us welcome –"
+        },
+        {
+          "number": 4,
+          "text": "We shall come rejoicing, bringing in the sheaves"
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Bringing in the Sheaves"
+}

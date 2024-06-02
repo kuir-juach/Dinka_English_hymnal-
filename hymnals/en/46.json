@@ -1,0 +1,112 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "O Savior, stay this night with me;"
+      },
+      {
+        "number": 2,
+        "text": "Behold, ’tis eventide!"
+      },
+      {
+        "number": 3,
+        "text": "O Savior, stay this night with me;"
+      },
+      {
+        "number": 4,
+        "text": "Behold, ’tis eventide."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Abide with me, ’tis eventide!"
+        },
+        {
+          "number": 2,
+          "text": "The day is past and gone;"
+        },
+        {
+          "number": 3,
+          "text": "The shadows of the evening fall;"
+        },
+        {
+          "number": 4,
+          "text": "The night is coming on!"
+        },
+        {
+          "number": 5,
+          "text": "Within my heart a welcome guest,"
+        },
+        {
+          "number": 6,
+          "text": "Within my home abide;"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Abide with me, ’tis eventide!"
+        },
+        {
+          "number": 2,
+          "text": "Thy walk today with me"
+        },
+        {
+          "number": 3,
+          "text": "Has made my heart within me burn,"
+        },
+        {
+          "number": 4,
+          "text": "As I communed with Thee."
+        },
+        {
+          "number": 5,
+          "text": "Thy earnest words have filled my soul"
+        },
+        {
+          "number": 6,
+          "text": "And kept me near Thy side;"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Abide with me, ’tis eventide!"
+        },
+        {
+          "number": 2,
+          "text": "And lone will be the night,"
+        },
+        {
+          "number": 3,
+          "text": "If I cannot commune with Thee,"
+        },
+        {
+          "number": 4,
+          "text": "Nor find in Thee my light."
+        },
+        {
+          "number": 5,
+          "text": "The darkness of the world, I fear,"
+        },
+        {
+          "number": 6,
+          "text": "Would in my home abide;"
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Abide With Me, 'Tis Eventide"
+}

@@ -1,0 +1,67 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Because He lives I can face tomorrow,"
+      },
+      {
+        "number": 2,
+        "text": "Because He lives all fear is gone;"
+      },
+      {
+        "number": 3,
+        "text": "Because I know He holds the future."
+      },
+      {
+        "number": 4,
+        "text": "And life is worth the living just because He lives."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "God sent His Son, they called Him Jesus,"
+        },
+        {
+          "number": 2,
+          "text": "He came to love, heal, and forgive;"
+        },
+        {
+          "number": 3,
+          "text": "He lived and died to buy my pardon,"
+        },
+        {
+          "number": 4,
+          "text": "An empty grave is there to prove my Savior lives."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "How sweet to hold a newborn baby,"
+        },
+        {
+          "number": 2,
+          "text": "And feel the pride, and joy He gives;"
+        },
+        {
+          "number": 3,
+          "text": "But greater still the calm assurance,"
+        },
+        {
+          "number": 4,
+          "text": "This child can face uncertain days because He lives."
+        }
+      ],
+      "number": 2
+    }
+  ],
+  "title": "Because He Lives"
+}

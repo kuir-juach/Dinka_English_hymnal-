@@ -1,0 +1,84 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Rejoice! Rejoice!"
+      },
+      {
+        "number": 2,
+        "text": "Immanuel shall come to thee,"
+      },
+      {
+        "number": 3,
+        "text": "O Israel."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O come, O come, Immanuel,"
+        },
+        {
+          "number": 2,
+          "text": "And ransom captive Israel,"
+        },
+        {
+          "number": 3,
+          "text": "That mourns in lonely exile here"
+        },
+        {
+          "number": 4,
+          "text": "Until the Son of God appear."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O come, Thou Wisdom from on high,"
+        },
+        {
+          "number": 2,
+          "text": "And order all things far and night;"
+        },
+        {
+          "number": 3,
+          "text": "To us the path of knowledge show,"
+        },
+        {
+          "number": 4,
+          "text": "And cause us in her ways to go."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O come, Desire of nations, bind"
+        },
+        {
+          "number": 2,
+          "text": "All peoples in one heart and mind;"
+        },
+        {
+          "number": 3,
+          "text": "Bid envy, strife and quarrels cease;"
+        },
+        {
+          "number": 4,
+          "text": "Fill the whole world with heaven’s peace."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "O Come, O Come, Immanuel"
+}

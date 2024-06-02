@@ -1,0 +1,31 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Lead me, Lord, lead me in thy righteousness;"
+        },
+        {
+          "number": 2,
+          "text": "make thy way plain before my face."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "For it is thou, Lord, thou, Lord only,"
+        },
+        {
+          "number": 2,
+          "text": "that makest me dwell in safety."
+        }
+      ],
+      "number": 2
+    }
+  ],
+  "title": "Lead Me, Lord"
+}

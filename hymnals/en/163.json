@@ -1,0 +1,92 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "At the cross, at the cross,"
+      },
+      {
+        "number": 2,
+        "text": "where I first saw the light,"
+      },
+      {
+        "number": 3,
+        "text": "and the burden of my heart rolled away;"
+      },
+      {
+        "number": 4,
+        "text": "it was there by faith I received my sight,"
+      },
+      {
+        "number": 5,
+        "text": "and now I am happy all the day!"
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Alas! and did my Savior bleed,"
+        },
+        {
+          "number": 2,
+          "text": "and did my Sovereign die?"
+        },
+        {
+          "number": 3,
+          "text": "Would he devote that sacred head"
+        },
+        {
+          "number": 4,
+          "text": "for sinners such as I?"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Was it for crimes that I have done,"
+        },
+        {
+          "number": 2,
+          "text": "he groaned upon the tree?"
+        },
+        {
+          "number": 3,
+          "text": "Amazing pity! Grace unknown!"
+        },
+        {
+          "number": 4,
+          "text": "And love beyond degree!"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "But drops of grief can ne’er repay"
+        },
+        {
+          "number": 2,
+          "text": "the debt of love I owe:"
+        },
+        {
+          "number": 3,
+          "text": "Here, Lord, I give myself away;"
+        },
+        {
+          "number": 4,
+          "text": "’tis all that I can do!"
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "At the Cross"
+}

@@ -1,0 +1,47 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Jesus, tender Shepherd, hear me,"
+        },
+        {
+          "number": 2,
+          "text": "Bless Thy little lamb tonight;"
+        },
+        {
+          "number": 3,
+          "text": "Through the darkness be Thou near me;"
+        },
+        {
+          "number": 4,
+          "text": "Watch my sleep till morning light."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "All this day Thy hand has led me,"
+        },
+        {
+          "number": 2,
+          "text": "And I thank Thee for Thy care;"
+        },
+        {
+          "number": 3,
+          "text": "Thou hast clothed me, warmed and fed me;"
+        },
+        {
+          "number": 4,
+          "text": "Listen to my evening prayer."
+        }
+      ],
+      "number": 2
+    }
+  ],
+  "title": "Jesus, Tender Shepherd, Hear Me"
+}

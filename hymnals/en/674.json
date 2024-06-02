@@ -1,0 +1,34 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Shalom, good friends,"
+        },
+        {
+          "number": 2,
+          "text": "shalom, good friends,"
+        },
+        {
+          "number": 3,
+          "text": "shalom, shalom."
+        },
+        {
+          "number": 4,
+          "text": "Till we meet again,"
+        },
+        {
+          "number": 5,
+          "text": "till we meet again,"
+        },
+        {
+          "number": 6,
+          "text": "shalom, shalom."
+        }
+      ],
+      "number": 1
+    }
+  ],
+  "title": "Shalom"
+}

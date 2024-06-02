@@ -1,0 +1,88 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "O Lord Jesus, how long, how long"
+      },
+      {
+        "number": 2,
+        "text": "Ere we shout the glad song?"
+      },
+      {
+        "number": 3,
+        "text": "Christ returneth, Hallelujah!"
+      },
+      {
+        "number": 4,
+        "text": "Hallelujah! Amen, Hallelujah! Amen."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "It may be at morn, when the day is awaking,"
+        },
+        {
+          "number": 2,
+          "text": "When sunlight through darkness and shadow is breaking,"
+        },
+        {
+          "number": 3,
+          "text": "That Jesus will come in the fullness of glory"
+        },
+        {
+          "number": 4,
+          "text": "To receive from the world His own."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "It may be at midday, it may be at twilight,"
+        },
+        {
+          "number": 2,
+          "text": "It may be, perchance, that the blackness of midnight"
+        },
+        {
+          "number": 3,
+          "text": "Will burst into light in the blaze of His glory,"
+        },
+        {
+          "number": 4,
+          "text": "When Jesus receives His own."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O joy! O delight! should we go without dying,"
+        },
+        {
+          "number": 2,
+          "text": "No sickness, no sadness, no dread, and no crying,"
+        },
+        {
+          "number": 3,
+          "text": "Caught up through the clouds with our Lord into glory,"
+        },
+        {
+          "number": 4,
+          "text": "When Jesus receives His own."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "It May Be at Morn"
+}

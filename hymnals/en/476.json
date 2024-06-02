@@ -1,0 +1,88 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Burdens are lifted at Calvary,"
+      },
+      {
+        "number": 2,
+        "text": "Calvary, Calvary,"
+      },
+      {
+        "number": 3,
+        "text": "Burdens are lifted at Calvary,"
+      },
+      {
+        "number": 4,
+        "text": "Jesus is very near."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Days are filled with sorrow and care,"
+        },
+        {
+          "number": 2,
+          "text": "Hearts are lonely and drear;"
+        },
+        {
+          "number": 3,
+          "text": "Burdens are lifted at Calvary,"
+        },
+        {
+          "number": 4,
+          "text": "Jesus is very near."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Cast your care on Jesus today,"
+        },
+        {
+          "number": 2,
+          "text": "Leave your worry and fear;"
+        },
+        {
+          "number": 3,
+          "text": "Burdens are lifted at Calvary,"
+        },
+        {
+          "number": 4,
+          "text": "Jesus is very near."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Troubled soul, the Saviour can see,"
+        },
+        {
+          "number": 2,
+          "text": "Ev’ry heartache and tear;"
+        },
+        {
+          "number": 3,
+          "text": "Burdens are lifted at Calvary"
+        },
+        {
+          "number": 4,
+          "text": "Jesus is very near."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Burdens Are Lifted at Calvary"
+}

@@ -1,0 +1,109 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Oh, the height and depth of mercy!"
+      },
+      {
+        "number": 2,
+        "text": "Oh, the length and breadth of love!"
+      },
+      {
+        "number": 3,
+        "text": "Oh, the fullness of redemption,"
+      },
+      {
+        "number": 4,
+        "text": "Pledge of endless life above."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Take the world, but give me Jesus;"
+        },
+        {
+          "number": 2,
+          "text": "All its Joys are but a name,"
+        },
+        {
+          "number": 3,
+          "text": "But His love abideth ever,"
+        },
+        {
+          "number": 4,
+          "text": "Through eternal years the same."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Take the world, but give me Jesus,"
+        },
+        {
+          "number": 2,
+          "text": "Sweetest comfort of my soul;"
+        },
+        {
+          "number": 3,
+          "text": "With my Savior watching o’er me,"
+        },
+        {
+          "number": 4,
+          "text": "I can sing, though billows roll."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Take the world, but give me Jesus;"
+        },
+        {
+          "number": 2,
+          "text": "Let me view his constant smile;"
+        },
+        {
+          "number": 3,
+          "text": "Then throughout my pilgrim journey"
+        },
+        {
+          "number": 4,
+          "text": "Light will cheer me all the while."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Take the world, but give me Jesus;"
+        },
+        {
+          "number": 2,
+          "text": "In His cross my trust shall be,"
+        },
+        {
+          "number": 3,
+          "text": "Till, with clearer, brighter vision"
+        },
+        {
+          "number": 4,
+          "text": "Face to face my Lord I see."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Take the World, but Give Me Jesus"
+}

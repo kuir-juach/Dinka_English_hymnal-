@@ -1,0 +1,117 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Dona nobis pacem, pacem;"
+        },
+        {
+          "number": 2,
+          "text": "Dona nobis pacem."
+        },
+        {
+          "number": 3,
+          "text": "Dona nobis pacem;"
+        },
+        {
+          "number": 4,
+          "text": "Dona nobis pacem."
+        },
+        {
+          "number": 5,
+          "text": "Dona nobis pacem;"
+        },
+        {
+          "number": 6,
+          "text": "Dona nobis pacem."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Father grant us, grant us Your peace;"
+        },
+        {
+          "number": 2,
+          "text": "Oh, loving Father, grant us Your peace."
+        },
+        {
+          "number": 3,
+          "text": "Grant us, grant us peace;"
+        },
+        {
+          "number": 4,
+          "text": "Grant us, grant us, grant Your peace;"
+        },
+        {
+          "number": 5,
+          "text": "Grant us, grant us peace;"
+        },
+        {
+          "number": 6,
+          "text": "Loving Father, grant us Your peace."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Accordenous ta paix, ta paix, Accordenous ta paix."
+        },
+        {
+          "number": 2,
+          "text": "Accordenous ta paix;"
+        },
+        {
+          "number": 3,
+          "text": "Accordenous ta paix."
+        },
+        {
+          "number": 4,
+          "text": "Accordenous ta paix,"
+        },
+        {
+          "number": 5,
+          "text": "Accordenous ta paix."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Padre, danos tupaz, tupaz;"
+        },
+        {
+          "number": 2,
+          "text": "Padre, danos, danos tupaz"
+        },
+        {
+          "number": 3,
+          "text": "Padre, danos, tupaz."
+        },
+        {
+          "number": 4,
+          "text": "Padre, danos, danos tupaz"
+        },
+        {
+          "number": 5,
+          "text": "Padre, danos tupaz."
+        },
+        {
+          "number": 6,
+          "text": "Padre, danos, danos tupaz."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Grant Us Your Peace"
+}

@@ -1,0 +1,92 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Silent night! holy night!"
+        },
+        {
+          "number": 2,
+          "text": "All is calm, all is bright"
+        },
+        {
+          "number": 3,
+          "text": "Round yon virgin mother and Child,"
+        },
+        {
+          "number": 4,
+          "text": "Holy Infant so tender and mild,"
+        },
+        {
+          "number": 5,
+          "text": "Sleep in heavenly peace,"
+        },
+        {
+          "number": 6,
+          "text": "sleep in heavenly peace."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Silent night! holy night!"
+        },
+        {
+          "number": 2,
+          "text": "Shepherds quake at the sight,"
+        },
+        {
+          "number": 3,
+          "text": "glories stream from heaven afar,"
+        },
+        {
+          "number": 4,
+          "text": "heavenly hosts sing Alleluia;"
+        },
+        {
+          "number": 5,
+          "text": "Christ, the Savior is born,"
+        },
+        {
+          "number": 6,
+          "text": "Christ, the Savior is born."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Silent night! holy night!"
+        },
+        {
+          "number": 2,
+          "text": "Son of God, love’s pure light,"
+        },
+        {
+          "number": 3,
+          "text": "Radiant beams from Thy holy face,"
+        },
+        {
+          "number": 4,
+          "text": "with the dawn of redeeming grace,"
+        },
+        {
+          "number": 5,
+          "text": "Jesus, Lord, at Thy birth,"
+        },
+        {
+          "number": 6,
+          "text": "Jesus, Lord, at Thy birth."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Silent Night, Holy Night"
+}

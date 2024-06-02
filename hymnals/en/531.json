@@ -1,0 +1,88 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "We’ll build on the Rock,"
+      },
+      {
+        "number": 2,
+        "text": "We’ll build on the Rock;"
+      },
+      {
+        "number": 3,
+        "text": "We’ll build on the Rock, on the solid Rock,"
+      },
+      {
+        "number": 4,
+        "text": "On Christ, the mighty Rock."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "We’ll build on the Rock, the living Rock,"
+        },
+        {
+          "number": 2,
+          "text": "On Jesus, the Rock of Ages;"
+        },
+        {
+          "number": 3,
+          "text": "So shall we abide the fearful shock,"
+        },
+        {
+          "number": 4,
+          "text": "When loud the tempest rages."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Some build on the sinking sands of life,"
+        },
+        {
+          "number": 2,
+          "text": "On visions of earthly treasure;"
+        },
+        {
+          "number": 3,
+          "text": "Some build on the waves of sin and strife,"
+        },
+        {
+          "number": 4,
+          "text": "Of fame, and worldly pleasure."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O build on the Rock, for ever sure,"
+        },
+        {
+          "number": 2,
+          "text": "The firm and the true foundation;"
+        },
+        {
+          "number": 3,
+          "text": "Its hope is the hope which shall endure,"
+        },
+        {
+          "number": 4,
+          "text": "The hope of our salvation."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "We'll Build on the Rock"
+}

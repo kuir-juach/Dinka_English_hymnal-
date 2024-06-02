@@ -1,0 +1,88 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Turn your eyes upon Jesus,"
+      },
+      {
+        "number": 2,
+        "text": "Look full in His wonderful face,"
+      },
+      {
+        "number": 3,
+        "text": "And the things of earth will grow strangely dim,"
+      },
+      {
+        "number": 4,
+        "text": "In the light of His glory and grace."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O soul, are you weary and troubled?"
+        },
+        {
+          "number": 2,
+          "text": "No light in the darkness you see?"
+        },
+        {
+          "number": 3,
+          "text": "There’s light for a look at the Savior,"
+        },
+        {
+          "number": 4,
+          "text": "And life more abundant and free!"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Through death into life everlasting"
+        },
+        {
+          "number": 2,
+          "text": "He passed, and we follow Him there;"
+        },
+        {
+          "number": 3,
+          "text": "Over us sin no more hath dominion—"
+        },
+        {
+          "number": 4,
+          "text": "For more than conquerors we are!"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "His Word shall not fail you—He promised;"
+        },
+        {
+          "number": 2,
+          "text": "Believe Him, and all will be well:"
+        },
+        {
+          "number": 3,
+          "text": "Then go to a world that is dying,"
+        },
+        {
+          "number": 4,
+          "text": "His perfect salvation to tell!"
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Turn Your Eyes Upon Jesus"
+}

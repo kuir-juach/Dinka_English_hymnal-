@@ -1,0 +1,109 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Till we meet, till we meet,"
+      },
+      {
+        "number": 2,
+        "text": "Till we meet at Jesus’ feet;"
+      },
+      {
+        "number": 3,
+        "text": "Till we meet, till we meet,"
+      },
+      {
+        "number": 4,
+        "text": "God be with you till we meet again."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "God be with you till we meet again;"
+        },
+        {
+          "number": 2,
+          "text": "By His counsels guide, uphold you,"
+        },
+        {
+          "number": 3,
+          "text": "With His sheep securely fold you;"
+        },
+        {
+          "number": 4,
+          "text": "God be with you till we meet again."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "God be with you till we meet again;"
+        },
+        {
+          "number": 2,
+          "text": "‘Neath His wings securely hide you;"
+        },
+        {
+          "number": 3,
+          "text": "Daily manna still provide you;"
+        },
+        {
+          "number": 4,
+          "text": "God be with you till we meet again."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "God be with you till we meet again;"
+        },
+        {
+          "number": 2,
+          "text": "When life’s perils thick confound you;"
+        },
+        {
+          "number": 3,
+          "text": "Put His arms unfailing round you;"
+        },
+        {
+          "number": 4,
+          "text": "God be with you till we meet again."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "God be with you till we meet again;"
+        },
+        {
+          "number": 2,
+          "text": "Keep love’s banner floating over you,"
+        },
+        {
+          "number": 3,
+          "text": "Strike death’s threatening wave before you;"
+        },
+        {
+          "number": 4,
+          "text": "God be with you till we meet again."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "God Be With You"
+}

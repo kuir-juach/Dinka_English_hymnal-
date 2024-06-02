@@ -1,0 +1,130 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "O star of wonder, star of night,"
+      },
+      {
+        "number": 2,
+        "text": "Star with royal beauty bright,"
+      },
+      {
+        "number": 3,
+        "text": "Westward leading, still proceeding,"
+      },
+      {
+        "number": 4,
+        "text": "Guide us to Thy perfect light."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "We three kings of Orient are;"
+        },
+        {
+          "number": 2,
+          "text": "Bearing gifts we traverse afar"
+        },
+        {
+          "number": 3,
+          "text": "Field and fountain, moor and mountain,"
+        },
+        {
+          "number": 4,
+          "text": "Following yonder star."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Born a King on Bethlehem’s plain,"
+        },
+        {
+          "number": 2,
+          "text": "Gold I bring to crown Him again,"
+        },
+        {
+          "number": 3,
+          "text": "King forever, ceasing never"
+        },
+        {
+          "number": 4,
+          "text": "Over us all to reign."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Frankincense to offer have I;"
+        },
+        {
+          "number": 2,
+          "text": "Incense owns a Deity nigh;"
+        },
+        {
+          "number": 3,
+          "text": "Prayer and praising all men raising,"
+        },
+        {
+          "number": 4,
+          "text": "Worship Him, God on high."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Myrrh is mine; its bitter perfume"
+        },
+        {
+          "number": 2,
+          "text": "Breathes a life of gathering gloom:"
+        },
+        {
+          "number": 3,
+          "text": "Sorrowing, sighing, bleeding, dying,"
+        },
+        {
+          "number": 4,
+          "text": "Sealed in the stonecold tomb."
+        }
+      ],
+      "number": 4
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Glorious now behold Him arise,"
+        },
+        {
+          "number": 2,
+          "text": "King and God and sacrifice;"
+        },
+        {
+          "number": 3,
+          "text": "Alleluia, Alleluia!"
+        },
+        {
+          "number": 4,
+          "text": "Sounds through the earth and skies."
+        }
+      ],
+      "number": 5
+    }
+  ],
+  "title": "We Three Kings"
+}

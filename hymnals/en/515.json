@@ -1,0 +1,109 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "The Lord is my light, my joy, and my song;"
+      },
+      {
+        "number": 2,
+        "text": "By day and by night He leads me along;"
+      },
+      {
+        "number": 3,
+        "text": "The Lord is my light, my joy, and my song;"
+      },
+      {
+        "number": 4,
+        "text": "By day and by night He leads me along."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "The Lord is my light; then why should I fear?"
+        },
+        {
+          "number": 2,
+          "text": "By day and by night His presence is near;"
+        },
+        {
+          "number": 3,
+          "text": "He is my salvation from sorrow and sin;"
+        },
+        {
+          "number": 4,
+          "text": "This blessed persuasion the Spirit brings in."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "The Lord is my light; though clods may arise,"
+        },
+        {
+          "number": 2,
+          "text": "Faith, stronger than sight, looks up to the skies"
+        },
+        {
+          "number": 3,
+          "text": "Where Jesus forever in glory doth reign:"
+        },
+        {
+          "number": 4,
+          "text": "Then how can I ever in darkness remain?"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "The Lord is my light, the Lord is my strength;"
+        },
+        {
+          "number": 2,
+          "text": "I know in His might I’ll conquer at length;"
+        },
+        {
+          "number": 3,
+          "text": "My weakness in mercy He covers with power,"
+        },
+        {
+          "number": 4,
+          "text": "And, walking by faith, He upholds me each hour."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "The lord is my light, my all and in all;"
+        },
+        {
+          "number": 2,
+          "text": "There is in His sight no darkness at all;"
+        },
+        {
+          "number": 3,
+          "text": "He is my Redeemer, my Savior and King;"
+        },
+        {
+          "number": 4,
+          "text": "With saints and with angels His praises I sing."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "The Lord Is My Light"
+}

@@ -1,0 +1,89 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Hail the day that sees Him rise, Alleluia!"
+        },
+        {
+          "number": 2,
+          "text": "Glorious to His native skies; Alleluia!"
+        },
+        {
+          "number": 3,
+          "text": "Christ, awhile to mortals giv’n, Alleluia!"
+        },
+        {
+          "number": 4,
+          "text": "Enters now the highest heav’n! Alleluia!"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "There the glorious triumph waits; Alleluia!"
+        },
+        {
+          "number": 2,
+          "text": "Lift your heads, eternal gates! Alleluia!"
+        },
+        {
+          "number": 3,
+          "text": "Wide unfold the radiant scene; Alleluia!"
+        },
+        {
+          "number": 4,
+          "text": "Take the King of glory in! Alleluia!"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "See! He lifts His hands above; Alleluia!"
+        },
+        {
+          "number": 2,
+          "text": "See! He shows the prints of love: Alleluia!"
+        },
+        {
+          "number": 3,
+          "text": "Hark! His gracious lips bestow, Alleluia!"
+        },
+        {
+          "number": 4,
+          "text": "Blessings on His Church below. Alleluia!"
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Lord beyond our mortal sight, Alleluia!"
+        },
+        {
+          "number": 2,
+          "text": "Raise our hearts to reach Thy height, Alleluia!"
+        },
+        {
+          "number": 3,
+          "text": "There Thy face unclouded see, Alleluia!"
+        },
+        {
+          "number": 4,
+          "text": "Find our heav’n of heav’ns in Thee. Alleluia!"
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Hail the Day That Sees Him Rise"
+}

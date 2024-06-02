@@ -1,0 +1,88 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "He will come, let us watch and be ready;"
+      },
+      {
+        "number": 2,
+        "text": "He will come, hallelujah! hallelujah!"
+      },
+      {
+        "number": 3,
+        "text": "He will come in the clouds of His Father’s"
+      },
+      {
+        "number": 4,
+        "text": "bright glory but we know not the hour."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "We know not the hour of the Master’s appearing;"
+        },
+        {
+          "number": 2,
+          "text": "Yet signs all foretell that the moment is nearing"
+        },
+        {
+          "number": 3,
+          "text": "When He shall return ’tis the promise most cheering"
+        },
+        {
+          "number": 4,
+          "text": "But we know not the hour."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "There’s light for the wise who are seeking salvation;"
+        },
+        {
+          "number": 2,
+          "text": "There’s truth in the book of the Lord’s revelation;"
+        },
+        {
+          "number": 3,
+          "text": "Each prophecy points to the great consummation"
+        },
+        {
+          "number": 4,
+          "text": "But we know not the hour."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "We’ll watch and we’ll pray, with our lamps trimmed and burning;"
+        },
+        {
+          "number": 2,
+          "text": "We’ll work and we’ll wait till the Master’s returning;"
+        },
+        {
+          "number": 3,
+          "text": "We’ll sing and rejoice, every omen discerning"
+        },
+        {
+          "number": 4,
+          "text": "But we know not the hour."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "We Know Not the Hour"
+}

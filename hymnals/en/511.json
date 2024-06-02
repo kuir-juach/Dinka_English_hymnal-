@@ -1,0 +1,69 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "But “I know whom I have believed, and am persuaded that His is able"
+      },
+      {
+        "number": 2,
+        "text": "To keep that which I’ve committed Unto Him against that day.”"
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I know not why God’s wondrous grace To me He hath made known,"
+        },
+        {
+          "number": 2,
+          "text": "Nor why, unworthy, Christ in love Redeemed me for His own."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I know not how this saving faith To me He did impart,"
+        },
+        {
+          "number": 2,
+          "text": "Nor how believing in His word Wrought peace within my heart."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I know not how the Spirit moves, Convincing men of sin,"
+        },
+        {
+          "number": 2,
+          "text": "Revealing Jesus through the word, Creating faith in Him."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I know not when my Lord may come, At night or noonday fair,"
+        },
+        {
+          "number": 2,
+          "text": "Nor if I walk the vale with Him, Or meet Him in the air."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "I Know Whom I Have Believed"
+}

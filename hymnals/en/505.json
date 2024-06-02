@@ -1,0 +1,88 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "I want my friends to pray for me,"
+      },
+      {
+        "number": 2,
+        "text": "To bear my tempted soul above,"
+      },
+      {
+        "number": 3,
+        "text": "And intercede with God for me;"
+      },
+      {
+        "number": 4,
+        "text": "I need the prayers of those I love."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I need the prayers of those I love,"
+        },
+        {
+          "number": 2,
+          "text": "While trav’ling o’er life’s rugged way,"
+        },
+        {
+          "number": 3,
+          "text": "That I may true and faithful be,"
+        },
+        {
+          "number": 4,
+          "text": "And live for Jesus every day."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I need the prayers of those I love,"
+        },
+        {
+          "number": 2,
+          "text": "To help me in each trying hour,"
+        },
+        {
+          "number": 3,
+          "text": "To bear my tempted sould to Him,"
+        },
+        {
+          "number": 4,
+          "text": "That He may keep me by His pow’r."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I want my friends to pray for me,"
+        },
+        {
+          "number": 2,
+          "text": "To hold me up on wing of faith,"
+        },
+        {
+          "number": 3,
+          "text": "That I may walk the narrow way,"
+        },
+        {
+          "number": 4,
+          "text": "Kept by our Father’s glorious grace."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "I Need the Prayers"
+}

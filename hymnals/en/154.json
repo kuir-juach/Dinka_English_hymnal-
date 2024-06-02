@@ -1,0 +1,89 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "When I survey the wondrous cross"
+        },
+        {
+          "number": 2,
+          "text": "on which the Prince of Glory died;"
+        },
+        {
+          "number": 3,
+          "text": "my richest gain I count but loss,"
+        },
+        {
+          "number": 4,
+          "text": "and pour contempt on all my pride."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Forbid it, Lord, that I should boast,"
+        },
+        {
+          "number": 2,
+          "text": "save in the death of Christ, my God;"
+        },
+        {
+          "number": 3,
+          "text": "all the vain things that charm me most,"
+        },
+        {
+          "number": 4,
+          "text": "I sacrifice them to his blood."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "See, from his head, his hands, his feet,"
+        },
+        {
+          "number": 2,
+          "text": "sorrow and love flow mingled down."
+        },
+        {
+          "number": 3,
+          "text": "Did e’er such love and sorrow meet,"
+        },
+        {
+          "number": 4,
+          "text": "or thorns compose so rich a crown."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Were the whole realm of nature mine,"
+        },
+        {
+          "number": 2,
+          "text": "that were an offering far too small;"
+        },
+        {
+          "number": 3,
+          "text": "love so amazing, so divine,"
+        },
+        {
+          "number": 4,
+          "text": "demands my soul, my life, my all."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "When I Survey the Wondrous Cross"
+}

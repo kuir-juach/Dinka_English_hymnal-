@@ -1,0 +1,68 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Away in a manger, no crib for a bed,"
+        },
+        {
+          "number": 2,
+          "text": "The little Lord Jesus laid down his sweet head."
+        },
+        {
+          "number": 3,
+          "text": "The stars in the sky looked down where he lay,"
+        },
+        {
+          "number": 4,
+          "text": "The little Lord Jesus asleep in the hay."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "The cattle are lowing, the baby awakes,"
+        },
+        {
+          "number": 2,
+          "text": "But little Lord Jesus no crying he makes."
+        },
+        {
+          "number": 3,
+          "text": "I love Thee, Lord Jesus, look down from the sky"
+        },
+        {
+          "number": 4,
+          "text": "And stay by my cradle til morning is nigh."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Be near me, Lord Jesus, I ask Thee to stay"
+        },
+        {
+          "number": 2,
+          "text": "Close by me forever, and love me, I pray."
+        },
+        {
+          "number": 3,
+          "text": "Bless all the dear children in thy tender care,"
+        },
+        {
+          "number": 4,
+          "text": "And take us to heaven, to live with Thee there."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Away in a Manger"
+}

@@ -1,0 +1,75 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "O, the wonder of it all!"
+      },
+      {
+        "number": 2,
+        "text": "The wonder of it all!"
+      },
+      {
+        "number": 3,
+        "text": "Just to think that God loves me."
+      },
+      {
+        "number": 4,
+        "text": "O, the wonder of it all!"
+      },
+      {
+        "number": 5,
+        "text": "The wonder of it all!"
+      },
+      {
+        "number": 6,
+        "text": "Just to think that God loves me."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "There’s the wonder of sunset at evening,"
+        },
+        {
+          "number": 2,
+          "text": "The wonder as sunrise I see;"
+        },
+        {
+          "number": 3,
+          "text": "But the wonder of wonders that thrills my soul"
+        },
+        {
+          "number": 4,
+          "text": "Is the wonder that God loves me."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "There’s the wonder of springtime and harvest,"
+        },
+        {
+          "number": 2,
+          "text": "The sky, the stars, the sun;"
+        },
+        {
+          "number": 3,
+          "text": "But the wonder of wonders that thrills my soul"
+        },
+        {
+          "number": 4,
+          "text": "Is the wonder that’s only begun."
+        }
+      ],
+      "number": 2
+    }
+  ],
+  "title": "The Wonder of It All"
+}

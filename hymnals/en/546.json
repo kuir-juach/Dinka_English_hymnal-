@@ -1,0 +1,150 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "The Lord’s my shepherd, I’ll not want"
+        },
+        {
+          "number": 2,
+          "text": "He makes me down to lie"
+        },
+        {
+          "number": 3,
+          "text": "In pastures green; he leadeth me"
+        },
+        {
+          "number": 4,
+          "text": "The quiet waters by."
+        },
+        {
+          "number": 5,
+          "text": "He leadeth me, He leadeth me"
+        },
+        {
+          "number": 6,
+          "text": "The quiet waters by."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "My soul he doth restore again"
+        },
+        {
+          "number": 2,
+          "text": "And me to walk doth make"
+        },
+        {
+          "number": 3,
+          "text": "Within the paths of righteousness"
+        },
+        {
+          "number": 4,
+          "text": "Even for his own name’s sake."
+        },
+        {
+          "number": 5,
+          "text": "Within the paths of righteousness"
+        },
+        {
+          "number": 6,
+          "text": "Even for his own name’s sake."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Yea, though I walk through death’s dark vale"
+        },
+        {
+          "number": 2,
+          "text": "Yet will I fear no ill"
+        },
+        {
+          "number": 3,
+          "text": "For thou art with me, and thy rod"
+        },
+        {
+          "number": 4,
+          "text": "And staff me comfort still."
+        },
+        {
+          "number": 5,
+          "text": "For thou art with me, and thy rod"
+        },
+        {
+          "number": 6,
+          "text": "And staff me comfort still."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "My table thou has furnished"
+        },
+        {
+          "number": 2,
+          "text": "In presence of my foes;"
+        },
+        {
+          "number": 3,
+          "text": "My head thou dost with oil anoint"
+        },
+        {
+          "number": 4,
+          "text": "And my cup overflows."
+        },
+        {
+          "number": 5,
+          "text": "My head thou dost with oil anoint"
+        },
+        {
+          "number": 6,
+          "text": "And my cup overflows."
+        }
+      ],
+      "number": 4
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Goodness and mercy all my life"
+        },
+        {
+          "number": 2,
+          "text": "Shall surely follow me,"
+        },
+        {
+          "number": 3,
+          "text": "And in God’s house for evermore"
+        },
+        {
+          "number": 4,
+          "text": "My dwelling-place shall be."
+        },
+        {
+          "number": 5,
+          "text": "And in God’s house for evermore"
+        },
+        {
+          "number": 6,
+          "text": "My dwelling-place shall be."
+        }
+      ],
+      "number": 5
+    }
+  ],
+  "title": "The Lord's My Shepherd"
+}

@@ -1,0 +1,80 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Than to be the king of a vast domain or be held in sin’s dread sway!"
+      },
+      {
+        "number": 2,
+        "text": "I’d rather have Jesus than anything this world affords today."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I’d rather have Jesus than silver or gold;"
+        },
+        {
+          "number": 2,
+          "text": "I’d rather be His than have riches untold;"
+        },
+        {
+          "number": 3,
+          "text": "I’d rather have Jesus than houses or land;"
+        },
+        {
+          "number": 4,
+          "text": "I’d rather be led by His nail-pierced hand:"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I’d rather have Jesus than men’s applause;"
+        },
+        {
+          "number": 2,
+          "text": "I’d rather be faithful to His dear cause;"
+        },
+        {
+          "number": 3,
+          "text": "I’d rather have Jesus than world-wide fame;"
+        },
+        {
+          "number": 4,
+          "text": "I’d rather be true to His holy name:"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "He’s fairer than lilies of rarest bloom;"
+        },
+        {
+          "number": 2,
+          "text": "He’s sweeter than honey from out the comb;"
+        },
+        {
+          "number": 3,
+          "text": "He’s all that my hungering spirit needs –"
+        },
+        {
+          "number": 4,
+          "text": "I’d rather have Jesus and let Him lead:"
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "I'd Rather Have Jesus"
+}

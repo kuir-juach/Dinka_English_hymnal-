@@ -1,0 +1,88 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "I will sing of Jesus love"
+      },
+      {
+        "number": 2,
+        "text": "Endless praise my heart shall give;"
+      },
+      {
+        "number": 3,
+        "text": "He has died that I might live"
+      },
+      {
+        "number": 4,
+        "text": "I will sing His love to me."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I Will sing of Jesus love,"
+        },
+        {
+          "number": 2,
+          "text": "Sing of Him,who first loved me;"
+        },
+        {
+          "number": 3,
+          "text": "for He left bright worlds above,"
+        },
+        {
+          "number": 4,
+          "text": "And died on Calvary."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O the depths of love divine!"
+        },
+        {
+          "number": 2,
+          "text": "Earth or heaven can never know"
+        },
+        {
+          "number": 3,
+          "text": "How that sin as dark as mine"
+        },
+        {
+          "number": 4,
+          "text": "can be made as white as snow."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Nothing good for Him I’ve done;"
+        },
+        {
+          "number": 2,
+          "text": "How could He such love bestow?"
+        },
+        {
+          "number": 3,
+          "text": "Lord, I own my heart is won,"
+        },
+        {
+          "number": 4,
+          "text": "help me now my love to show."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "I Will Sing of Jesus' Love"
+}

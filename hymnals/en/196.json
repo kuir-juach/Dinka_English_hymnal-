@@ -1,0 +1,80 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Tell me the old, old story, tell me the old, old story,"
+      },
+      {
+        "number": 2,
+        "text": "Tell me the old, old story, of Jesus and His love."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Tell me the old, old story of unseen things above,"
+        },
+        {
+          "number": 2,
+          "text": "Of Jesus and His glory, of Jesus and His love."
+        },
+        {
+          "number": 3,
+          "text": "Tell me the story simply, as to a little child,"
+        },
+        {
+          "number": 4,
+          "text": "For I am weak and weary, and helpless and defiled."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Tell me the story softly, with earnest tones and grave;"
+        },
+        {
+          "number": 2,
+          "text": "Remember I’m the sinner whom Jesus came to save."
+        },
+        {
+          "number": 3,
+          "text": "Tell me the story always, if you would really be,"
+        },
+        {
+          "number": 4,
+          "text": "In any time of trouble, a comforter to me."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Tell me the same old story when you have cause to fear"
+        },
+        {
+          "number": 2,
+          "text": "That this world’s empty glory is costing me too dear."
+        },
+        {
+          "number": 3,
+          "text": "Yes, and when that world’s glory is dawning on my soul,"
+        },
+        {
+          "number": 4,
+          "text": "Tell me the old, old story: “Christ Jesus makes thee whole.”"
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Tell Me the Old, Old Story"
+}

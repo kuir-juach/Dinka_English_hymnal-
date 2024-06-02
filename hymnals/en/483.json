@@ -1,0 +1,73 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "I need thee, O I need thee;"
+      },
+      {
+        "number": 2,
+        "text": "every hour I need thee;"
+      },
+      {
+        "number": 3,
+        "text": "O bless me now, my Savior, I come to thee."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I need thee every hour, most gracious Lord;"
+        },
+        {
+          "number": 2,
+          "text": "no tender voice like thine can peace afford."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I need thee every hour; stay thou nearby;"
+        },
+        {
+          "number": 2,
+          "text": "temptations lose their power when thou art nigh."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I need thee every hour, in joy or pain;"
+        },
+        {
+          "number": 2,
+          "text": "come quickly and abide, or life is vain."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I need thee every hour; teach me thy will;"
+        },
+        {
+          "number": 2,
+          "text": "and thy rich promises in me fulfill."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "I Need Thee Every Hour"
+}

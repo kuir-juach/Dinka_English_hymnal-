@@ -1,0 +1,88 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Under His wings, under His wings,"
+      },
+      {
+        "number": 2,
+        "text": "Who from His love can sever?"
+      },
+      {
+        "number": 3,
+        "text": "Under His wings, my soul shall abide,"
+      },
+      {
+        "number": 4,
+        "text": "Safely abide forever."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Under His wings I am safely abiding;"
+        },
+        {
+          "number": 2,
+          "text": "Though the night deepens and tempests are wild,"
+        },
+        {
+          "number": 3,
+          "text": "Still I can trust Him; I know He will keep me;"
+        },
+        {
+          "number": 4,
+          "text": "he has redeemed me, and I am His child."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Under His wings, what a refuge in sorrow!"
+        },
+        {
+          "number": 2,
+          "text": "How the heart yearningly turns to its rest!"
+        },
+        {
+          "number": 3,
+          "text": "Often when earth has no balm for my healing,"
+        },
+        {
+          "number": 4,
+          "text": "There I find comfort, and there I am blest."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Under His wings, O what precious enjoyment!"
+        },
+        {
+          "number": 2,
+          "text": "There will I hide till life’s trials are over;"
+        },
+        {
+          "number": 3,
+          "text": "Sheltered, protected, no evil can harm me;"
+        },
+        {
+          "number": 4,
+          "text": "Resting in Jesus I’m safe evermore."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Under His Wings"
+}

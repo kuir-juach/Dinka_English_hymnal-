@@ -1,0 +1,112 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Beautiful words, wonderful words,"
+      },
+      {
+        "number": 2,
+        "text": "wonderful words of life,"
+      },
+      {
+        "number": 3,
+        "text": "Beautiful words, wonderful words,"
+      },
+      {
+        "number": 4,
+        "text": "wonderful words of life."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Sing them over again to me,"
+        },
+        {
+          "number": 2,
+          "text": "wonderful words of life,"
+        },
+        {
+          "number": 3,
+          "text": "Let me more of their beauty see,"
+        },
+        {
+          "number": 4,
+          "text": "wonderful words of life;"
+        },
+        {
+          "number": 5,
+          "text": "Words of life and beauty"
+        },
+        {
+          "number": 6,
+          "text": "teach me faith and duty."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Christ, the blessèd One, gives to all"
+        },
+        {
+          "number": 2,
+          "text": "wonderful words of life;"
+        },
+        {
+          "number": 3,
+          "text": "Sinner, list to the loving call,"
+        },
+        {
+          "number": 4,
+          "text": "wonderful words of life;"
+        },
+        {
+          "number": 5,
+          "text": "All so freely given,"
+        },
+        {
+          "number": 6,
+          "text": "wooing us to heaven."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Sweetly echo the Gospel call,"
+        },
+        {
+          "number": 2,
+          "text": "wonderful words of life;"
+        },
+        {
+          "number": 3,
+          "text": "Offer pardon and peace to all,"
+        },
+        {
+          "number": 4,
+          "text": "wonderful words of life;"
+        },
+        {
+          "number": 5,
+          "text": "Jesus, only Savior,"
+        },
+        {
+          "number": 6,
+          "text": "sanctify forever."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Wonderful Words of Life"
+}

@@ -1,0 +1,105 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "In the cross, in the cross,"
+      },
+      {
+        "number": 2,
+        "text": "be my glory ever,"
+      },
+      {
+        "number": 3,
+        "text": "till my raptured soul shall find"
+      },
+      {
+        "number": 4,
+        "text": "rest beyond the river."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Jesus, keep me near the cross;"
+        },
+        {
+          "number": 2,
+          "text": "there a precious fountain,"
+        },
+        {
+          "number": 3,
+          "text": "free to all, a healing stream,"
+        },
+        {
+          "number": 4,
+          "text": "flows from Calvary’s mountain."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Near the cross, a trembling soul,"
+        },
+        {
+          "number": 2,
+          "text": "love and mercy found me;"
+        },
+        {
+          "number": 3,
+          "text": "there the bright and morning star"
+        },
+        {
+          "number": 4,
+          "text": "sheds its beams around me."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Near the cross! O Lamb of God,"
+        },
+        {
+          "number": 2,
+          "text": "bring its scenes before me;"
+        },
+        {
+          "number": 3,
+          "text": "help me walk from day to day"
+        },
+        {
+          "number": 4,
+          "text": "with its shadow o’er me."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Near the cross I’ll watch and wait,"
+        },
+        {
+          "number": 2,
+          "text": "hoping, trusting ever,"
+        },
+        {
+          "number": 3,
+          "text": "till I reach the golden strand"
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Near the Cross"
+}

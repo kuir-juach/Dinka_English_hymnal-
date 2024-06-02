@@ -1,0 +1,109 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Love so unending!"
+      },
+      {
+        "number": 2,
+        "text": "I’ll sing His praises,"
+      },
+      {
+        "number": 3,
+        "text": "God loves His children,"
+      },
+      {
+        "number": 4,
+        "text": "loves even me."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "For God so loved us,"
+        },
+        {
+          "number": 2,
+          "text": "He sent the Savior:"
+        },
+        {
+          "number": 3,
+          "text": "For God so loved us,"
+        },
+        {
+          "number": 4,
+          "text": "and loves me too."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "He sent the Savior,"
+        },
+        {
+          "number": 2,
+          "text": "the blest Redeemer;"
+        },
+        {
+          "number": 3,
+          "text": "He sent the Savior"
+        },
+        {
+          "number": 4,
+          "text": "to set me free."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "He bade me welcome,"
+        },
+        {
+          "number": 2,
+          "text": "O word of mercy;"
+        },
+        {
+          "number": 3,
+          "text": "He bade me welcome,"
+        },
+        {
+          "number": 4,
+          "text": "O voice divine."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Glory and honor,"
+        },
+        {
+          "number": 2,
+          "text": "O Love eternal,"
+        },
+        {
+          "number": 3,
+          "text": "To Him be given"
+        },
+        {
+          "number": 4,
+          "text": "while life shall last."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "For God So Loved Us"
+}

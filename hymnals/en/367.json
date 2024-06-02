@@ -1,0 +1,80 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Rescue the perishing, care for the dying;"
+      },
+      {
+        "number": 2,
+        "text": "Jesus is merciful, Jesus will save."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Rescue the perishing, care for the dying,"
+        },
+        {
+          "number": 2,
+          "text": "snatch them in pity from sin and the grave;"
+        },
+        {
+          "number": 3,
+          "text": "weep o’er the erring one, lift up the fallen,"
+        },
+        {
+          "number": 4,
+          "text": "tell them of Jesus, the mighty to save."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Though they are slighting him, still he is waiting,"
+        },
+        {
+          "number": 2,
+          "text": "waiting the penitent child to receive;"
+        },
+        {
+          "number": 3,
+          "text": "plead with them earnestly, plead with them gently;"
+        },
+        {
+          "number": 4,
+          "text": "he will forgive if they only believe."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Rescue the perishing, duty demands it;"
+        },
+        {
+          "number": 2,
+          "text": "strength for thy labor the Lord will provide;"
+        },
+        {
+          "number": 3,
+          "text": "back to the narrow way patiently win them;"
+        },
+        {
+          "number": 4,
+          "text": "tell the poor wanderer a Savior has died."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Rescue the Perishing"
+}

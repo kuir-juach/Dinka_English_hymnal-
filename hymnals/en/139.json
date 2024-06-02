@@ -1,0 +1,131 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "While shepherds watched their flocks by night,"
+        },
+        {
+          "number": 2,
+          "text": "All seated on the ground,"
+        },
+        {
+          "number": 3,
+          "text": "The angel of the Lord came down,"
+        },
+        {
+          "number": 4,
+          "text": "And glory shone around."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "“Fear nor!” said he- for mighty dread"
+        },
+        {
+          "number": 2,
+          "text": "Had seized their troubled mind-"
+        },
+        {
+          "number": 3,
+          "text": "“Glad tidings of great joy I bring,"
+        },
+        {
+          "number": 4,
+          "text": "To you and all mankind."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "“To you, in David’s town this day,"
+        },
+        {
+          "number": 2,
+          "text": "Is born of David’s line,"
+        },
+        {
+          "number": 3,
+          "text": "The Savior who is Christ the Lord;"
+        },
+        {
+          "number": 4,
+          "text": "And this shall be the sign:"
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "“The heavenly Babe you there shall find"
+        },
+        {
+          "number": 2,
+          "text": "To human view displayed,"
+        },
+        {
+          "number": 3,
+          "text": "All meanly wrapped in swathing bands,"
+        },
+        {
+          "number": 4,
+          "text": "And in a manger laid.”"
+        }
+      ],
+      "number": 4
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Thus spake the seraph; and forth with"
+        },
+        {
+          "number": 2,
+          "text": "Appeared a shining throng"
+        },
+        {
+          "number": 3,
+          "text": "Of angels praising God on high,"
+        },
+        {
+          "number": 4,
+          "text": "Who thus addressed their song:"
+        }
+      ],
+      "number": 5
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "“All glory be to God on high,"
+        },
+        {
+          "number": 2,
+          "text": "And to the earth be peace;"
+        },
+        {
+          "number": 3,
+          "text": "Good will henceforth from heaven to men,"
+        },
+        {
+          "number": 4,
+          "text": "Begin and never cease!”"
+        }
+      ],
+      "number": 6
+    }
+  ],
+  "title": "While Shepherds Watched Their Flocks"
+}

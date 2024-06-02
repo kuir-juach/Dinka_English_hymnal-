@@ -1,0 +1,80 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "It is well with my soul,"
+      },
+      {
+        "number": 2,
+        "text": "it is well, it is well with my soul."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "When peace, like a river, attendeth my way,"
+        },
+        {
+          "number": 2,
+          "text": "when sorrows like sea billows roll;"
+        },
+        {
+          "number": 3,
+          "text": "whatever my lot, thou hast taught me to say,"
+        },
+        {
+          "number": 4,
+          "text": "It is well, it is well with my soul."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "My sin–oh, the joy of this glorious thought–"
+        },
+        {
+          "number": 2,
+          "text": "My sin, not in part but the whole,"
+        },
+        {
+          "number": 3,
+          "text": "is nailed to the cross, and I bear it no more,"
+        },
+        {
+          "number": 4,
+          "text": "praise the Lord, praise the Lord, O my soul!"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "And, Lord, haste the day when my faith shall be sight,"
+        },
+        {
+          "number": 2,
+          "text": "the clouds be rolled back as a scroll;"
+        },
+        {
+          "number": 3,
+          "text": "the trump shall resound, and the Lord shall descend,"
+        },
+        {
+          "number": 4,
+          "text": "even so, it is well with my soul."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "It Is Well With My Soul"
+}

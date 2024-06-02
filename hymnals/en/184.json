@@ -1,0 +1,109 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Jesus paid it all,"
+      },
+      {
+        "number": 2,
+        "text": "All to Him I owe;"
+      },
+      {
+        "number": 3,
+        "text": "Sin had left a crimson stain,"
+      },
+      {
+        "number": 4,
+        "text": "He washed it white as snow."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I hear the Savior say,"
+        },
+        {
+          "number": 2,
+          "text": "“Thy strength indeed is small;"
+        },
+        {
+          "number": 3,
+          "text": "Child of weakness, watch and pray,"
+        },
+        {
+          "number": 4,
+          "text": "Find in Me thine all in all.”"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Lord, now indeed I find"
+        },
+        {
+          "number": 2,
+          "text": "Thy power and Thine alone,"
+        },
+        {
+          "number": 3,
+          "text": "Can change the leper’s spots"
+        },
+        {
+          "number": 4,
+          "text": "And melt the heart of stone."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Since nothing good have I"
+        },
+        {
+          "number": 2,
+          "text": "Whereby Thy grace to claim,"
+        },
+        {
+          "number": 3,
+          "text": "I’ll wash my garments white"
+        },
+        {
+          "number": 4,
+          "text": "In the blood of Calv’ry’s Lamb."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "And when before the throne"
+        },
+        {
+          "number": 2,
+          "text": "I stand in Him complete,"
+        },
+        {
+          "number": 3,
+          "text": "I’ll lay my trophies down"
+        },
+        {
+          "number": 4,
+          "text": "All down at Jesus’ feet."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Jesus Paid It All"
+}

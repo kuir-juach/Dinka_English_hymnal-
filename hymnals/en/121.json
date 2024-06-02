@@ -1,0 +1,88 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Go, tell it on the mountain,"
+      },
+      {
+        "number": 2,
+        "text": "Over the hills and everywhere:"
+      },
+      {
+        "number": 3,
+        "text": "Go, tell it on the mountain"
+      },
+      {
+        "number": 4,
+        "text": "That Jesus Christ is born!"
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "While shepherds kept their watching"
+        },
+        {
+          "number": 2,
+          "text": "O’er silent flocks by night,"
+        },
+        {
+          "number": 3,
+          "text": "Behold throughout the heavens"
+        },
+        {
+          "number": 4,
+          "text": "There shone a holy light."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "The shepherds feared and trembled"
+        },
+        {
+          "number": 2,
+          "text": "When lo! Above the earth"
+        },
+        {
+          "number": 3,
+          "text": "Rang out the angel chorus"
+        },
+        {
+          "number": 4,
+          "text": "That hailed our Savior’s birth."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Down in a lowly manger"
+        },
+        {
+          "number": 2,
+          "text": "The humble Christ was born,"
+        },
+        {
+          "number": 3,
+          "text": "And brought us God’s salvation"
+        },
+        {
+          "number": 4,
+          "text": "That blessed Christmas morn."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Go, Tell It On the Mountain"
+}

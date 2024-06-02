@@ -1,0 +1,67 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "But until then, my heart will go on singing,"
+      },
+      {
+        "number": 2,
+        "text": "Until then, with joy I’ll carry on,"
+      },
+      {
+        "number": 3,
+        "text": "Until the day my eyes behold the city,"
+      },
+      {
+        "number": 4,
+        "text": "Until the day God calls me home."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "My heart can sing when I pause to remember,"
+        },
+        {
+          "number": 2,
+          "text": "A heartache here is but a stepping stone."
+        },
+        {
+          "number": 3,
+          "text": "Along a trail, thats winding always upward,"
+        },
+        {
+          "number": 4,
+          "text": "This troubled world, is not my final home."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "The things of earth will dim and lose their value,"
+        },
+        {
+          "number": 2,
+          "text": "If we recall they’re borrowed for awhile;"
+        },
+        {
+          "number": 3,
+          "text": "And things of earth that cause the heart to tremble,"
+        },
+        {
+          "number": 4,
+          "text": "Remembered there, will only bring a smile."
+        }
+      ],
+      "number": 2
+    }
+  ],
+  "title": "Until Then"
+}

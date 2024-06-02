@@ -1,0 +1,44 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Let us praise the name of the Lord!"
+        },
+        {
+          "number": 2,
+          "text": "Give Him glory, Amen."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Go ye into all the world."
+        },
+        {
+          "number": 2,
+          "text": "Alleluia, Amen."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Amen, amen,"
+        },
+        {
+          "number": 2,
+          "text": "Amen, amen."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Let Us Praise the Name of the Lord"
+}

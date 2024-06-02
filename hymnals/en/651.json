@@ -1,0 +1,68 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Happy the home that welcomes You, Lord Jesus,"
+        },
+        {
+          "number": 2,
+          "text": "Truest of friends, most honored guest of all,"
+        },
+        {
+          "number": 3,
+          "text": "Where hearts and eyes are bright with joy to greet You,"
+        },
+        {
+          "number": 4,
+          "text": "Your lightest wishes eager to fulfill."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Happy the home where men and wife together"
+        },
+        {
+          "number": 2,
+          "text": "Are of one mind believing in Your love:"
+        },
+        {
+          "number": 3,
+          "text": "Through love and pain, prosperity and hardship,"
+        },
+        {
+          "number": 4,
+          "text": "Through good and evil days Your care they prove."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Happy the home, O loving Friend of children,"
+        },
+        {
+          "number": 2,
+          "text": "Where they are giv’n to You with hands of prayer,"
+        },
+        {
+          "number": 3,
+          "text": "Where at Your feet they early learn to listen"
+        },
+        {
+          "number": 4,
+          "text": "To Your own words, and thank You for Your care."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Happy the Home That Welcomes You"
+}

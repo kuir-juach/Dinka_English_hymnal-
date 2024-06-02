@@ -1,0 +1,68 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Every flow’r that grows, Every brook that flows,"
+        },
+        {
+          "number": 2,
+          "text": "Tell of beauty God has giv’n for me:"
+        },
+        {
+          "number": 3,
+          "text": "Throughout my life may beauty be"
+        },
+        {
+          "number": 4,
+          "text": "Deep within a heart from sin set free."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Gracious Lord above, Looking down in love,"
+        },
+        {
+          "number": 2,
+          "text": "Guide my thoughts, my life, in my walk with Thee,"
+        },
+        {
+          "number": 3,
+          "text": "That day by day the world may see"
+        },
+        {
+          "number": 4,
+          "text": "Christ, the Lord and Savior, lives in me."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "All my earthly days, I shall sing and praise"
+        },
+        {
+          "number": 2,
+          "text": "God the Father, Spirit, and Christ with the Son."
+        },
+        {
+          "number": 3,
+          "text": "Grant faith when life on earth is done,"
+        },
+        {
+          "number": 4,
+          "text": "I shall sing with those whose rest is won."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Every Flower That Grows"
+}

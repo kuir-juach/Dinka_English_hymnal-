@@ -1,0 +1,89 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Give to our God immortal praise;"
+        },
+        {
+          "number": 2,
+          "text": "Mercy and truth are all His ways:"
+        },
+        {
+          "number": 3,
+          "text": "Wonders of grace to God belong,"
+        },
+        {
+          "number": 4,
+          "text": "Repeat His mercies in your song."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Give to the Lord of lords renown,"
+        },
+        {
+          "number": 2,
+          "text": "The King of kings with glory crown:"
+        },
+        {
+          "number": 3,
+          "text": "His mercies ever shall endure"
+        },
+        {
+          "number": 4,
+          "text": "When lords and kings are known no more."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "He sent His Son with power to save"
+        },
+        {
+          "number": 2,
+          "text": "From guilt and darkness and the grave:"
+        },
+        {
+          "number": 3,
+          "text": "Wonders of grace to God belong,"
+        },
+        {
+          "number": 4,
+          "text": "Repeat His mercies in your song."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Thro’ this vain world He guides our feet,"
+        },
+        {
+          "number": 2,
+          "text": "And leads us to His heav’nly seat;"
+        },
+        {
+          "number": 3,
+          "text": "His mercies ever shall endure,"
+        },
+        {
+          "number": 4,
+          "text": "When this vain world shall be no more."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Give to Our god Immortal Praise"
+}

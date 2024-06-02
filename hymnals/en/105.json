@@ -1,0 +1,80 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Sing to the great Jehovah’s praise!"
+        },
+        {
+          "number": 2,
+          "text": "All praise to Him belongs;"
+        },
+        {
+          "number": 3,
+          "text": "Who kindly lengthens out our days,"
+        },
+        {
+          "number": 4,
+          "text": "In spires our choicest songs,"
+        },
+        {
+          "number": 5,
+          "text": "Inspires our choicest songs."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "His providence hath brought us through"
+        },
+        {
+          "number": 2,
+          "text": "Another various year;"
+        },
+        {
+          "number": 3,
+          "text": "We all, with vows and anthems new,"
+        },
+        {
+          "number": 4,
+          "text": "Before our God appear,"
+        },
+        {
+          "number": 5,
+          "text": "Before our God appear."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O God, Thy mercies past we own,"
+        },
+        {
+          "number": 2,
+          "text": "And Thy continued care;"
+        },
+        {
+          "number": 3,
+          "text": "To Thee presenting through Thy Son"
+        },
+        {
+          "number": 4,
+          "text": "What e’er we have and are,"
+        },
+        {
+          "number": 5,
+          "text": "What e’er we have and are."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Sing to the Great Jehovah's Praise"
+}

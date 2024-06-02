@@ -1,0 +1,104 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Praise Him! Praise Him! Tell of His excellent greatness."
+      },
+      {
+        "number": 2,
+        "text": "Praise Him! Praise Him! Ever in joyful song!"
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Praise Him! praise Him! Jesus, our blessed Redeemer!"
+        },
+        {
+          "number": 2,
+          "text": "Sing, O Earth, His wonderful love proclaim!"
+        },
+        {
+          "number": 3,
+          "text": "Hail Him! hail Him! highest archangels in glory;"
+        },
+        {
+          "number": 4,
+          "text": "Strength and honor give to His holy Name!"
+        },
+        {
+          "number": 5,
+          "text": "Like a shepherd, Jesus will guard His children,"
+        },
+        {
+          "number": 6,
+          "text": "In His arms He carries them all day long:"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Praise Him! Praise Him! Jesus, our blessed Redeemer!"
+        },
+        {
+          "number": 2,
+          "text": "For our sins He suffered, and bled, and died."
+        },
+        {
+          "number": 3,
+          "text": "He our Rock, our hope of eternal salvation,"
+        },
+        {
+          "number": 4,
+          "text": "Hail Him! hail Him! Jesus the Crucified."
+        },
+        {
+          "number": 5,
+          "text": "Sound His praises! Jesus who bore our sorrows,"
+        },
+        {
+          "number": 6,
+          "text": "Love unbounded, wonderful, deep and strong."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Praise Him! Praise Him! Jesus, our blessed Redeemer!"
+        },
+        {
+          "number": 2,
+          "text": "Heavenly portals loud with hosannas ring!"
+        },
+        {
+          "number": 3,
+          "text": "Jesus, Savior, reigneth forever and ever."
+        },
+        {
+          "number": 4,
+          "text": "Crown Him! Crown Him! Prophet, and Priest, and King!"
+        },
+        {
+          "number": 5,
+          "text": "Christ is coming! over the world victorious,"
+        },
+        {
+          "number": 6,
+          "text": "Power and glory unto the Lord belong."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Praise Him! Praise Him!"
+}

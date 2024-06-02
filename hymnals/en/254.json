@@ -1,0 +1,109 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Sweetest note in seraph song,"
+      },
+      {
+        "number": 2,
+        "text": "Sweetest name on mortal tongue;"
+      },
+      {
+        "number": 3,
+        "text": "Sweetest carol ever sung,"
+      },
+      {
+        "number": 4,
+        "text": "Jesus, blessed Jesus."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "The great Physician now is near,"
+        },
+        {
+          "number": 2,
+          "text": "The sympathizing Jesus;"
+        },
+        {
+          "number": 3,
+          "text": "He speaks the drooping heart to cheer,"
+        },
+        {
+          "number": 4,
+          "text": "Oh! hear the voice of Jesus."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Your many sins are all forgiven,"
+        },
+        {
+          "number": 2,
+          "text": "Oh! hear the voice of Jesus;"
+        },
+        {
+          "number": 3,
+          "text": "Go on your way in peace to heaven,"
+        },
+        {
+          "number": 4,
+          "text": "And wear a crown with Jesus."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "All glory to the dying Lamb!"
+        },
+        {
+          "number": 2,
+          "text": "I now believe in Jesus;"
+        },
+        {
+          "number": 3,
+          "text": "I love the blessed Savior’s name,"
+        },
+        {
+          "number": 4,
+          "text": "I love the name of Jesus."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "His name dispels my guilt and fear,"
+        },
+        {
+          "number": 2,
+          "text": "No other name but Jesus;"
+        },
+        {
+          "number": 3,
+          "text": "Oh! how my soul delights to hear"
+        },
+        {
+          "number": 4,
+          "text": "The charming name of Jesus."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "The Great Physician Now is Near"
+}

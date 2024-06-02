@@ -1,0 +1,85 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "To the world in kindness given;"
+        },
+        {
+          "number": 2,
+          "text": "Welcome to this humble breast,"
+        },
+        {
+          "number": 3,
+          "text": "As the beaming light from heaven."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Day of calm and sweet repose,"
+        },
+        {
+          "number": 2,
+          "text": "Gently now thy moments run;"
+        },
+        {
+          "number": 3,
+          "text": "Balm to soothe our cares and woes,"
+        },
+        {
+          "number": 4,
+          "text": "Till our labor here is done."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Holy day that most we prize,"
+        },
+        {
+          "number": 2,
+          "text": "Day of solemn praise and prayer,"
+        },
+        {
+          "number": 3,
+          "text": "Day to make the simple wise,"
+        },
+        {
+          "number": 4,
+          "text": "O, how great thy blessings are!"
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Welcome, welcome, day of rest,"
+        },
+        {
+          "number": 2,
+          "text": "With thy influence all divine;"
+        },
+        {
+          "number": 3,
+          "text": "May thy hallowed hours be blessed"
+        },
+        {
+          "number": 4,
+          "text": "to this waiting heart of mine."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Welcome, Welcome, Day of Rest"
+}

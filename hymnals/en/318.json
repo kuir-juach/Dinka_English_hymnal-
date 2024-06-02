@@ -1,0 +1,105 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Whiter than snow, yes, whiter than snow;"
+      },
+      {
+        "number": 2,
+        "text": "Now wash me, and I shall be whiter than snow."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Lord Jesus, I long to be perfectly whole;"
+        },
+        {
+          "number": 2,
+          "text": "I want Thee forever to live in my soul;"
+        },
+        {
+          "number": 3,
+          "text": "Break down every idol, cast out every foe;"
+        },
+        {
+          "number": 4,
+          "text": "Now wash me, and I shall be whiter than snow."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Lord Jesus, look down from Thy throne in the skies,"
+        },
+        {
+          "number": 2,
+          "text": "And help me to make a complete sacrifice;"
+        },
+        {
+          "number": 3,
+          "text": "I give up myself, and whatever I know;"
+        },
+        {
+          "number": 4,
+          "text": "Now wash me, and I shall be whiter than snow."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Lord Jesus, for this I most humbly entreat;"
+        },
+        {
+          "number": 2,
+          "text": "I wait, blessed Lord, at Thy crucified feet,"
+        },
+        {
+          "number": 3,
+          "text": "By faith, for my cleansing; I see Thy blood flow;"
+        },
+        {
+          "number": 4,
+          "text": "Now wash me, and I shall be whiter than snow."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Lord Jesus, Thou seest I patiently wait;"
+        },
+        {
+          "number": 2,
+          "text": "Come now, and within me a new heart create;"
+        },
+        {
+          "number": 3,
+          "text": "To those who have sought Thee,"
+        },
+        {
+          "number": 4,
+          "text": "Thou never said’st No;"
+        },
+        {
+          "number": 5,
+          "text": "Now wash me, and I shall be whiter than snow."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Whiter Than Snow"
+}

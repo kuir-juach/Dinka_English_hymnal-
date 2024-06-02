@@ -1,0 +1,73 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Father, we thank You for the light that shines all the day;"
+        },
+        {
+          "number": 2,
+          "text": "For the bright sky You have given most like Your heaven;"
+        },
+        {
+          "number": 3,
+          "text": "Father, we thank You."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Father, we thank You for the lamps that lighten the way;"
+        },
+        {
+          "number": 2,
+          "text": "For human skill’s exploration of Your creation;"
+        },
+        {
+          "number": 3,
+          "text": "Father, we thank You."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Father, we thank You for the friends who brighten our play;"
+        },
+        {
+          "number": 2,
+          "text": "For Your command to call others sisters and brothers;"
+        },
+        {
+          "number": 3,
+          "text": "Father, we thank You."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Father, we thank You for Your love in Jesus today,"
+        },
+        {
+          "number": 2,
+          "text": "Giving us hope for tomorrow through joy and sorrow;"
+        },
+        {
+          "number": 3,
+          "text": "Father, we thank You."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Father, We Thank You"
+}

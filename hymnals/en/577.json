@@ -1,0 +1,89 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "In the heart of Jesus there is love for you,"
+        },
+        {
+          "number": 2,
+          "text": "Love most pure and tender, love most deep and true;"
+        },
+        {
+          "number": 3,
+          "text": "Why should you be lonely, why for friendship sigh,"
+        },
+        {
+          "number": 4,
+          "text": "When the heart of Jesus has a full supply?"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "In the mind of Jesus there is thought for you,"
+        },
+        {
+          "number": 2,
+          "text": "Warm as summer sunshine, sweet as morning dew;"
+        },
+        {
+          "number": 3,
+          "text": "Why should you be fearful, why take anxious thought,"
+        },
+        {
+          "number": 4,
+          "text": "Since the mind of Jesus cares for those He bought?"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "In the field of Jesus there is work for you;"
+        },
+        {
+          "number": 2,
+          "text": "Such as even angels might rejoice to do;"
+        },
+        {
+          "number": 3,
+          "text": "Why stand idly sighing for some lifework grand,"
+        },
+        {
+          "number": 4,
+          "text": "While the field of Jesus seeks your reaping hand?"
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "In the home of Jesus there’s a place for you;"
+        },
+        {
+          "number": 2,
+          "text": "Glorious, bright, and joyous, calm and peaceful too;"
+        },
+        {
+          "number": 3,
+          "text": "Why then, like a wanderer, roam with weary pace,"
+        },
+        {
+          "number": 4,
+          "text": "If the home of Jesus holds for you a place?"
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "In the Heart of Jesus"
+}

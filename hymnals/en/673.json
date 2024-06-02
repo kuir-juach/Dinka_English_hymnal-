@@ -1,0 +1,55 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "May God be with you Till we meet again,"
+        },
+        {
+          "number": 2,
+          "text": "May God be with you, Keep you safe till then;"
+        },
+        {
+          "number": 3,
+          "text": "And may His blessings Be within your heart,"
+        },
+        {
+          "number": 4,
+          "text": "May God be with you While we’re apart,"
+        },
+        {
+          "number": 5,
+          "text": "May God be with you."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "May God be with you, Watch you from above,"
+        },
+        {
+          "number": 2,
+          "text": "May God protect you in His tender love;"
+        },
+        {
+          "number": 3,
+          "text": "And with the dawning Of each bright, new day,"
+        },
+        {
+          "number": 4,
+          "text": "May God be with you, To guide your way,"
+        },
+        {
+          "number": 5,
+          "text": "May God be with you."
+        }
+      ],
+      "number": 2
+    }
+  ],
+  "title": "May God Be With You"
+}

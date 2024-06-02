@@ -1,0 +1,96 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Alleluia! Alleluia!"
+      },
+      {
+        "number": 2,
+        "text": "Alleluia! Alleluia!"
+      },
+      {
+        "number": 3,
+        "text": "Alleluia!"
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Ye watchers and ye holy ones,"
+        },
+        {
+          "number": 2,
+          "text": "Bright seraphs, cherubim and thrones,"
+        },
+        {
+          "number": 3,
+          "text": "Raise the glad strain, Alleluia!"
+        },
+        {
+          "number": 4,
+          "text": "Cry out, dominions, princedoms, powers,"
+        },
+        {
+          "number": 5,
+          "text": "Virtues, archangels, angels’ choirs:"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O higher than the cherubim,"
+        },
+        {
+          "number": 2,
+          "text": "More glorious than the seraphim,"
+        },
+        {
+          "number": 3,
+          "text": "Lead their praises, Alleluia!"
+        },
+        {
+          "number": 4,
+          "text": "Thou bearer of th’eternal Word,"
+        },
+        {
+          "number": 5,
+          "text": "Most gracious, magnify the Lord."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O friends, in gladness let us sing,"
+        },
+        {
+          "number": 2,
+          "text": "Supernal anthems echoing,"
+        },
+        {
+          "number": 3,
+          "text": "Alleluia! Alleluia!"
+        },
+        {
+          "number": 4,
+          "text": "To God the Father, God the Son,"
+        },
+        {
+          "number": 5,
+          "text": "And God the Spirit, Three in One."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Ye Watchers and Ye Holy Ones"
+}

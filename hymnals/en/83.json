@@ -1,0 +1,89 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O worship the King, all glorious above,"
+        },
+        {
+          "number": 2,
+          "text": "O gratefully sing His wonderful love;"
+        },
+        {
+          "number": 3,
+          "text": "Our Shield and Defender, the Ancient of Days,"
+        },
+        {
+          "number": 4,
+          "text": "Pavilioned in splendor, and girded with praise."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O tell of His might, O sing of His grace,"
+        },
+        {
+          "number": 2,
+          "text": "Whose robe is the light, whose canopy space,"
+        },
+        {
+          "number": 3,
+          "text": "His chariots of wrath the deep thunderclouds form,"
+        },
+        {
+          "number": 4,
+          "text": "And dark is His path on the wings of the storm."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Thy bountiful care, what tongue can recite?"
+        },
+        {
+          "number": 2,
+          "text": "It breathes in the air, it shines in the light;"
+        },
+        {
+          "number": 3,
+          "text": "It streams from the hills, it descends to the plain,"
+        },
+        {
+          "number": 4,
+          "text": "And sweetly distills in the dew and the rain."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Frail children of dust, and feeble as frail,"
+        },
+        {
+          "number": 2,
+          "text": "In Thee do we trust, nor find Thee to fail;"
+        },
+        {
+          "number": 3,
+          "text": "Thy mercies how tender, how firm to the end!"
+        },
+        {
+          "number": 4,
+          "text": "Our Maker, Defender, Redeemer, and Friend."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "O Worship the King"
+}

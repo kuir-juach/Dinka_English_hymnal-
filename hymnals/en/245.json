@@ -1,0 +1,109 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "More, more about Jesus,"
+      },
+      {
+        "number": 2,
+        "text": "More, more about Jesus;"
+      },
+      {
+        "number": 3,
+        "text": "More of His saving fullness see,"
+      },
+      {
+        "number": 4,
+        "text": "More of His love who died for me."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "More about Jesus, I would know,"
+        },
+        {
+          "number": 2,
+          "text": "More of His grace to others show;"
+        },
+        {
+          "number": 3,
+          "text": "More of His saving fullness see,"
+        },
+        {
+          "number": 4,
+          "text": "More of His love who died for me."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "More about Jesus, let me learn,"
+        },
+        {
+          "number": 2,
+          "text": "More of His holy will discern;"
+        },
+        {
+          "number": 3,
+          "text": "Spirit of God, my teacher be,"
+        },
+        {
+          "number": 4,
+          "text": "Showing the things of Christ to me."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "More about Jesus, in His word,"
+        },
+        {
+          "number": 2,
+          "text": "Holding communion with my Lord;"
+        },
+        {
+          "number": 3,
+          "text": "Hearing His voice in every line,"
+        },
+        {
+          "number": 4,
+          "text": "Making each faithful saying mine."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "More about Jesus, on His throne,"
+        },
+        {
+          "number": 2,
+          "text": "Riches in glory all His own;"
+        },
+        {
+          "number": 3,
+          "text": "More of His kingdom’s sure increase,"
+        },
+        {
+          "number": 4,
+          "text": "More of His coming, Prince of Peace."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "More About Jesus"
+}

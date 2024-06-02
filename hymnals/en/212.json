@@ -1,0 +1,113 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "O it must be the breaking of the day!"
+      },
+      {
+        "number": 2,
+        "text": "O it must be the breaking of the day!"
+      },
+      {
+        "number": 3,
+        "text": "The night is almost gone,"
+      },
+      {
+        "number": 4,
+        "text": "The day is coming on;"
+      },
+      {
+        "number": 5,
+        "text": "O it must be the breaking of the day!"
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "’Tis almost time for the Lord to come,"
+        },
+        {
+          "number": 2,
+          "text": "I hear the people say;"
+        },
+        {
+          "number": 3,
+          "text": "The stars of heaven are growing dim,"
+        },
+        {
+          "number": 4,
+          "text": "It must be the breaking of the day."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "The signs foretold in the sun and moon,"
+        },
+        {
+          "number": 2,
+          "text": "In earth and sea and sky,"
+        },
+        {
+          "number": 3,
+          "text": "Aloud proclaim to all mankind,"
+        },
+        {
+          "number": 4,
+          "text": "The coming of the Master draweth nigh."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "It must be time for the waiting church"
+        },
+        {
+          "number": 2,
+          "text": "To cast her pride away,"
+        },
+        {
+          "number": 3,
+          "text": "With girded loins and burning lamps,"
+        },
+        {
+          "number": 4,
+          "text": "To look for the breaking of the day."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Go quickly out in the streets and lanes"
+        },
+        {
+          "number": 2,
+          "text": "And in the broad highway,"
+        },
+        {
+          "number": 3,
+          "text": "And call the maimed, the halt, and blind,"
+        },
+        {
+          "number": 4,
+          "text": "To be ready for the breaking of the day."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "'Tis Almost Time for the Lord to Come"
+}

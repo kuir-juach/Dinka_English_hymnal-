@@ -1,0 +1,109 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "The cleansing stream I see, I see,"
+      },
+      {
+        "number": 2,
+        "text": "I plunge, and O, it cleanseth me!"
+      },
+      {
+        "number": 3,
+        "text": "O praise the Lord! it cleanseth me,"
+      },
+      {
+        "number": 4,
+        "text": "It cleanseth me, yes, cleanseth me."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Oh now I see the crimson wave,"
+        },
+        {
+          "number": 2,
+          "text": "The fountain deep and wide;"
+        },
+        {
+          "number": 3,
+          "text": "Jesus, my Lord, mighty to save,"
+        },
+        {
+          "number": 4,
+          "text": "Points to His wounded side."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I see the new creation rise,"
+        },
+        {
+          "number": 2,
+          "text": "I hear the speaking blood;"
+        },
+        {
+          "number": 3,
+          "text": "It speaks polluted nature dies,"
+        },
+        {
+          "number": 4,
+          "text": "Sinks ‘neath the cleansing flood."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I rise to walk in heaven’s own light,"
+        },
+        {
+          "number": 2,
+          "text": "Above the world and sin;"
+        },
+        {
+          "number": 3,
+          "text": "With heart made pure and garments white,"
+        },
+        {
+          "number": 4,
+          "text": "And Christ enthroned within."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Amazing grace! ’tis heaven below"
+        },
+        {
+          "number": 2,
+          "text": "To feel the blood applied,"
+        },
+        {
+          "number": 3,
+          "text": "And Jesus, only Jesus, know,"
+        },
+        {
+          "number": 4,
+          "text": "My Jesus crucified."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "The Cleansing Wave"
+}

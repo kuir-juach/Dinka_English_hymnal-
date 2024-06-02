@@ -1,0 +1,156 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "He lives, He lives,"
+      },
+      {
+        "number": 2,
+        "text": "Christ Jesus lives today!"
+      },
+      {
+        "number": 3,
+        "text": "He walks with me"
+      },
+      {
+        "number": 4,
+        "text": "and talks with me"
+      },
+      {
+        "number": 5,
+        "text": "along life’s narrow way."
+      },
+      {
+        "number": 6,
+        "text": "He lives, He lives,"
+      },
+      {
+        "number": 7,
+        "text": "salvation to impart!"
+      },
+      {
+        "number": 8,
+        "text": "You ask me how I know He lives?"
+      },
+      {
+        "number": 9,
+        "text": "He lives within my heart."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I serve a risen Savior,"
+        },
+        {
+          "number": 2,
+          "text": "He’s in the world today;"
+        },
+        {
+          "number": 3,
+          "text": "I know that He is living,"
+        },
+        {
+          "number": 4,
+          "text": "whatever men may say;"
+        },
+        {
+          "number": 5,
+          "text": "I see His hand of mercy,"
+        },
+        {
+          "number": 6,
+          "text": "I hear His voice of cheer"
+        },
+        {
+          "number": 7,
+          "text": "And just the time"
+        },
+        {
+          "number": 8,
+          "text": "I need Him He’s always near."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "In all the world around me"
+        },
+        {
+          "number": 2,
+          "text": "I see His loving care,"
+        },
+        {
+          "number": 3,
+          "text": "And tho’ my heart grows weary"
+        },
+        {
+          "number": 4,
+          "text": "I never will despair;"
+        },
+        {
+          "number": 5,
+          "text": "I know that He is leading"
+        },
+        {
+          "number": 6,
+          "text": "thru all the stormy blast,"
+        },
+        {
+          "number": 7,
+          "text": "The day of His appearing"
+        },
+        {
+          "number": 8,
+          "text": "will come at last."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Rejoice, rejoice, O Christian,"
+        },
+        {
+          "number": 2,
+          "text": "lift up your voice and sing,"
+        },
+        {
+          "number": 3,
+          "text": "Eternal hallelujahs"
+        },
+        {
+          "number": 4,
+          "text": "to Jesus Christ the King!"
+        },
+        {
+          "number": 5,
+          "text": "The hope of all who seek Him,"
+        },
+        {
+          "number": 6,
+          "text": "the help of all who find,"
+        },
+        {
+          "number": 7,
+          "text": "None other is so loving,"
+        },
+        {
+          "number": 8,
+          "text": "so good and kind."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "He Lives"
+}

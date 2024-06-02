@@ -1,0 +1,109 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Lord, lift me up and let me stand,"
+      },
+      {
+        "number": 2,
+        "text": "By faith, on Heaven’s table land,"
+      },
+      {
+        "number": 3,
+        "text": "A higher plane than I have found;"
+      },
+      {
+        "number": 4,
+        "text": "Lord, plant my feet on higher ground."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I’m pressing on the upward way,"
+        },
+        {
+          "number": 2,
+          "text": "New heights I’m gaining every day;"
+        },
+        {
+          "number": 3,
+          "text": "Still praying as I’m onward bound,"
+        },
+        {
+          "number": 4,
+          "text": "“Lord, plant my feet on higher ground.”"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "My heart has no desire to stay"
+        },
+        {
+          "number": 2,
+          "text": "Where doubts arise and fears dismay;"
+        },
+        {
+          "number": 3,
+          "text": "Though some may dwell where those abound,"
+        },
+        {
+          "number": 4,
+          "text": "My prayer, my aim, is higher ground."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I want to live above the world,"
+        },
+        {
+          "number": 2,
+          "text": "Though Satan’s darts at me are hurled;"
+        },
+        {
+          "number": 3,
+          "text": "For faith has caught the joyful sound,"
+        },
+        {
+          "number": 4,
+          "text": "The song of saints on higher ground."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I want to scale the utmost height"
+        },
+        {
+          "number": 2,
+          "text": "And catch a gleam of glory bright;"
+        },
+        {
+          "number": 3,
+          "text": "But still I’ll pray till Heav’n I’ve found,"
+        },
+        {
+          "number": 4,
+          "text": "“Lord, plant my feet on higher ground.”"
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Higher Ground"
+}

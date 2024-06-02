@@ -1,0 +1,116 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O sing a song of Bethlehem,"
+        },
+        {
+          "number": 2,
+          "text": "Of shepherds watching there,"
+        },
+        {
+          "number": 3,
+          "text": "And of the news that came to them"
+        },
+        {
+          "number": 4,
+          "text": "From angels in the air:"
+        },
+        {
+          "number": 5,
+          "text": "The light that shone on Bethlehem"
+        },
+        {
+          "number": 6,
+          "text": "Fills all the world today;"
+        },
+        {
+          "number": 7,
+          "text": "Of Jesus’birth and peace on earth"
+        },
+        {
+          "number": 8,
+          "text": "The angels sing alway."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O sing a song of Nazareth,"
+        },
+        {
+          "number": 2,
+          "text": "Of sunny days of joy,"
+        },
+        {
+          "number": 3,
+          "text": "O sing of fragrant flowers breath,"
+        },
+        {
+          "number": 4,
+          "text": "And of the sinless Boy:"
+        },
+        {
+          "number": 5,
+          "text": "For now the flowers of Nazareth"
+        },
+        {
+          "number": 6,
+          "text": "In every heart may grow;"
+        },
+        {
+          "number": 7,
+          "text": "Now spreads the fame of His dear name"
+        },
+        {
+          "number": 8,
+          "text": "On all the winds that blow."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O sing a song of Calvary,"
+        },
+        {
+          "number": 2,
+          "text": "Its glory and dismay;"
+        },
+        {
+          "number": 3,
+          "text": "Of Him who hung upon the tree,"
+        },
+        {
+          "number": 4,
+          "text": "And took our sins away:"
+        },
+        {
+          "number": 5,
+          "text": "For He who died on Calvary"
+        },
+        {
+          "number": 6,
+          "text": "Is risen from the grave;"
+        },
+        {
+          "number": 7,
+          "text": "And Christ, our Lord, by heaven adored,"
+        },
+        {
+          "number": 8,
+          "text": "Is mighty now to save."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "O Sing a Song of Bethlehem"
+}

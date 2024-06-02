@@ -1,0 +1,136 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Faith is the victory!"
+      },
+      {
+        "number": 2,
+        "text": "Faith is the victory!"
+      },
+      {
+        "number": 3,
+        "text": "Oh, glorious victory"
+      },
+      {
+        "number": 4,
+        "text": "That overcomes the world."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Encamped along the hills of light,"
+        },
+        {
+          "number": 2,
+          "text": "Ye Christian soldiers, rise,"
+        },
+        {
+          "number": 3,
+          "text": "And press the battle ere the night"
+        },
+        {
+          "number": 4,
+          "text": "Shall veil the glowing skies."
+        },
+        {
+          "number": 5,
+          "text": "Against the foe in vales below,"
+        },
+        {
+          "number": 6,
+          "text": "Let all our strength be hurled;"
+        },
+        {
+          "number": 7,
+          "text": "Faith is the victory, we know,"
+        },
+        {
+          "number": 8,
+          "text": "That overcomes the world."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "His banner over us in love,"
+        },
+        {
+          "number": 2,
+          "text": "Our sword the Word of God;"
+        },
+        {
+          "number": 3,
+          "text": "We tread the road the saints above"
+        },
+        {
+          "number": 4,
+          "text": "With shouts of triumph trod."
+        },
+        {
+          "number": 5,
+          "text": "By faith they, like whirlwind’s breath,"
+        },
+        {
+          "number": 6,
+          "text": "Swept on o’er ev’ry field;"
+        },
+        {
+          "number": 7,
+          "text": "The faith by which they conquered death"
+        },
+        {
+          "number": 8,
+          "text": "Is still our shining shield."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "To him who overcomes the foe"
+        },
+        {
+          "number": 2,
+          "text": "White raiment shall be giv’n;"
+        },
+        {
+          "number": 3,
+          "text": "Before the angels he shall know"
+        },
+        {
+          "number": 4,
+          "text": "His name confessed in heav’n."
+        },
+        {
+          "number": 5,
+          "text": "Then onward from the hills of light,"
+        },
+        {
+          "number": 6,
+          "text": "Our hearts with love aflame;"
+        },
+        {
+          "number": 7,
+          "text": "We’ll vanquish all the hosts of night,"
+        },
+        {
+          "number": 8,
+          "text": "In Jesus’ conq’ring name."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Faith Is the Victory"
+}

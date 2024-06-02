@@ -1,0 +1,89 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "The church has waited long"
+        },
+        {
+          "number": 2,
+          "text": "Her absent Lord to see;"
+        },
+        {
+          "number": 3,
+          "text": "And still in loneliness she waits,"
+        },
+        {
+          "number": 4,
+          "text": "A friendless stranger she."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "How long, O Lord our God,"
+        },
+        {
+          "number": 2,
+          "text": "Holy and true and good,"
+        },
+        {
+          "number": 3,
+          "text": "Wilt Thou not judge Thy suffering church,"
+        },
+        {
+          "number": 4,
+          "text": "Her sighs and tears and blood?"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "We long to hear Thy voice,"
+        },
+        {
+          "number": 2,
+          "text": "To see Thee face to face,"
+        },
+        {
+          "number": 3,
+          "text": "To share Thy crown and glory then,"
+        },
+        {
+          "number": 4,
+          "text": "As now we share Thy grace."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Come, Lord, and wipe away"
+        },
+        {
+          "number": 2,
+          "text": "The curse, the sin, the stain,"
+        },
+        {
+          "number": 3,
+          "text": "And make this blighted world of ours"
+        },
+        {
+          "number": 4,
+          "text": "Thine own fair world again."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "The Church Has Waited Long"
+}

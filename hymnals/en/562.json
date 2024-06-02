@@ -1,0 +1,70 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Come, sing a song of harvest, Of thanks for daily food!"
+        },
+        {
+          "number": 2,
+          "text": "To offer God the first-fruits is old as gratitude."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Long, long ago, the reapers, before they kept the feast,"
+        },
+        {
+          "number": 2,
+          "text": "Put first-fruits in a basket, and took it to the priest."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Shall we, sometimes forgetful oh where creation starts,"
+        },
+        {
+          "number": 2,
+          "text": "With science in our pockets lose wonder from our hearts?"
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "May God, the great Creator, to whom all life belongs,"
+        },
+        {
+          "number": 2,
+          "text": "Accept these gifts we offer, our service and our songs."
+        }
+      ],
+      "number": 4
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "And lest the world go hungry while we ourselves are fed,"
+        },
+        {
+          "number": 2,
+          "text": "Make each of us more ready to share our daily bread."
+        }
+      ],
+      "number": 5
+    }
+  ],
+  "title": "Come, Sing a Song of Harvest"
+}

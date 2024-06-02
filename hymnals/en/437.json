@@ -1,0 +1,88 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "I’m going home, I’m going home,"
+      },
+      {
+        "number": 2,
+        "text": "I’m going home to die no more;"
+      },
+      {
+        "number": 3,
+        "text": "To die no more; to die no more-"
+      },
+      {
+        "number": 4,
+        "text": "I’m going home to die no more."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "My heav’nly home is bright and fair,"
+        },
+        {
+          "number": 2,
+          "text": "Nor pain nor death can enter there;"
+        },
+        {
+          "number": 3,
+          "text": "It’s glitt’ring tow’rs the sun outshine,"
+        },
+        {
+          "number": 4,
+          "text": "That heav’nly mansion shall me mine."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "My Father’s house is built on high,"
+        },
+        {
+          "number": 2,
+          "text": "Far, far above the starry sky;"
+        },
+        {
+          "number": 3,
+          "text": "When from this earthly prison free,"
+        },
+        {
+          "number": 4,
+          "text": "That heav’nly mansion mine shall be."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Let others seek a home below,"
+        },
+        {
+          "number": 2,
+          "text": "Which flames devour or waves oe’r flow;"
+        },
+        {
+          "number": 3,
+          "text": "Be mine a happier lot to own"
+        },
+        {
+          "number": 4,
+          "text": "A heav’nly mansion near the throne."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "I'm Going Home"
+}

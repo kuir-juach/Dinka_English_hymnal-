@@ -1,0 +1,89 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O for a closer walk with God,"
+        },
+        {
+          "number": 2,
+          "text": "A calm and heavenly frame,"
+        },
+        {
+          "number": 3,
+          "text": "A light to shine upon the road"
+        },
+        {
+          "number": 4,
+          "text": "That leads me to the Lamb!"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Return, O holy Dove, return,"
+        },
+        {
+          "number": 2,
+          "text": "Sweet messenger of rest!"
+        },
+        {
+          "number": 3,
+          "text": "I hate the sins that made Thee mourn"
+        },
+        {
+          "number": 4,
+          "text": "And drove Thee from my breast."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "What peaceful hours I once enjoyed!"
+        },
+        {
+          "number": 2,
+          "text": "How sweet their memory still!"
+        },
+        {
+          "number": 3,
+          "text": "But they have left an aching void"
+        },
+        {
+          "number": 4,
+          "text": "The world can never fill."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "The dearest idol I have known,"
+        },
+        {
+          "number": 2,
+          "text": "What-e’er that idol be,"
+        },
+        {
+          "number": 3,
+          "text": "Help me to tear it from Thy throne,"
+        },
+        {
+          "number": 4,
+          "text": "And worship only Thee."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "O for a Closer Walk!"
+}

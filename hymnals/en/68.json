@@ -1,0 +1,99 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "On our way rejoicing"
+      },
+      {
+        "number": 2,
+        "text": "As we forward move,"
+      },
+      {
+        "number": 3,
+        "text": "Hearken to our praises,"
+      },
+      {
+        "number": 4,
+        "text": "O blest God of love!"
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "On our way rejoicing"
+        },
+        {
+          "number": 2,
+          "text": "Gladly let us go;"
+        },
+        {
+          "number": 3,
+          "text": "Conquer’d hath our Leader,"
+        },
+        {
+          "number": 4,
+          "text": "Vanquish’d is the foe."
+        },
+        {
+          "number": 5,
+          "text": "Christ without, our safety;"
+        },
+        {
+          "number": 6,
+          "text": "Christ within, our joy;"
+        },
+        {
+          "number": 7,
+          "text": "Who, if we be faithful,"
+        },
+        {
+          "number": 8,
+          "text": "Can our hope destroy?"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Unto God the Father"
+        },
+        {
+          "number": 2,
+          "text": "Joyful songs we sing,"
+        },
+        {
+          "number": 3,
+          "text": "Unto God the Savior"
+        },
+        {
+          "number": 4,
+          "text": "Thankful hearts we bring,"
+        },
+        {
+          "number": 5,
+          "text": "Unto God the Spirit"
+        },
+        {
+          "number": 6,
+          "text": "Bow we and adore,"
+        },
+        {
+          "number": 7,
+          "text": "On our way rejoicing"
+        },
+        {
+          "number": 8,
+          "text": "Now and evermore."
+        }
+      ],
+      "number": 2
+    }
+  ],
+  "title": "On Our Way Rejoicing"
+}

@@ -1,0 +1,185 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "O that will be joyful, joyful, joyful!"
+      },
+      {
+        "number": 2,
+        "text": "O that will be joyful"
+      },
+      {
+        "number": 3,
+        "text": "When we meet to part no more!"
+      },
+      {
+        "number": 4,
+        "text": "When we meet to part no more"
+      },
+      {
+        "number": 5,
+        "text": "On Canaan’s happy shore;"
+      },
+      {
+        "number": 6,
+        "text": "‘Tis there we’ll meet at Jesus’ feet,"
+      },
+      {
+        "number": 7,
+        "text": "When we meet to part no more!"
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Lo, what a glorious sight appears"
+        },
+        {
+          "number": 2,
+          "text": "To our believing eyes!"
+        },
+        {
+          "number": 3,
+          "text": "The earth and seas are passed away"
+        },
+        {
+          "number": 4,
+          "text": "And the old rolling skies."
+        },
+        {
+          "number": 5,
+          "text": "And the old rolling skies,"
+        },
+        {
+          "number": 6,
+          "text": "And the old rolling skies;"
+        },
+        {
+          "number": 7,
+          "text": "The earth and seas are passed away,"
+        },
+        {
+          "number": 8,
+          "text": "And the old rolling skies."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Attending angels shout for joy"
+        },
+        {
+          "number": 2,
+          "text": "And the bright armies sing-"
+        },
+        {
+          "number": 3,
+          "text": "Mortals! Behold the sacred seat"
+        },
+        {
+          "number": 4,
+          "text": "Of your descending King."
+        },
+        {
+          "number": 5,
+          "text": "Of your descending King,"
+        },
+        {
+          "number": 6,
+          "text": "Of your descending King;"
+        },
+        {
+          "number": 7,
+          "text": "Mortals! Behold the sacred seat"
+        },
+        {
+          "number": 8,
+          "text": "Of your descending King."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "His own soft hand shall wipe the tears"
+        },
+        {
+          "number": 2,
+          "text": "From every weeping eye;"
+        },
+        {
+          "number": 3,
+          "text": "And pains, and groans, and griefs, and fears,"
+        },
+        {
+          "number": 4,
+          "text": "And death itself shall die!"
+        },
+        {
+          "number": 5,
+          "text": "And death itself shall die,"
+        },
+        {
+          "number": 6,
+          "text": "And death itself shall die;"
+        },
+        {
+          "number": 7,
+          "text": "And pains, and groans, and griefs, and fears,"
+        },
+        {
+          "number": 8,
+          "text": "And death itself shall die."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "How long, dear Savior! Oh, how long"
+        },
+        {
+          "number": 2,
+          "text": "Shall this bright hour delay?"
+        },
+        {
+          "number": 3,
+          "text": "Fly swifter round, ye wheels of time!"
+        },
+        {
+          "number": 4,
+          "text": "And bring the welcome day."
+        },
+        {
+          "number": 5,
+          "text": "And bring the welcome day,"
+        },
+        {
+          "number": 6,
+          "text": "And bring the welcome day;"
+        },
+        {
+          "number": 7,
+          "text": "Fly swifter round, ye wheels of time!"
+        },
+        {
+          "number": 8,
+          "text": "And bring the welcome day."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Lo, What a Glorious Sight Appears"
+}

@@ -1,0 +1,104 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "We’re trav’ling to Immanuel’s land,"
+      },
+      {
+        "number": 2,
+        "text": "We soon shall hear the trumpet sound,"
+      },
+      {
+        "number": 3,
+        "text": "And soon we shall with Jesus reign,"
+      },
+      {
+        "number": 4,
+        "text": "And never, never part again."
+      },
+      {
+        "number": 5,
+        "text": "What! Never part again? No, never part again,"
+      },
+      {
+        "number": 6,
+        "text": "What! Never part again? No, never part again,"
+      },
+      {
+        "number": 7,
+        "text": "And soon we shall with Jesus reign,"
+      },
+      {
+        "number": 8,
+        "text": "And never, never part again."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "There is a land of pure delight,"
+        },
+        {
+          "number": 2,
+          "text": "Where bliss eternal reigns,"
+        },
+        {
+          "number": 3,
+          "text": "Infinite day excludes the night"
+        },
+        {
+          "number": 4,
+          "text": "And pleasures banish pain."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "There everlasting spring abides,"
+        },
+        {
+          "number": 2,
+          "text": "And never with’ring flowers,"
+        },
+        {
+          "number": 3,
+          "text": "And but a little space divides"
+        },
+        {
+          "number": 4,
+          "text": "This heav’nly land from ours."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Could we but stand where Moses stood,"
+        },
+        {
+          "number": 2,
+          "text": "And view the landscape o’er,"
+        },
+        {
+          "number": 3,
+          "text": "Not all this world’s pretended good"
+        },
+        {
+          "number": 4,
+          "text": "Could ever charm us more."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Never Part Again"
+}

@@ -1,3 +1,5 @@
+beautifulsoup4~=4.12.3
 check-jsonschema~=0.28.4
 pre-commit~=3.7.1
 pre-commit-hooks~=4.6.0
+requests~=2.32.3

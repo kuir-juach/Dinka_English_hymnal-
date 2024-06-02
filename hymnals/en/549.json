@@ -1,0 +1,68 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Loving Shepherd of Thy sheep,"
+        },
+        {
+          "number": 2,
+          "text": "Keep Thy lamb, in safety keep;"
+        },
+        {
+          "number": 3,
+          "text": "Nothing can Thy power withstand;"
+        },
+        {
+          "number": 4,
+          "text": "None can pluck me from Thy hand."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Loving Shepherd, ever near,"
+        },
+        {
+          "number": 2,
+          "text": "Teach Thy lamb Thy voice to hear;"
+        },
+        {
+          "number": 3,
+          "text": "Suffer not my steps to stray"
+        },
+        {
+          "number": 4,
+          "text": "From the straight and narrow way."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Where Thou leadest I would go,"
+        },
+        {
+          "number": 2,
+          "text": "Walking in Thy steps below,"
+        },
+        {
+          "number": 3,
+          "text": "Till within the heavenly fold"
+        },
+        {
+          "number": 4,
+          "text": "I my Shepherd shall behold."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Loving Shepherd of Thy Sheep"
+}

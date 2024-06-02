@@ -1,0 +1,165 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Then sings my soul"
+      },
+      {
+        "number": 2,
+        "text": "My Saviour God to Thee"
+      },
+      {
+        "number": 3,
+        "text": "How great Thou art"
+      },
+      {
+        "number": 4,
+        "text": "How great Thou art"
+      },
+      {
+        "number": 5,
+        "text": "Then sings my soul"
+      },
+      {
+        "number": 6,
+        "text": "My Saviour God to Thee"
+      },
+      {
+        "number": 7,
+        "text": "How great Thou art"
+      },
+      {
+        "number": 8,
+        "text": "How great Thou art"
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O Lord my God"
+        },
+        {
+          "number": 2,
+          "text": "When I in awesome wonder"
+        },
+        {
+          "number": 3,
+          "text": "Consider all the worlds Thy Hands have made"
+        },
+        {
+          "number": 4,
+          "text": "I see the stars"
+        },
+        {
+          "number": 5,
+          "text": "I hear the rolling thunder"
+        },
+        {
+          "number": 6,
+          "text": "Thy power throughout the universe displayed"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "When through the woods"
+        },
+        {
+          "number": 2,
+          "text": "And forest glades I wander"
+        },
+        {
+          "number": 3,
+          "text": "And hear the birds sing sweetly in the trees"
+        },
+        {
+          "number": 4,
+          "text": "When I look down"
+        },
+        {
+          "number": 5,
+          "text": "From lofty mountain grandeur"
+        },
+        {
+          "number": 6,
+          "text": "And see the brook and feel the gentle breeze"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "And when I think"
+        },
+        {
+          "number": 2,
+          "text": "That God His Son not sparing"
+        },
+        {
+          "number": 3,
+          "text": "Sent Him to die I scarce can take it in"
+        },
+        {
+          "number": 4,
+          "text": "That on the Cross"
+        },
+        {
+          "number": 5,
+          "text": "My burden gladly bearing"
+        },
+        {
+          "number": 6,
+          "text": "He bled and died to take away my sin."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "When Christ shall come"
+        },
+        {
+          "number": 2,
+          "text": "With shouts of acclamation"
+        },
+        {
+          "number": 3,
+          "text": "And take me home"
+        },
+        {
+          "number": 4,
+          "text": "What joy shall fill my heart"
+        },
+        {
+          "number": 5,
+          "text": "Then I shall bow"
+        },
+        {
+          "number": 6,
+          "text": "In humble adoration"
+        },
+        {
+          "number": 7,
+          "text": "And there proclaim"
+        },
+        {
+          "number": 8,
+          "text": "“My God, how great Thou art!”"
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "How Great Thou Art"
+}

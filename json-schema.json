@@ -66,10 +66,14 @@
         "type": "object"
       },
       "type": "array"
+    },
+    "title": {
+      "type": "string"
     }
   },
   "required": [
-    "stanzas"
+    "stanzas",
+    "title"
   ],
   "title": "Hymns schema",
   "type": "object"

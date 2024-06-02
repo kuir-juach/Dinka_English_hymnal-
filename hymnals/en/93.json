@@ -1,0 +1,109 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "All things bright and beautiful"
+      },
+      {
+        "number": 2,
+        "text": "All creatures great and small"
+      },
+      {
+        "number": 3,
+        "text": "All things wise and wonderful"
+      },
+      {
+        "number": 4,
+        "text": "The Lord God made them all."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Each little flow’r that opens"
+        },
+        {
+          "number": 2,
+          "text": "Each little bird that sings"
+        },
+        {
+          "number": 3,
+          "text": "He made their glowing colours"
+        },
+        {
+          "number": 4,
+          "text": "He made their tiny wings."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "The purple-headed mountain"
+        },
+        {
+          "number": 2,
+          "text": "The river running by"
+        },
+        {
+          "number": 3,
+          "text": "The sunset and the morning"
+        },
+        {
+          "number": 4,
+          "text": "That brighten up the sky."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "The cold wind in the winter"
+        },
+        {
+          "number": 2,
+          "text": "The pleasant summer sun"
+        },
+        {
+          "number": 3,
+          "text": "The ripe fruits in the garden"
+        },
+        {
+          "number": 4,
+          "text": "He made them, every one."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "He gave us eyes to see them"
+        },
+        {
+          "number": 2,
+          "text": "And lips that we might tell"
+        },
+        {
+          "number": 3,
+          "text": "How great is God Almighty"
+        },
+        {
+          "number": 4,
+          "text": "Who has made all things well."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "All Things Bright and Beautiful"
+}

@@ -1,0 +1,88 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "I must tell Jesus! I must tell Jesus!"
+      },
+      {
+        "number": 2,
+        "text": "I cannot bear my burdens alone;"
+      },
+      {
+        "number": 3,
+        "text": "I must tell Jesus! I must tell Jesus!"
+      },
+      {
+        "number": 4,
+        "text": "Jesus can help me, Jesus alone."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I must tell Jesus all of my trials,"
+        },
+        {
+          "number": 2,
+          "text": "I cannot bear these burdens alone;"
+        },
+        {
+          "number": 3,
+          "text": "In my distress He kindly will help me,"
+        },
+        {
+          "number": 4,
+          "text": "He ever loves and cares for His own."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I must tell Jesus all of my troubles,"
+        },
+        {
+          "number": 2,
+          "text": "He is a kind, compassionate Friend;"
+        },
+        {
+          "number": 3,
+          "text": "If I but ask Him He will deliver,"
+        },
+        {
+          "number": 4,
+          "text": "Make of my troubles quickly an end."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Oh, how the world to evil allures me!"
+        },
+        {
+          "number": 2,
+          "text": "Oh, how my heart is tempted to sin!"
+        },
+        {
+          "number": 3,
+          "text": "I must tell Jesus, and He will help me"
+        },
+        {
+          "number": 4,
+          "text": "Over the world the vict’ry to win."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "I Must Tell Jesus"
+}

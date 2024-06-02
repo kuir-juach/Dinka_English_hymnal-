@@ -1,0 +1,109 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Deeper yet, deeper yet,"
+      },
+      {
+        "number": 2,
+        "text": "Into the crimson flood;"
+      },
+      {
+        "number": 3,
+        "text": "Deeper yet, deeper yet,"
+      },
+      {
+        "number": 4,
+        "text": "Under the precious blood."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "In the blood from the cross,"
+        },
+        {
+          "number": 2,
+          "text": "I have been washed from sin;"
+        },
+        {
+          "number": 3,
+          "text": "But to be free from dross,"
+        },
+        {
+          "number": 4,
+          "text": "Still I would enter in."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Day by day, hour by hour,"
+        },
+        {
+          "number": 2,
+          "text": "Blessings are sent to me;"
+        },
+        {
+          "number": 3,
+          "text": "But for more of His power,"
+        },
+        {
+          "number": 4,
+          "text": "Ever my prayer shall be."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Near to Christ I would live,"
+        },
+        {
+          "number": 2,
+          "text": "Following Him each day;"
+        },
+        {
+          "number": 3,
+          "text": "What I ask He will give;"
+        },
+        {
+          "number": 4,
+          "text": "So then with faith I pray."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Now I have peace, sweet peace,"
+        },
+        {
+          "number": 2,
+          "text": "While in this world of sin;"
+        },
+        {
+          "number": 3,
+          "text": "But to pray I’ll not cease"
+        },
+        {
+          "number": 4,
+          "text": "Till I am pure within."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Deeper Yet"
+}

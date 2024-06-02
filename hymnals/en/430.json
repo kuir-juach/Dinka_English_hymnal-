@@ -1,0 +1,88 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Joy, joy, joy, there’ll be joy by and by,"
+      },
+      {
+        "number": 2,
+        "text": "Joy, joy, joy, where the joys never die;"
+      },
+      {
+        "number": 3,
+        "text": "Joy, joy, joy, for the day draweth nigh"
+      },
+      {
+        "number": 4,
+        "text": "When the workers gather home."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O there’ll be joy when the work is done,"
+        },
+        {
+          "number": 2,
+          "text": "Joy when the reapers gather home,"
+        },
+        {
+          "number": 3,
+          "text": "Bringing the sheaves at set of sun"
+        },
+        {
+          "number": 4,
+          "text": "To the New Jerusalem."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Sweet are the songs that we hope to sing,"
+        },
+        {
+          "number": 2,
+          "text": "Grateful the thanks our hearts shall bring,"
+        },
+        {
+          "number": 3,
+          "text": "Praising forever Christ our King"
+        },
+        {
+          "number": 4,
+          "text": "In the New Jerusalem."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Pure are the joys that await us there,"
+        },
+        {
+          "number": 2,
+          "text": "Many the golden mansions fair;"
+        },
+        {
+          "number": 3,
+          "text": "Jesus Himself doth them prepare,"
+        },
+        {
+          "number": 4,
+          "text": "In the New Jerusalem."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Joy By and By"
+}

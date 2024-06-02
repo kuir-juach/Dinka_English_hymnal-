@@ -1,0 +1,109 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "O, we see the gleams of the golden morning"
+      },
+      {
+        "number": 2,
+        "text": "piercing thro’ this night of gloom!"
+      },
+      {
+        "number": 3,
+        "text": "O, see the gleams of the golden morning"
+      },
+      {
+        "number": 4,
+        "text": "that will burst the tomb."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "The golden morning is fast approaching;"
+        },
+        {
+          "number": 2,
+          "text": "Jesus soon will come"
+        },
+        {
+          "number": 3,
+          "text": "To take his faithful and happy children"
+        },
+        {
+          "number": 4,
+          "text": "to their promised home"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "The gospel summons will soon be carried"
+        },
+        {
+          "number": 2,
+          "text": "to the nations round;"
+        },
+        {
+          "number": 3,
+          "text": "The Bridegroom then will cease to tarry"
+        },
+        {
+          "number": 4,
+          "text": "and the trumpet sound."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Attended by all the shining angels,"
+        },
+        {
+          "number": 2,
+          "text": "Down the flaming sky"
+        },
+        {
+          "number": 3,
+          "text": "the Judge will come, and will take his people"
+        },
+        {
+          "number": 4,
+          "text": "where they will not die."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "The lov’d of earth who have long been parted,"
+        },
+        {
+          "number": 2,
+          "text": "Meet in that glad day;"
+        },
+        {
+          "number": 3,
+          "text": "The tears of those who are broken hearted"
+        },
+        {
+          "number": 4,
+          "text": "shall be wiped away."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Gleams of the Golden Morning"
+}

@@ -1,0 +1,68 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Lord, speak to me, that I may speak"
+        },
+        {
+          "number": 2,
+          "text": "in living echoes of thy tone;"
+        },
+        {
+          "number": 3,
+          "text": "as thou has sought, so let me seek"
+        },
+        {
+          "number": 4,
+          "text": "thine erring children lost and lone."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O lead me, Lord, that I may lead"
+        },
+        {
+          "number": 2,
+          "text": "the wandering and the wavering feet;"
+        },
+        {
+          "number": 3,
+          "text": "O feed me, Lord, that I may feed"
+        },
+        {
+          "number": 4,
+          "text": "thy hungering ones with manna sweet."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O strengthen me, that while I stand"
+        },
+        {
+          "number": 2,
+          "text": "firm on the rock, and strong in thee,"
+        },
+        {
+          "number": 3,
+          "text": "I may stretch out a loving land"
+        },
+        {
+          "number": 4,
+          "text": "to wrestlers with the troubled sea."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Lord, Speak to Me"
+}

@@ -1,0 +1,136 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "I’ll go where you want me to go, dear Lord,"
+      },
+      {
+        "number": 2,
+        "text": "Over mountain or plain or sea;"
+      },
+      {
+        "number": 3,
+        "text": "I’ll say what you want me to say, dear Lord;"
+      },
+      {
+        "number": 4,
+        "text": "I’ll be what you want me to be."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "It may not be on the mountain height"
+        },
+        {
+          "number": 2,
+          "text": "Or over the stormy sea,"
+        },
+        {
+          "number": 3,
+          "text": "It may not be at the battle’s front"
+        },
+        {
+          "number": 4,
+          "text": "My Lord will have need of me."
+        },
+        {
+          "number": 5,
+          "text": "But if, by a still, small voice he calls"
+        },
+        {
+          "number": 6,
+          "text": "To paths that I do not know,"
+        },
+        {
+          "number": 7,
+          "text": "I’ll answer, dear Lord, with my hand in thine;"
+        },
+        {
+          "number": 8,
+          "text": "I’ll go where you want me to go."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Perhaps today there are loving words"
+        },
+        {
+          "number": 2,
+          "text": "Which Jesus would have me speak"
+        },
+        {
+          "number": 3,
+          "text": "There may be now in the paths of sin"
+        },
+        {
+          "number": 4,
+          "text": "Some wand’rer whom I should seek."
+        },
+        {
+          "number": 5,
+          "text": "O Savior, if thou wilt be my guide,"
+        },
+        {
+          "number": 6,
+          "text": "Tho dark and rugged the way,"
+        },
+        {
+          "number": 7,
+          "text": "My voice shall echo the message sweet;"
+        },
+        {
+          "number": 8,
+          "text": "I’ll say what you want me to say."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "There’s surely somewhere a lowly place"
+        },
+        {
+          "number": 2,
+          "text": "In earth’s harvest fields so wide"
+        },
+        {
+          "number": 3,
+          "text": "Where I may labor through life’s short day"
+        },
+        {
+          "number": 4,
+          "text": "For Jesus, the Crucified."
+        },
+        {
+          "number": 5,
+          "text": "So trusting my all to thy tender care,"
+        },
+        {
+          "number": 6,
+          "text": "And knowing thou lovest me,"
+        },
+        {
+          "number": 7,
+          "text": "I’ll do thy will with a heart sincere:"
+        },
+        {
+          "number": 8,
+          "text": "I’ll be what you want me to be."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "I'll Go Where You Want Me to Go"
+}

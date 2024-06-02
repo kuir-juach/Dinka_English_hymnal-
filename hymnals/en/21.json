@@ -1,0 +1,89 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Immortal, invisible, God only wise,"
+        },
+        {
+          "number": 2,
+          "text": "In light inaccessible hid from our eyes,"
+        },
+        {
+          "number": 3,
+          "text": "Most blessed, most glorious, the Ancient of Days,"
+        },
+        {
+          "number": 4,
+          "text": "Almighty, victorious, Thy great Name we praise."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Unresting, unhasting, and silent as light,"
+        },
+        {
+          "number": 2,
+          "text": "Nor wanting, nor wasting, Thou rulest in might;"
+        },
+        {
+          "number": 3,
+          "text": "Thy justice, like mountains, high soaring above"
+        },
+        {
+          "number": 4,
+          "text": "Thy clouds, which are fountains of goodness and love."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "To all, life Thou givest, to both great and small;"
+        },
+        {
+          "number": 2,
+          "text": "In all life Thou livest, the true life of all;"
+        },
+        {
+          "number": 3,
+          "text": "We blossom and flourish as leaves on the tree,"
+        },
+        {
+          "number": 4,
+          "text": "And wither and perish – but naught changeth Thee."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Great Father of glory, pure Father of light,"
+        },
+        {
+          "number": 2,
+          "text": "Thine angels adore Thee, all veiling their sight;"
+        },
+        {
+          "number": 3,
+          "text": "All praise we would render; O help us to see"
+        },
+        {
+          "number": 4,
+          "text": "‘Tis only the splendor of light hideth Thee!"
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Immortal, Invisible, God Only Wise"
+}

@@ -1,0 +1,84 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Alleluia to Jesus who died on the tree,"
+      },
+      {
+        "number": 2,
+        "text": "And has raised up a ladder of mercy for me,"
+      },
+      {
+        "number": 3,
+        "text": "And has raised up a ladder of mercy for me."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "As Jacob with travel was weary one day,"
+        },
+        {
+          "number": 2,
+          "text": "At night on a stone for a pillow he lay;"
+        },
+        {
+          "number": 3,
+          "text": "He saw in a vision a ladder so high"
+        },
+        {
+          "number": 4,
+          "text": "That its foot was on earth and its top in the sky."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Come let us ascend! All may climb it who will;"
+        },
+        {
+          "number": 2,
+          "text": "For the angels of Jacob are guarding it still:"
+        },
+        {
+          "number": 3,
+          "text": "And remember each step that by faith we passo’er,"
+        },
+        {
+          "number": 4,
+          "text": "Some prophet or martyr has trod it before."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "And when we arrive at the haven of rest"
+        },
+        {
+          "number": 2,
+          "text": "We shall hear the glad words, “Come up hither, ye blest,"
+        },
+        {
+          "number": 3,
+          "text": "Here are regions of light, here are mansions of bliss.”"
+        },
+        {
+          "number": 4,
+          "text": "O who would not climb such a ladder as this?"
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "As Jacob With Travel Was Weary"
+}

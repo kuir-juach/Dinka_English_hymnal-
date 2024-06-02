@@ -1,0 +1,109 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "God shall “wipe away all tears;”"
+      },
+      {
+        "number": 2,
+        "text": "There’s no death, no pain, nor fears;"
+      },
+      {
+        "number": 3,
+        "text": "And they count not time by years,"
+      },
+      {
+        "number": 4,
+        "text": "For there is “no night there.”"
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "In the land of fadeless day"
+        },
+        {
+          "number": 2,
+          "text": "Lies “the city four-square;”"
+        },
+        {
+          "number": 3,
+          "text": "It shall never pass away,"
+        },
+        {
+          "number": 4,
+          "text": "And there is “no night there.”"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "All the gates of pearl are made,"
+        },
+        {
+          "number": 2,
+          "text": "In “the city four-square;”"
+        },
+        {
+          "number": 3,
+          "text": "All the streets with gold are laid,"
+        },
+        {
+          "number": 4,
+          "text": "And there is “no night there.”"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "And the gates shall never close"
+        },
+        {
+          "number": 2,
+          "text": "To “the city four-square;”"
+        },
+        {
+          "number": 3,
+          "text": "There life’s crystal river flows,"
+        },
+        {
+          "number": 4,
+          "text": "And there is “no night there.”"
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "There they need no sunshine bright,"
+        },
+        {
+          "number": 2,
+          "text": "In “that city four-square;”"
+        },
+        {
+          "number": 3,
+          "text": "For the Lamb is all the light,"
+        },
+        {
+          "number": 4,
+          "text": "And there is “no night there.”"
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "No Night There"
+}

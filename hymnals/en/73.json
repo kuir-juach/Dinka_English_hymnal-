@@ -1,0 +1,89 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Holy, holy, holy! Lord God Almighty!"
+        },
+        {
+          "number": 2,
+          "text": "Early in the morning our song shall rise to Thee;"
+        },
+        {
+          "number": 3,
+          "text": "Holy, holy, holy, merciful and mighty!"
+        },
+        {
+          "number": 4,
+          "text": "God in three persons, blessed Trinity!"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Holy, holy, holy! Angels adore Thee,"
+        },
+        {
+          "number": 2,
+          "text": "Casting down their bright crowns around the glassy sea;"
+        },
+        {
+          "number": 3,
+          "text": "Thousands and ten thousands worship low before Thee,"
+        },
+        {
+          "number": 4,
+          "text": "Which wert, and art, and evermore shalt be."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Holy, holy, holy! though the darkness hide Thee,"
+        },
+        {
+          "number": 2,
+          "text": "Though the eye of  man Thy great glory may not see;"
+        },
+        {
+          "number": 3,
+          "text": "Only Thou art holy; there is none beside Thee,"
+        },
+        {
+          "number": 4,
+          "text": "Perfect in power, in love, and purity."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Holy, holy, holy! Lord God Almighty!"
+        },
+        {
+          "number": 2,
+          "text": "All Thy works shall praise Thy name, in earth, and sky, and sea;"
+        },
+        {
+          "number": 3,
+          "text": "Holy, holy, holy; merciful and mighty!"
+        },
+        {
+          "number": 4,
+          "text": "God in three persons, blessed Trinity!"
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Holy Holy Holy"
+}

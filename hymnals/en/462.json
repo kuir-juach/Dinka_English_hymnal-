@@ -1,0 +1,88 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "This is my story, this is my song,"
+      },
+      {
+        "number": 2,
+        "text": "praising my Savior all the day long;"
+      },
+      {
+        "number": 3,
+        "text": "this is my story, this is my song,"
+      },
+      {
+        "number": 4,
+        "text": "praising my Savior all the day long."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Blessed assurance, Jesus is mine!"
+        },
+        {
+          "number": 2,
+          "text": "O what a foretaste of glory divine!"
+        },
+        {
+          "number": 3,
+          "text": "Heir of salvation, purchase of God,"
+        },
+        {
+          "number": 4,
+          "text": "born of his Spirit, washed in his blood."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Perfect submission, perfect delight,"
+        },
+        {
+          "number": 2,
+          "text": "visions of rapture now burst on my sight;"
+        },
+        {
+          "number": 3,
+          "text": "angels descending bring from above"
+        },
+        {
+          "number": 4,
+          "text": "echoes of mercy, whispers of love."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Perfect submission, all is at rest;"
+        },
+        {
+          "number": 2,
+          "text": "I in my Savior am happy and blest,"
+        },
+        {
+          "number": 3,
+          "text": "watching and waiting, looking above,"
+        },
+        {
+          "number": 4,
+          "text": "filled with his goodness, lost in his love."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Blessed Assurance, Jesus is Mine!"
+}

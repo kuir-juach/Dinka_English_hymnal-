@@ -1,0 +1,68 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Watchman, tell us of the night what its signs of promise are."
+        },
+        {
+          "number": 2,
+          "text": "Traveler, o’er yon mountain’s height, see that glory beaming star."
+        },
+        {
+          "number": 3,
+          "text": "Watchman, does its beauteous ray aught of joy or hope foretell?"
+        },
+        {
+          "number": 4,
+          "text": "Traveler, yes; it brings the day, promised day of Israel."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Watchman, tell us of the night, higher yet that star ascends."
+        },
+        {
+          "number": 2,
+          "text": "Traveler, blessedness and light, peace and truth its course portends."
+        },
+        {
+          "number": 3,
+          "text": "Watchman, will its beams alone gild the spot that gave them birth?"
+        },
+        {
+          "number": 4,
+          "text": "Traveler, ages are its own; See it bursts o’er all the earth."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Watchman, tell us of the night, for the morning seems to dawn."
+        },
+        {
+          "number": 2,
+          "text": "Traveler, darkness takes its flight, doubt and terror are withdrawn."
+        },
+        {
+          "number": 3,
+          "text": "Watchman, let your wanderings cease; hasten to your quiet home."
+        },
+        {
+          "number": 4,
+          "text": "Traveler, lo, the Prince of Peace, lo, the Son of God is come!"
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Watchman, Tell Us of the Night"
+}

@@ -1,0 +1,80 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "I’m a pilgrim, and I’m a stranger;"
+      },
+      {
+        "number": 2,
+        "text": "I can tarry, I can tarry but a night."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I’m a pilgrim, and I’m a stranger;"
+        },
+        {
+          "number": 2,
+          "text": "I can tarry, I can tarry but a night;"
+        },
+        {
+          "number": 3,
+          "text": "Do not detain me, for I am going"
+        },
+        {
+          "number": 4,
+          "text": "To where the fountains are ever flowing."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "There the glory is ever shining!"
+        },
+        {
+          "number": 2,
+          "text": "O, my longing heart, my longing heart is there;"
+        },
+        {
+          "number": 3,
+          "text": "Here in this country so dark and dreary,"
+        },
+        {
+          "number": 4,
+          "text": "I long have wandered forlorn and weary."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "There’s the city to which I journey;"
+        },
+        {
+          "number": 2,
+          "text": "My Redeemer, my Redeemer is its light!"
+        },
+        {
+          "number": 3,
+          "text": "There is no sorrow, nor any sighing,"
+        },
+        {
+          "number": 4,
+          "text": "Nor any tears there, or any dying."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "I'm a Pilgrim"
+}

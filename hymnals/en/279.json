@@ -1,0 +1,109 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Only trust Him, only trust Him,"
+      },
+      {
+        "number": 2,
+        "text": "Only trust Him now;"
+      },
+      {
+        "number": 3,
+        "text": "He will save you, He will save you,"
+      },
+      {
+        "number": 4,
+        "text": "He will save you now."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Come, every soul by sin oppressed,"
+        },
+        {
+          "number": 2,
+          "text": "There’s mercy with the Lord,"
+        },
+        {
+          "number": 3,
+          "text": "And He will surely give you rest,"
+        },
+        {
+          "number": 4,
+          "text": "By trusting in His word."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "For Jesus shed his precious blood"
+        },
+        {
+          "number": 2,
+          "text": "Rich blessings to bestow;"
+        },
+        {
+          "number": 3,
+          "text": "Plunge now into the crimson flood"
+        },
+        {
+          "number": 4,
+          "text": "That washes white as snow."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Yes, Jesus is the truth, the way,"
+        },
+        {
+          "number": 2,
+          "text": "That leads you into rest;"
+        },
+        {
+          "number": 3,
+          "text": "Believe in Him without delay,"
+        },
+        {
+          "number": 4,
+          "text": "And you are fully blest."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Come, then, and join this holy band,"
+        },
+        {
+          "number": 2,
+          "text": "And on to glory go,"
+        },
+        {
+          "number": 3,
+          "text": "To dwell in that celestial land,"
+        },
+        {
+          "number": 4,
+          "text": "Where joys immortal flow."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Only Trust Him"
+}

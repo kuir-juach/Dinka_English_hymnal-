@@ -1,0 +1,173 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "I love to tell the story,"
+      },
+      {
+        "number": 2,
+        "text": "’twill be my theme in glory,"
+      },
+      {
+        "number": 3,
+        "text": "to tell the old, old story"
+      },
+      {
+        "number": 4,
+        "text": "of Jesus and his love."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I love to tell the story"
+        },
+        {
+          "number": 2,
+          "text": "of unseen things above,"
+        },
+        {
+          "number": 3,
+          "text": "of Jesus and his glory,"
+        },
+        {
+          "number": 4,
+          "text": "of Jesus and his love."
+        },
+        {
+          "number": 5,
+          "text": "I love to tell the story,"
+        },
+        {
+          "number": 6,
+          "text": "because I know ’tis true;"
+        },
+        {
+          "number": 7,
+          "text": "it satisfies my longings"
+        },
+        {
+          "number": 8,
+          "text": "as nothing else can do."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I love to tell the story;"
+        },
+        {
+          "number": 2,
+          "text": "more wonderful it seems"
+        },
+        {
+          "number": 3,
+          "text": "than all the golden fancies"
+        },
+        {
+          "number": 4,
+          "text": "of all our golden dreams."
+        },
+        {
+          "number": 5,
+          "text": "I love to tell the story,"
+        },
+        {
+          "number": 6,
+          "text": "it did so much for me;"
+        },
+        {
+          "number": 7,
+          "text": "and that is just the reason"
+        },
+        {
+          "number": 8,
+          "text": "I tell it now to thee."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I love to tell the story;"
+        },
+        {
+          "number": 2,
+          "text": "’tis pleasant to repeat"
+        },
+        {
+          "number": 3,
+          "text": "what seems, each time I tell it,"
+        },
+        {
+          "number": 4,
+          "text": "more wonderfully sweet."
+        },
+        {
+          "number": 5,
+          "text": "I love to tell the story,"
+        },
+        {
+          "number": 6,
+          "text": "for some have never heard"
+        },
+        {
+          "number": 7,
+          "text": "the message of salvation"
+        },
+        {
+          "number": 8,
+          "text": "from God’s own holy Word."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I love to tell the story,"
+        },
+        {
+          "number": 2,
+          "text": "for those who know it best"
+        },
+        {
+          "number": 3,
+          "text": "seem hungering and thirsting"
+        },
+        {
+          "number": 4,
+          "text": "to hear it like the rest."
+        },
+        {
+          "number": 5,
+          "text": "And when, in scenes of glory,"
+        },
+        {
+          "number": 6,
+          "text": "I sing the new, new song,"
+        },
+        {
+          "number": 7,
+          "text": "’twill be the old, old story"
+        },
+        {
+          "number": 8,
+          "text": "that I have loved so long."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "I Love to Tell the Story"
+}

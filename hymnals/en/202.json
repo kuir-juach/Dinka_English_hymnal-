@@ -1,0 +1,88 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Hail Him the King of glory,"
+      },
+      {
+        "number": 2,
+        "text": "Once the Lamb for sinners slain;"
+      },
+      {
+        "number": 3,
+        "text": "Tell, tell the wondrous story,"
+      },
+      {
+        "number": 4,
+        "text": "“Jesus comes to reign.”"
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Tell it to every kindred and nation,"
+        },
+        {
+          "number": 2,
+          "text": "Tell it far and near;"
+        },
+        {
+          "number": 3,
+          "text": "Earth’s darkest night will fade with the dawning,"
+        },
+        {
+          "number": 4,
+          "text": "Jesus will soon appear."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Nations again in strife and commotion,"
+        },
+        {
+          "number": 2,
+          "text": "Warnings by the way;"
+        },
+        {
+          "number": 3,
+          "text": "Signs in the heavens, unerring omens,"
+        },
+        {
+          "number": 4,
+          "text": "Herald the glorious day."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Children of God look up with rejoicing;"
+        },
+        {
+          "number": 2,
+          "text": "Shout and sing His praise;"
+        },
+        {
+          "number": 3,
+          "text": "Blessèd are they who, waiting and watching,"
+        },
+        {
+          "number": 4,
+          "text": "Look for the dawning rays."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Hail Him the King of Glory"
+}

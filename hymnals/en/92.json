@@ -1,0 +1,116 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "This is my Father’s world,"
+        },
+        {
+          "number": 2,
+          "text": "and to my listening ears"
+        },
+        {
+          "number": 3,
+          "text": "all nature sings, and round me rings"
+        },
+        {
+          "number": 4,
+          "text": "the music of the spheres."
+        },
+        {
+          "number": 5,
+          "text": "This is my Father’s world:"
+        },
+        {
+          "number": 6,
+          "text": "I rest me in the thought"
+        },
+        {
+          "number": 7,
+          "text": "of rocks and trees, of skies and seas;"
+        },
+        {
+          "number": 8,
+          "text": "his hand the wonders wrought."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "This is my Father’s world,"
+        },
+        {
+          "number": 2,
+          "text": "the birds their carols raise,"
+        },
+        {
+          "number": 3,
+          "text": "the morning light, the lily white,"
+        },
+        {
+          "number": 4,
+          "text": "declare their maker’s praise."
+        },
+        {
+          "number": 5,
+          "text": "This is my Father’s world:"
+        },
+        {
+          "number": 6,
+          "text": "he shines in all that’s fair;"
+        },
+        {
+          "number": 7,
+          "text": "in the rustling grass I hear him pass;"
+        },
+        {
+          "number": 8,
+          "text": "he speaks to me everywhere."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "This is my Father’s world."
+        },
+        {
+          "number": 2,
+          "text": "O let me ne’er forget"
+        },
+        {
+          "number": 3,
+          "text": "that though the wrong seems oft so strong,"
+        },
+        {
+          "number": 4,
+          "text": "God is the ruler yet."
+        },
+        {
+          "number": 5,
+          "text": "This is my Father’s world:"
+        },
+        {
+          "number": 6,
+          "text": "why should my heart be sad?"
+        },
+        {
+          "number": 7,
+          "text": "The Lord is King; let the heavens ring!"
+        },
+        {
+          "number": 8,
+          "text": "God reigns; let the earth be glad!"
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "This Is My Father's World"
+}

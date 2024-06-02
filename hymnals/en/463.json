@@ -1,0 +1,57 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Peace, perfect peace, in this dark world of sin?"
+        },
+        {
+          "number": 2,
+          "text": "The blood of Jesus whispers peace within."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Peace, perfect peace, by thronging duties pressed?"
+        },
+        {
+          "number": 2,
+          "text": "To do the will of Jesus: this is rest."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Peace, perfect peace, with loved ones far away?"
+        },
+        {
+          "number": 2,
+          "text": "In Jesus’ keeping we are safe, and they."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Peace, perfect peace, our future all unknown?"
+        },
+        {
+          "number": 2,
+          "text": "Jesus we know, and He is on the throne."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Peace, Perfect Peace"
+}

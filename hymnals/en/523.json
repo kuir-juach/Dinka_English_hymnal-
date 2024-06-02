@@ -1,0 +1,109 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "I need no other evidence,"
+      },
+      {
+        "number": 2,
+        "text": "I need no other plea;"
+      },
+      {
+        "number": 3,
+        "text": "It is enough that Jesus died,"
+      },
+      {
+        "number": 4,
+        "text": "And rose again for me."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "My faith has found a resting place,"
+        },
+        {
+          "number": 2,
+          "text": "Not in a manmade creed;"
+        },
+        {
+          "number": 3,
+          "text": "I trust the ever living One,"
+        },
+        {
+          "number": 4,
+          "text": "That He for me shall plead."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Enough for me that Jesus saves,"
+        },
+        {
+          "number": 2,
+          "text": "This ends my fear and doubt;"
+        },
+        {
+          "number": 3,
+          "text": "A sinful soul, I come to Him,"
+        },
+        {
+          "number": 4,
+          "text": "He will not cast me out."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "My soul is resting on the Word,"
+        },
+        {
+          "number": 2,
+          "text": "The living Word of God,"
+        },
+        {
+          "number": 3,
+          "text": "Salvation in my Savior’s name,"
+        },
+        {
+          "number": 4,
+          "text": "Salvation through His blood."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "My great Physician heals the sick,"
+        },
+        {
+          "number": 2,
+          "text": "The lost He came to save;"
+        },
+        {
+          "number": 3,
+          "text": "For me His precious blood He shed,"
+        },
+        {
+          "number": 4,
+          "text": "For me His life He gave."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "My Faith Has Found a Resting Place"
+}

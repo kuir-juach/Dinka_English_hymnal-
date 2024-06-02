@@ -1,0 +1,105 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Savior, Savior, hear my humble cry;"
+      },
+      {
+        "number": 2,
+        "text": "while on others thou art calling,"
+      },
+      {
+        "number": 3,
+        "text": "do not pass me by."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Pass me not, O gentle Savior,"
+        },
+        {
+          "number": 2,
+          "text": "hear my humble cry;"
+        },
+        {
+          "number": 3,
+          "text": "while on others thou art calling,"
+        },
+        {
+          "number": 4,
+          "text": "do not pass me by."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Let me at thy throne of mercy"
+        },
+        {
+          "number": 2,
+          "text": "find a sweet relief,"
+        },
+        {
+          "number": 3,
+          "text": "kneeling there in deep contrition;"
+        },
+        {
+          "number": 4,
+          "text": "help my unbelief."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Trusting only in thy merit,"
+        },
+        {
+          "number": 2,
+          "text": "would I seek thy face;"
+        },
+        {
+          "number": 3,
+          "text": "heal my wounded, broken spirit,"
+        },
+        {
+          "number": 4,
+          "text": "save me by thy grace."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Thou the spring of all my comfort,"
+        },
+        {
+          "number": 2,
+          "text": "more than life to me,"
+        },
+        {
+          "number": 3,
+          "text": "whom have I on earth beside thee?"
+        },
+        {
+          "number": 4,
+          "text": "Whom in heaven but thee?"
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Pass Me Not, O Gentle Savior"
+}

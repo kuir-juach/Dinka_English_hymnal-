@@ -1,0 +1,116 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "This is the threefold truth"
+        },
+        {
+          "number": 2,
+          "text": "On which our faith depends;"
+        },
+        {
+          "number": 3,
+          "text": "And with this joyful cry"
+        },
+        {
+          "number": 4,
+          "text": "Worship begins and ends;"
+        },
+        {
+          "number": 5,
+          "text": "Refrain:"
+        },
+        {
+          "number": 6,
+          "text": "Christ has died!"
+        },
+        {
+          "number": 7,
+          "text": "Christ is risen!"
+        },
+        {
+          "number": 8,
+          "text": "Christ will come again!"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "By this we are upheld"
+        },
+        {
+          "number": 2,
+          "text": "When doubt and grief assails"
+        },
+        {
+          "number": 3,
+          "text": "Our Christian fortitude,"
+        },
+        {
+          "number": 4,
+          "text": "And only grace avails."
+        },
+        {
+          "number": 5,
+          "text": "Refrain:"
+        },
+        {
+          "number": 6,
+          "text": "Christ has died!"
+        },
+        {
+          "number": 7,
+          "text": "Christ is risen!"
+        },
+        {
+          "number": 8,
+          "text": "Christ will come again!"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "This is the threefold truth"
+        },
+        {
+          "number": 2,
+          "text": "Which, if we hold it fast,"
+        },
+        {
+          "number": 3,
+          "text": "Changes the world and us"
+        },
+        {
+          "number": 4,
+          "text": "And brings us home at last."
+        },
+        {
+          "number": 5,
+          "text": "Refrain:"
+        },
+        {
+          "number": 6,
+          "text": "Christ has died!"
+        },
+        {
+          "number": 7,
+          "text": "Christ is risen!"
+        },
+        {
+          "number": 8,
+          "text": "Christ will come again!"
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "This Is the Threefold Truth"
+}

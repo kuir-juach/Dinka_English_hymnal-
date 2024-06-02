@@ -1,0 +1,88 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Like the stars of the morning,"
+      },
+      {
+        "number": 2,
+        "text": "His brightness adorning,"
+      },
+      {
+        "number": 3,
+        "text": "They shall shine in their beauty,"
+      },
+      {
+        "number": 4,
+        "text": "Bright gems for His crown."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "When He cometh, when He cometh"
+        },
+        {
+          "number": 2,
+          "text": "To make up His jewels,"
+        },
+        {
+          "number": 3,
+          "text": "All His jewels, precious jewels,"
+        },
+        {
+          "number": 4,
+          "text": "His loved and His own."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "He will gather, He will gather"
+        },
+        {
+          "number": 2,
+          "text": "The gems for His kingdom;"
+        },
+        {
+          "number": 3,
+          "text": "All the pure ones, all the bright ones,"
+        },
+        {
+          "number": 4,
+          "text": "His loved and His own."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Little children, little children,"
+        },
+        {
+          "number": 2,
+          "text": "Who love their Redeemer,"
+        },
+        {
+          "number": 3,
+          "text": "Are the jewels, precious jewels,"
+        },
+        {
+          "number": 4,
+          "text": "His loved and His own."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "When He Cometh"
+}

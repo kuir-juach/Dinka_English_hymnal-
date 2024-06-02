@@ -1,0 +1,68 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Jesus, stand among us"
+        },
+        {
+          "number": 2,
+          "text": "In Thy risen power;"
+        },
+        {
+          "number": 3,
+          "text": "Let this time of worship"
+        },
+        {
+          "number": 4,
+          "text": "Be a hallowed hour."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Breathe the Holy Spirit"
+        },
+        {
+          "number": 2,
+          "text": "Into every heart;"
+        },
+        {
+          "number": 3,
+          "text": "Bid the fears and sorrows"
+        },
+        {
+          "number": 4,
+          "text": "From each soul depart."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Thus with quickened footsteps"
+        },
+        {
+          "number": 2,
+          "text": "We pursue our way,"
+        },
+        {
+          "number": 3,
+          "text": "Watching for the dawning"
+        },
+        {
+          "number": 4,
+          "text": "Of eternal day."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Jesus, Stand Among Us"
+}

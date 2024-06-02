@@ -1,0 +1,136 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Wake the song, wake the song,"
+      },
+      {
+        "number": 2,
+        "text": "The song of joy and gladness,"
+      },
+      {
+        "number": 3,
+        "text": "Wake the song, wake the song,"
+      },
+      {
+        "number": 4,
+        "text": "The song of Jubilee."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Wake the song of joy and gladness;"
+        },
+        {
+          "number": 2,
+          "text": "Hither bring your noblest lays;"
+        },
+        {
+          "number": 3,
+          "text": "Banish every thought of sadness,"
+        },
+        {
+          "number": 4,
+          "text": "Pouring forth your highest praise."
+        },
+        {
+          "number": 5,
+          "text": "Sing to Him whose care has brought us"
+        },
+        {
+          "number": 6,
+          "text": "Once again with friends to meet,"
+        },
+        {
+          "number": 7,
+          "text": "And whose loving voice has taught us"
+        },
+        {
+          "number": 8,
+          "text": "Of the way to Jesus’ feet."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Joyfully with songs and banners,"
+        },
+        {
+          "number": 2,
+          "text": "We will greet the festal day;"
+        },
+        {
+          "number": 3,
+          "text": "Shout aloud our glad hosannas,"
+        },
+        {
+          "number": 4,
+          "text": "And our grateful homage pay."
+        },
+        {
+          "number": 5,
+          "text": "We will chant our Savior’s glory"
+        },
+        {
+          "number": 6,
+          "text": "while our thoughts we raise above,"
+        },
+        {
+          "number": 7,
+          "text": "Telling still the old, old, story,"
+        },
+        {
+          "number": 8,
+          "text": "Precious theme- redeeming love!"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Thanks to Thee, O holy Father,"
+        },
+        {
+          "number": 2,
+          "text": "For the mercies of the year;"
+        },
+        {
+          "number": 3,
+          "text": "May each heart, as here we gather,"
+        },
+        {
+          "number": 4,
+          "text": "Swell with gratitude sincere,"
+        },
+        {
+          "number": 5,
+          "text": "Thanks to Thee, O loving Savior,"
+        },
+        {
+          "number": 6,
+          "text": "For redemption through Thy blood."
+        },
+        {
+          "number": 7,
+          "text": "Breathe upon us, Holy Spirit,"
+        },
+        {
+          "number": 8,
+          "text": "Sweetly draw us near to God."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Wake the Song"
+}

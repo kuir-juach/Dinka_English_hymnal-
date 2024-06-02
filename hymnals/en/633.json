@@ -1,0 +1,109 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "When we all get to heaven,"
+      },
+      {
+        "number": 2,
+        "text": "What a day of rejoicing that will be!"
+      },
+      {
+        "number": 3,
+        "text": "When we all see Jesus,"
+      },
+      {
+        "number": 4,
+        "text": "We’ll sing and shout the victory!"
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Sing the wondrous love of Jesus;"
+        },
+        {
+          "number": 2,
+          "text": "Sing his mercy and his grace."
+        },
+        {
+          "number": 3,
+          "text": "In the mansions bright and blessed"
+        },
+        {
+          "number": 4,
+          "text": "He’ll prepare for us a place."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "While we walk the pilgrim pathway,"
+        },
+        {
+          "number": 2,
+          "text": "Clouds will overspread the sky;"
+        },
+        {
+          "number": 3,
+          "text": "But when traveling days are over,"
+        },
+        {
+          "number": 4,
+          "text": "Not a shadow, not a sigh."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Let us then be true and faithful,"
+        },
+        {
+          "number": 2,
+          "text": "Trusting, serving every day;"
+        },
+        {
+          "number": 3,
+          "text": "Just one glimpse of him in glory"
+        },
+        {
+          "number": 4,
+          "text": "Will the toils of life repay."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Onward to the prize before us!"
+        },
+        {
+          "number": 2,
+          "text": "Soon his beauty we’ll behold;"
+        },
+        {
+          "number": 3,
+          "text": "Soon the pearly gates will open;"
+        },
+        {
+          "number": 4,
+          "text": "We shall tread the streets of gold."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "When We All Get to Heaven"
+}

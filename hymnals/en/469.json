@@ -1,0 +1,88 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Leaning, leaning,"
+      },
+      {
+        "number": 2,
+        "text": "safe and secure from all alarms;"
+      },
+      {
+        "number": 3,
+        "text": "leaning, leaning,"
+      },
+      {
+        "number": 4,
+        "text": "leaning on the everlasting arms."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "What a fellowship, what a joy divine,"
+        },
+        {
+          "number": 2,
+          "text": "leaning on the everlasting arms;"
+        },
+        {
+          "number": 3,
+          "text": "what a blessedness, what a peace is mine,"
+        },
+        {
+          "number": 4,
+          "text": "leaning on the everlasting arms."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O how sweet to walk in this pilgrim way,"
+        },
+        {
+          "number": 2,
+          "text": "leaning on the everlasting arms;"
+        },
+        {
+          "number": 3,
+          "text": "O how bright the path grows from day to day,"
+        },
+        {
+          "number": 4,
+          "text": "leaning on the everlasting arms."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "What have I to dread, what have I to fear,"
+        },
+        {
+          "number": 2,
+          "text": "leaning on the everlasting arms?"
+        },
+        {
+          "number": 3,
+          "text": "I have blessed peace with my Lord so near,"
+        },
+        {
+          "number": 4,
+          "text": "leaning on the everlasting arms."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Leaning on the Everlasting Arms"
+}

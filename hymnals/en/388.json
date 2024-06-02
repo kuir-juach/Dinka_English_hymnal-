@@ -1,0 +1,145 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Welcome, welcome, ever welcome,"
+      },
+      {
+        "number": 2,
+        "text": "Blessed Sabbath day,"
+      },
+      {
+        "number": 3,
+        "text": "Welcome, welcome, ever welcome,"
+      },
+      {
+        "number": 4,
+        "text": "Blessed Sabbath day."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Don’t forget the Sabbath,"
+        },
+        {
+          "number": 2,
+          "text": "The Lord our God hath blest,"
+        },
+        {
+          "number": 3,
+          "text": "Of all the week the brightest,"
+        },
+        {
+          "number": 4,
+          "text": "Of all the week the best;"
+        },
+        {
+          "number": 5,
+          "text": "It brings repose from labor,"
+        },
+        {
+          "number": 6,
+          "text": "It tells of joy divine,"
+        },
+        {
+          "number": 7,
+          "text": "Its beams of light descending,"
+        },
+        {
+          "number": 8,
+          "text": "With heavenly beauty shine."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Keep the Sabbath holy,"
+        },
+        {
+          "number": 2,
+          "text": "And worship Him today,"
+        },
+        {
+          "number": 3,
+          "text": "Who said to His disciples,"
+        },
+        {
+          "number": 4,
+          "text": "“I am the living way;”"
+        },
+        {
+          "number": 5,
+          "text": "And if we meekly follow"
+        },
+        {
+          "number": 6,
+          "text": "Our Savior here below,"
+        },
+        {
+          "number": 7,
+          "text": "He’ll give us of the fountain"
+        },
+        {
+          "number": 8,
+          "text": "Whose streams eternal flow."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Day of sacred pleasure!"
+        },
+        {
+          "number": 2,
+          "text": "Its golden hours we’ll spend"
+        },
+        {
+          "number": 3,
+          "text": "In thankful hymns to Jesus,"
+        },
+        {
+          "number": 4,
+          "text": "The children’s dearest Friend;"
+        },
+        {
+          "number": 5,
+          "text": "O gentle loving, Savior,"
+        },
+        {
+          "number": 6,
+          "text": "How good and kind Thou art,"
+        },
+        {
+          "number": 7,
+          "text": "How precious is Thy promise"
+        },
+        {
+          "number": 8,
+          "text": "To dwell in every heart!"
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": " "
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Don't Forget the Sabbath"
+}

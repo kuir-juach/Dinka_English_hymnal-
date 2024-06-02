@@ -1,0 +1,89 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Savior, breathe an evening blessing,"
+        },
+        {
+          "number": 2,
+          "text": "Ere repose our spirits seal;"
+        },
+        {
+          "number": 3,
+          "text": "Sin and want we come confessing;"
+        },
+        {
+          "number": 4,
+          "text": "Thou canst save, and Thou canst heal."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Though the night be dark and dreary,"
+        },
+        {
+          "number": 2,
+          "text": "Darkness cannot hide from Thee;"
+        },
+        {
+          "number": 3,
+          "text": "Thou art He who, never weary,"
+        },
+        {
+          "number": 4,
+          "text": "Watchest where Thy people be."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Though destruction walk around us."
+        },
+        {
+          "number": 2,
+          "text": "Though the arrow past us fly,"
+        },
+        {
+          "number": 3,
+          "text": "Angel guards from Thee Surround us,"
+        },
+        {
+          "number": 4,
+          "text": "We are safe if Thou art nigh."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Should swift death this night o’re-take us,"
+        },
+        {
+          "number": 2,
+          "text": "And our couch become our tomb,"
+        },
+        {
+          "number": 3,
+          "text": "May the morn of glory wake us,"
+        },
+        {
+          "number": 4,
+          "text": "Clad in light and deathless bloom."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Savior, Breathe an Evening Blessing"
+}

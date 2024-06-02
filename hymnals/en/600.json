@@ -1,0 +1,88 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "“Hold fast till I come,” sweet promise of heaven–"
+      },
+      {
+        "number": 2,
+        "text": "“The kingdom restored, to you shall be given.”"
+      },
+      {
+        "number": 3,
+        "text": "“Come, enter My joy, sit down on the throne;"
+      },
+      {
+        "number": 4,
+        "text": "Bright crowns are in waiting; hold fast till I come.”"
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Sweet promise is given to all who believe–"
+        },
+        {
+          "number": 2,
+          "text": "“Behold I come quickly, Mine own to receive;"
+        },
+        {
+          "number": 3,
+          "text": "Hold fast till I come; the danger is great;"
+        },
+        {
+          "number": 4,
+          "text": "Sleep not as do others; be watchful, and wait.”"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "We’ll “watch unto prayer” with lamps burning bright;"
+        },
+        {
+          "number": 2,
+          "text": "He comes to all others a “thief in the night.”"
+        },
+        {
+          "number": 3,
+          "text": "We know He is near, but know not the day–"
+        },
+        {
+          "number": 4,
+          "text": "As spring shows that summer is not far away."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Yes! this is our hope, ’tis built on His word–"
+        },
+        {
+          "number": 2,
+          "text": "The glorious appearing of Jesus, our Lord;"
+        },
+        {
+          "number": 3,
+          "text": "Of promises all, it stands as the sum:"
+        },
+        {
+          "number": 4,
+          "text": "“Behold I come quickly; hold fast till I come.”"
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Hold Fast Till I Come"
+}

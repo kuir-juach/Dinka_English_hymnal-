@@ -1,0 +1,88 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "This, this is Christ the King,"
+      },
+      {
+        "number": 2,
+        "text": "Whom shepherds guard and angels sing:"
+      },
+      {
+        "number": 3,
+        "text": "Haste, haste to bring Him laud,"
+      },
+      {
+        "number": 4,
+        "text": "The babe, the son of Mary."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "What child is this, who, laid to rest,"
+        },
+        {
+          "number": 2,
+          "text": "On Mary`s lap is sleeping?"
+        },
+        {
+          "number": 3,
+          "text": "Whom angels greet with anthems sweet,"
+        },
+        {
+          "number": 4,
+          "text": "While shepherds watch are keeping?"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Why lies He in such mean estate"
+        },
+        {
+          "number": 2,
+          "text": "Where ox and ass are feeding?"
+        },
+        {
+          "number": 3,
+          "text": "Good Christian, fear: for sinners here"
+        },
+        {
+          "number": 4,
+          "text": "The silent Word is pleading."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "So bring Him incense, gold, and myrrh,"
+        },
+        {
+          "number": 2,
+          "text": "Come, peasant, king, to own Him,"
+        },
+        {
+          "number": 3,
+          "text": "The King of kings salvation brings,"
+        },
+        {
+          "number": 4,
+          "text": "Let loving hearts enthrone Him."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "What Child Is This"
+}

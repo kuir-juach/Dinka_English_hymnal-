@@ -1,0 +1,89 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Lord, while for all mankind we pray"
+        },
+        {
+          "number": 2,
+          "text": "Of every clime and coast,"
+        },
+        {
+          "number": 3,
+          "text": "O hear us for our native land,"
+        },
+        {
+          "number": 4,
+          "text": "The land we love the most!"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O guard our shores from every foe,"
+        },
+        {
+          "number": 2,
+          "text": "With peace our borders bless;"
+        },
+        {
+          "number": 3,
+          "text": "With prosperous times our cities crown,"
+        },
+        {
+          "number": 4,
+          "text": "Our fields with plenteousness!"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Unite us in the sacred love"
+        },
+        {
+          "number": 2,
+          "text": "Of knowledge, truth, and Thee;"
+        },
+        {
+          "number": 3,
+          "text": "And let our hills and valleys shout"
+        },
+        {
+          "number": 4,
+          "text": "The songs of liberty."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Lord of the nations, thus to Thee"
+        },
+        {
+          "number": 2,
+          "text": "Our country we commend;"
+        },
+        {
+          "number": 3,
+          "text": "Be Thou her Refuge and her trust,"
+        },
+        {
+          "number": 4,
+          "text": "Her everlasting friend."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Lord, While for All Mankind We Pray"
+}

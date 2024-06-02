@@ -1,0 +1,92 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Faith of our fathers, living still,"
+        },
+        {
+          "number": 2,
+          "text": "In spite of dungeon, fire and sword;"
+        },
+        {
+          "number": 3,
+          "text": "O how our hearts beat high with joy"
+        },
+        {
+          "number": 4,
+          "text": "Whenever we hear that glorious Word!"
+        },
+        {
+          "number": 5,
+          "text": "Faith of our fathers, holy faith!"
+        },
+        {
+          "number": 6,
+          "text": "We will be true to thee till death."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Our fathers, chained in prisons dark,"
+        },
+        {
+          "number": 2,
+          "text": "Were still in heart and conscience free:"
+        },
+        {
+          "number": 3,
+          "text": "How sweet would be their children’s fate."
+        },
+        {
+          "number": 4,
+          "text": "If they, like them, could die for thee!"
+        },
+        {
+          "number": 5,
+          "text": "Faith of our fathers, holy faith!"
+        },
+        {
+          "number": 6,
+          "text": "We will be true to thee till death."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Faith of our fathers, we will love"
+        },
+        {
+          "number": 2,
+          "text": "Both friend and foe in all our strife;"
+        },
+        {
+          "number": 3,
+          "text": "And preach Thee, too, as love knows how"
+        },
+        {
+          "number": 4,
+          "text": "By kindly words and virtuous life."
+        },
+        {
+          "number": 5,
+          "text": "Faith of our fathers, holy faith!"
+        },
+        {
+          "number": 6,
+          "text": "We will be true to thee till death."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Faith of Our Fathers"
+}

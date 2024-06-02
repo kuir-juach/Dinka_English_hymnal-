@@ -1,0 +1,47 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Let all the world in every corner sing, My God and King!"
+        },
+        {
+          "number": 2,
+          "text": "The heavens are not too high, His praise may thither fly;"
+        },
+        {
+          "number": 3,
+          "text": "The earth is not too low, His praises there may grow."
+        },
+        {
+          "number": 4,
+          "text": "Let all the world in every corner sing, My God and King!"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Let all the world in every corner sing, My God and King!"
+        },
+        {
+          "number": 2,
+          "text": "The church with psalms must shout, No door can keep them out;"
+        },
+        {
+          "number": 3,
+          "text": "But, above all, the heart must bear the longest part."
+        },
+        {
+          "number": 4,
+          "text": "Let all the world in every corner sing, My God and King!"
+        }
+      ],
+      "number": 2
+    }
+  ],
+  "title": "Let All the World in Every Corner Sing"
+}

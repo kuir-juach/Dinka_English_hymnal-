@@ -1,0 +1,80 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Blessed Sabbath made for man,"
+      },
+      {
+        "number": 2,
+        "text": "Gift from the Creator’s hand."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Crowning jewel of creation,"
+        },
+        {
+          "number": 2,
+          "text": "Blest and hallowed, sanctified;"
+        },
+        {
+          "number": 3,
+          "text": "Time and changes all transcending,"
+        },
+        {
+          "number": 4,
+          "text": "Shared forever, glorified."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Sin and sickness, prayer and weeping"
+        },
+        {
+          "number": 2,
+          "text": "Cease at close of earthly days;"
+        },
+        {
+          "number": 3,
+          "text": "But Thy Sabbath is eternal,"
+        },
+        {
+          "number": 4,
+          "text": "Joyful thanks to Thee we raise!"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Teach us Lord, in storm or sunshine"
+        },
+        {
+          "number": 2,
+          "text": "How to truly rest in Thee,"
+        },
+        {
+          "number": 3,
+          "text": "May Thy Sabbath peace enfold us"
+        },
+        {
+          "number": 4,
+          "text": "And our shelter ever be."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Crowning Jewel of Creation"
+}

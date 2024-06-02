@@ -1,0 +1,47 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "What joy it is to worship here,"
+        },
+        {
+          "number": 2,
+          "text": "And find ourselves at home,"
+        },
+        {
+          "number": 3,
+          "text": "Where God, who uses every gift,"
+        },
+        {
+          "number": 4,
+          "text": "Has room for all who come!"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Yet are no two of us alike"
+        },
+        {
+          "number": 2,
+          "text": "Of all the human race,"
+        },
+        {
+          "number": 3,
+          "text": "And we must seek a common ground"
+        },
+        {
+          "number": 4,
+          "text": "If we would share His grace."
+        }
+      ],
+      "number": 2
+    }
+  ],
+  "title": "What Joy It Is to Worship Here"
+}

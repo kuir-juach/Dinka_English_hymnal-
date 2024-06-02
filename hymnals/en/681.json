@@ -1,0 +1,26 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "This is the day the Lord hath made;"
+        },
+        {
+          "number": 2,
+          "text": "he calls the hours his own."
+        },
+        {
+          "number": 3,
+          "text": "Let heaven rejoice, let earth be glad,"
+        },
+        {
+          "number": 4,
+          "text": "and praise surround the throne."
+        }
+      ],
+      "number": 1
+    }
+  ],
+  "title": "This Is the Day the Lord Hath Made"
+}

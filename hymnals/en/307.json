@@ -1,0 +1,109 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "I am trusting, Lord, in Thee."
+      },
+      {
+        "number": 2,
+        "text": "O thou Lamb of Calvary;"
+      },
+      {
+        "number": 3,
+        "text": "Humbly at Thy cross I bow."
+      },
+      {
+        "number": 4,
+        "text": "Save me, Jesus, save me now."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I am coming to the cross;"
+        },
+        {
+          "number": 2,
+          "text": "I am poor and weak and blind;"
+        },
+        {
+          "number": 3,
+          "text": "I am counting all but dross;"
+        },
+        {
+          "number": 4,
+          "text": "I shall full salvation find."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Long my heart has sighed for Thee;"
+        },
+        {
+          "number": 2,
+          "text": "Long has evil reigned within;"
+        },
+        {
+          "number": 3,
+          "text": "Jesus sweetly speaks to me:"
+        },
+        {
+          "number": 4,
+          "text": "“I will cleanse you from all sin.”"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Here I give my all to Thee:"
+        },
+        {
+          "number": 2,
+          "text": "Friends and time and earthly store;"
+        },
+        {
+          "number": 3,
+          "text": "Soul and body Thine to be,"
+        },
+        {
+          "number": 4,
+          "text": "Wholly Thine forevermore."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Jesus comes! He fills my soul!"
+        },
+        {
+          "number": 2,
+          "text": "Perfected in Him I am;"
+        },
+        {
+          "number": 3,
+          "text": "I am every whit made whole:"
+        },
+        {
+          "number": 4,
+          "text": "Glory, glory to the Lamb!"
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "I Am Coming to the Cross"
+}

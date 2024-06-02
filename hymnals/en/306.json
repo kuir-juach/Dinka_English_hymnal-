@@ -1,0 +1,88 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Draw me nearer, nearer, blessed Lord,"
+      },
+      {
+        "number": 2,
+        "text": "to the cross where thou hast died."
+      },
+      {
+        "number": 3,
+        "text": "Draw me nearer, nearer, nearer, blessed Lord,"
+      },
+      {
+        "number": 4,
+        "text": "to thy precious, bleeding side."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I am thine, O Lord, I have heard thy voice,"
+        },
+        {
+          "number": 2,
+          "text": "and it told thy love to me;"
+        },
+        {
+          "number": 3,
+          "text": "but I long to rise in the arms of faith"
+        },
+        {
+          "number": 4,
+          "text": "and be closer drawn to thee."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Consecrate me now to thy service, Lord,"
+        },
+        {
+          "number": 2,
+          "text": "by the power of grace divine;"
+        },
+        {
+          "number": 3,
+          "text": "let my soul look up with a steadfast hope,"
+        },
+        {
+          "number": 4,
+          "text": "and my will be lost in thine."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O the pure delight of a single hour"
+        },
+        {
+          "number": 2,
+          "text": "that before thy throne I spend,"
+        },
+        {
+          "number": 3,
+          "text": "when I kneel in prayer, and with thee, my God,"
+        },
+        {
+          "number": 4,
+          "text": "I commune as friend with friend!"
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Draw Me Nearer"
+}

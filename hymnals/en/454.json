@@ -1,0 +1,63 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "I am bound for the kingdom,"
+      },
+      {
+        "number": 2,
+        "text": "Will you go to glory with me?"
+      },
+      {
+        "number": 3,
+        "text": "Hallelujah! O praise ye the Lord!"
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Don’t you see my Jesus coming,"
+        },
+        {
+          "number": 2,
+          "text": "See Him come in yonder cloud?"
+        },
+        {
+          "number": 3,
+          "text": "With ten thousand angels round Him,"
+        },
+        {
+          "number": 4,
+          "text": "How they do my Jesus crowd!"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Don’t you see the saints ascending,"
+        },
+        {
+          "number": 2,
+          "text": "Hear them shouting thro’ the air."
+        },
+        {
+          "number": 3,
+          "text": "Jesus smiling, trumpets sounding,"
+        },
+        {
+          "number": 4,
+          "text": "Now His glory they shall share."
+        }
+      ],
+      "number": 2
+    }
+  ],
+  "title": "Don't You See My Jesus Coming"
+}

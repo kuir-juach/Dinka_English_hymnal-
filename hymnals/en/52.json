@@ -1,0 +1,68 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Now the day is over,"
+        },
+        {
+          "number": 2,
+          "text": "night is drawing nigh,"
+        },
+        {
+          "number": 3,
+          "text": "Shadows of the evening"
+        },
+        {
+          "number": 4,
+          "text": "steal across the sky."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Father, give the weary,"
+        },
+        {
+          "number": 2,
+          "text": "calm and sweet repose;"
+        },
+        {
+          "number": 3,
+          "text": "With Thy tenderest blessing"
+        },
+        {
+          "number": 4,
+          "text": "May our eyelids close."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Through the long night watches,"
+        },
+        {
+          "number": 2,
+          "text": "may thine angels spread"
+        },
+        {
+          "number": 3,
+          "text": "Their white wings above me,"
+        },
+        {
+          "number": 4,
+          "text": "watching round my bed."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Now the Day Is Over"
+}

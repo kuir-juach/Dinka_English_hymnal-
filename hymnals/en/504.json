@@ -1,0 +1,57 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Lord Jesus, think on me, And purge away my sin;"
+        },
+        {
+          "number": 2,
+          "text": "From earth-born passions set me free, And make me pure within."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Lord Jesus, think on me, With care and woe oppressed;"
+        },
+        {
+          "number": 2,
+          "text": "Let me Thy loving servant be, And taste Thy promised rest."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Lord Jesus, think on me, Nor let me go astray;"
+        },
+        {
+          "number": 2,
+          "text": "Through darkness and perplexity Point Thou the heavenly way."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Lord Jesus, think on me, That I may sing above"
+        },
+        {
+          "number": 2,
+          "text": "To Father, Spirit, and to Thee, The strains of praise and love."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Lord Jesus, Think on Me"
+}

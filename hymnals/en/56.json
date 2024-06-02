@@ -1,0 +1,89 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "The day Thou gavest, Lord, is ended;"
+        },
+        {
+          "number": 2,
+          "text": "the darkness falls at Thy behest;"
+        },
+        {
+          "number": 3,
+          "text": "to Thee our morning hymns ascended;"
+        },
+        {
+          "number": 4,
+          "text": "Thy praise shall hallow now our rest."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "We thank Thee that Thy church, unsleeping"
+        },
+        {
+          "number": 2,
+          "text": "while earth rolls onward into light,"
+        },
+        {
+          "number": 3,
+          "text": "through all the world her watch is keeping,"
+        },
+        {
+          "number": 4,
+          "text": "and rests not now by day or night."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "As o’er each continent and island"
+        },
+        {
+          "number": 2,
+          "text": "the dawn leads on another day,"
+        },
+        {
+          "number": 3,
+          "text": "the voice of prayer is never silent,"
+        },
+        {
+          "number": 4,
+          "text": "nor die the strains of praise away."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "So be it, Lord; Thy throne shall never,"
+        },
+        {
+          "number": 2,
+          "text": "like earth’s proud empires, pass away."
+        },
+        {
+          "number": 3,
+          "text": "Thy kingdom stands, and grows forever,"
+        },
+        {
+          "number": 4,
+          "text": "till all Thy creatures own Thy sway."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "The Day Thou Gavest"
+}

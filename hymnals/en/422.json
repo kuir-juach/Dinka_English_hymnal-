@@ -1,0 +1,141 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "We’re marching to Zion,"
+      },
+      {
+        "number": 2,
+        "text": "Beautiful, beautiful Zion;"
+      },
+      {
+        "number": 3,
+        "text": "We’re marching upward to Zion,"
+      },
+      {
+        "number": 4,
+        "text": "The beautiful city of God."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Come, we that love the Lord,"
+        },
+        {
+          "number": 2,
+          "text": "And let our joys be known;"
+        },
+        {
+          "number": 3,
+          "text": "Join in a song with sweet accord,"
+        },
+        {
+          "number": 4,
+          "text": "Join in a song with sweet accord,"
+        },
+        {
+          "number": 5,
+          "text": "And thus surround the throne,"
+        },
+        {
+          "number": 6,
+          "text": "And thus surround the throne."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Let those refuse to sing"
+        },
+        {
+          "number": 2,
+          "text": "Who never knew our God;"
+        },
+        {
+          "number": 3,
+          "text": "But children of the heav’nly King,"
+        },
+        {
+          "number": 4,
+          "text": "But children of the heav’nly King"
+        },
+        {
+          "number": 5,
+          "text": "May speak their joys abroad,"
+        },
+        {
+          "number": 6,
+          "text": "May speak their joys abroad."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "The hill of Zion yields"
+        },
+        {
+          "number": 2,
+          "text": "A thousand sacred sweets"
+        },
+        {
+          "number": 3,
+          "text": "Before we reach the heav’nly fields,"
+        },
+        {
+          "number": 4,
+          "text": "Before we reach the heav’nly fields"
+        },
+        {
+          "number": 5,
+          "text": "Or walk the golden streets,"
+        },
+        {
+          "number": 6,
+          "text": "Or walk the golden streets."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Then let our songs abound"
+        },
+        {
+          "number": 2,
+          "text": "And ev’ry tear be dry;"
+        },
+        {
+          "number": 3,
+          "text": "We’re marching thru Immanuel’s ground,"
+        },
+        {
+          "number": 4,
+          "text": "We’re marching thru Immanuel’s ground"
+        },
+        {
+          "number": 5,
+          "text": "To fairer worlds on high,"
+        },
+        {
+          "number": 6,
+          "text": "To fairer worlds on high."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Marching to Zion"
+}

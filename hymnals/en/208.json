@@ -1,0 +1,88 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "To gather His loved ones home,"
+      },
+      {
+        "number": 2,
+        "text": "To gather His loved ones home."
+      },
+      {
+        "number": 3,
+        "text": "There’ll be no dark valleys when Jesus comes,"
+      },
+      {
+        "number": 4,
+        "text": "To gather His loved ones home."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "There’ll be no dark valleys when Jesus comes,"
+        },
+        {
+          "number": 2,
+          "text": "There’ll be no dark valleys when Jesus comes,"
+        },
+        {
+          "number": 3,
+          "text": "There’ll be no dark valleys when Jesus comes,"
+        },
+        {
+          "number": 4,
+          "text": "To gather His loved ones home."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "There’ll be no more sorrow when Jesus comes,"
+        },
+        {
+          "number": 2,
+          "text": "There’ll be no more sorrow when Jesus comes,"
+        },
+        {
+          "number": 3,
+          "text": "There’ll be a happy tomorrow when Jesus comes,"
+        },
+        {
+          "number": 4,
+          "text": "To gather His loved ones home."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "There’ll be songs of greeting when Jesus comes,"
+        },
+        {
+          "number": 2,
+          "text": "There’ll be songs of greeting when Jesus comes,"
+        },
+        {
+          "number": 3,
+          "text": "There’ll be songs of greeting when Jesus comes,"
+        },
+        {
+          "number": 4,
+          "text": "To gather His loved ones home."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "There'll Be No Dark Valley"
+}

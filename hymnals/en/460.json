@@ -1,0 +1,104 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "As water to the thirsty,"
+        },
+        {
+          "number": 2,
+          "text": "As beauty to the eyes,"
+        },
+        {
+          "number": 3,
+          "text": "As strength that follows weakness,"
+        },
+        {
+          "number": 4,
+          "text": "As truth instead of lies;"
+        },
+        {
+          "number": 5,
+          "text": "As song-time and springtime and summertime to be,"
+        },
+        {
+          "number": 6,
+          "text": "So is my Lord, my living Lord,"
+        },
+        {
+          "number": 7,
+          "text": "So is my Lord to me."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Like calm in place of clamor"
+        },
+        {
+          "number": 2,
+          "text": "Like peace that follows pain,"
+        },
+        {
+          "number": 3,
+          "text": "Like meeting after parting,"
+        },
+        {
+          "number": 4,
+          "text": "Like sunshine after rain;"
+        },
+        {
+          "number": 5,
+          "text": "Like moonlight and starlight and sunlight on the sea,"
+        },
+        {
+          "number": 6,
+          "text": "So is my Lord, my living Lord,"
+        },
+        {
+          "number": 7,
+          "text": "So is my Lord to me."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "As sleep that follows fever,"
+        },
+        {
+          "number": 2,
+          "text": "As gold instead of grey,"
+        },
+        {
+          "number": 3,
+          "text": "As freedom after bondage,"
+        },
+        {
+          "number": 4,
+          "text": "As sunrise to the day;"
+        },
+        {
+          "number": 5,
+          "text": "As home to the trav’ler and all he longs to see,"
+        },
+        {
+          "number": 6,
+          "text": "So is my Lord, my living Lord,"
+        },
+        {
+          "number": 7,
+          "text": "So is my Lord to me."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "As Water to the Thirsty"
+}

@@ -1,0 +1,109 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Then trim your lamps, my brethren dear,"
+      },
+      {
+        "number": 2,
+        "text": "Then trim your lamps with godly fear;"
+      },
+      {
+        "number": 3,
+        "text": "The Master’s coming draweth near,"
+      },
+      {
+        "number": 4,
+        "text": "Let every lamp be burning."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Let every lamp be burning bright,"
+        },
+        {
+          "number": 2,
+          "text": "The darkest hour is nearing;"
+        },
+        {
+          "number": 3,
+          "text": "The darkest hour of earth’s long night,"
+        },
+        {
+          "number": 4,
+          "text": "Before the Lord’s appearing."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Though thousands calmly slumber on,"
+        },
+        {
+          "number": 2,
+          "text": "The last great message spurning,"
+        },
+        {
+          "number": 3,
+          "text": "We’ll rest our living faith upon"
+        },
+        {
+          "number": 4,
+          "text": "His promise of returning."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "His word our lamp, His truth our guide,"
+        },
+        {
+          "number": 2,
+          "text": "We cannot be mistaken;"
+        },
+        {
+          "number": 3,
+          "text": "Though dangers rise on every side,"
+        },
+        {
+          "number": 4,
+          "text": "We shall not be forsaken."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Then let good works with faith appear,"
+        },
+        {
+          "number": 2,
+          "text": "To help the world around us;"
+        },
+        {
+          "number": 3,
+          "text": "Obedience bring the blessing near"
+        },
+        {
+          "number": 4,
+          "text": "When faith has firmly bound us."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Let Every Lamp Be Burning"
+}

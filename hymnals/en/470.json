@@ -1,0 +1,109 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "O there’s sunshine, blessed sunshine,"
+      },
+      {
+        "number": 2,
+        "text": "When the peaceful, happy moments roll"
+      },
+      {
+        "number": 3,
+        "text": "When Jesus shows His smiling face"
+      },
+      {
+        "number": 4,
+        "text": "There is sunshine in the soul."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "There’s sunshine in my soul today,"
+        },
+        {
+          "number": 2,
+          "text": "More glorious and bright"
+        },
+        {
+          "number": 3,
+          "text": "Than glows in any earthly sky,"
+        },
+        {
+          "number": 4,
+          "text": "For Jesus is my light."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "There’s music in my soul today,"
+        },
+        {
+          "number": 2,
+          "text": "A carol to my King,"
+        },
+        {
+          "number": 3,
+          "text": "And Jesus, listening, can hear"
+        },
+        {
+          "number": 4,
+          "text": "The songs I cannot sing."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "There’s springtime in my soul today,"
+        },
+        {
+          "number": 2,
+          "text": "For when the Lord is near,"
+        },
+        {
+          "number": 3,
+          "text": "The dove of peace sings in my heart,"
+        },
+        {
+          "number": 4,
+          "text": "The flowers of grace appear."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Theres gladness in my soul today,"
+        },
+        {
+          "number": 2,
+          "text": "And hope, and praise, and love,"
+        },
+        {
+          "number": 3,
+          "text": "For blessings which He gives me now,"
+        },
+        {
+          "number": 4,
+          "text": "For joys “laid up” above."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "There's Sunshine in My Soul Today"
+}

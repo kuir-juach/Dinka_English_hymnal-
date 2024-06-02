@@ -1,0 +1,88 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Redeemed, redeemed,"
+      },
+      {
+        "number": 2,
+        "text": "Redeemed by the blood of the Lamb;"
+      },
+      {
+        "number": 3,
+        "text": "Redeemed, redeemed,"
+      },
+      {
+        "number": 4,
+        "text": "His child and forever I am."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Redeemed, how I love to proclaim it!"
+        },
+        {
+          "number": 2,
+          "text": "Redeemed by the blood of the Lamb;"
+        },
+        {
+          "number": 3,
+          "text": "Redeemed through His infinite mercy,"
+        },
+        {
+          "number": 4,
+          "text": "His child and forever I am."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Redeemed, and so happy in Jesus,"
+        },
+        {
+          "number": 2,
+          "text": "No language my rapture can tell;"
+        },
+        {
+          "number": 3,
+          "text": "I know that the light of His presence"
+        },
+        {
+          "number": 4,
+          "text": "With me doth continually dwell."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I know there’s a crown that is waiting"
+        },
+        {
+          "number": 2,
+          "text": "In yonder bright mansion for me;"
+        },
+        {
+          "number": 3,
+          "text": "And soon, with the saints made perfect,"
+        },
+        {
+          "number": 4,
+          "text": "At home with the Lord I shall be."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Redeemed!"
+}

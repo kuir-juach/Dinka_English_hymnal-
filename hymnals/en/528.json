@@ -1,0 +1,109 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Mighty Rock in a weary land,"
+      },
+      {
+        "number": 2,
+        "text": "Cooling shade on the burning sand,"
+      },
+      {
+        "number": 3,
+        "text": "Faithful guide for the pilgrim band—"
+      },
+      {
+        "number": 4,
+        "text": "A shelter in the time of storm."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "The Lord’s our Rock, in Him we hide,"
+        },
+        {
+          "number": 2,
+          "text": "A shelter in the time of storm;"
+        },
+        {
+          "number": 3,
+          "text": "Secure whatever ill betide,"
+        },
+        {
+          "number": 4,
+          "text": "A shelter in the time of storm."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "A shade by day, defense by night,"
+        },
+        {
+          "number": 2,
+          "text": "A shelter in the time of storm;"
+        },
+        {
+          "number": 3,
+          "text": "No fears alarm, no foes afright,"
+        },
+        {
+          "number": 4,
+          "text": "A shelter in the time of storm."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "The raging storms may round us beat,"
+        },
+        {
+          "number": 2,
+          "text": "A shelter in the time of storm"
+        },
+        {
+          "number": 3,
+          "text": "We find in God a safe retreat,"
+        },
+        {
+          "number": 4,
+          "text": "A shelter in the time of storm."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O Rock divine, O Refuge dear,"
+        },
+        {
+          "number": 2,
+          "text": "A Shelter in the time of storm;"
+        },
+        {
+          "number": 3,
+          "text": "Be Thou our helper ever near,"
+        },
+        {
+          "number": 4,
+          "text": "A Shelter in the time of storm."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "A Shelter in the Time of Storm"
+}

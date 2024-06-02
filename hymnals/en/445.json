@@ -1,0 +1,116 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I’m but a stranger here,"
+        },
+        {
+          "number": 2,
+          "text": "Heav’n is my home;"
+        },
+        {
+          "number": 3,
+          "text": "Earth is a desert drear,"
+        },
+        {
+          "number": 4,
+          "text": "Heav’n is my home."
+        },
+        {
+          "number": 5,
+          "text": "Danger and sorrow stand"
+        },
+        {
+          "number": 6,
+          "text": "Round me on every hand;"
+        },
+        {
+          "number": 7,
+          "text": "Heav’n is my fatherland,"
+        },
+        {
+          "number": 8,
+          "text": "Heav’n is my home."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "What though the tempest rage,"
+        },
+        {
+          "number": 2,
+          "text": "Heav’n is my home;"
+        },
+        {
+          "number": 3,
+          "text": "Short is my pilgrimage,"
+        },
+        {
+          "number": 4,
+          "text": "Heav’n is my home;"
+        },
+        {
+          "number": 5,
+          "text": "And time’s wild wintry blast"
+        },
+        {
+          "number": 6,
+          "text": "Soon shall be over past;"
+        },
+        {
+          "number": 7,
+          "text": "I shall reach home at last,"
+        },
+        {
+          "number": 8,
+          "text": "Heav’n is my home."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "There at my Savior’s side"
+        },
+        {
+          "number": 2,
+          "text": "Heav’n is my home;"
+        },
+        {
+          "number": 3,
+          "text": "I shall be glorified,"
+        },
+        {
+          "number": 4,
+          "text": "Heav’n is my home;"
+        },
+        {
+          "number": 5,
+          "text": "There are the good and blest,"
+        },
+        {
+          "number": 6,
+          "text": "Those I love most and best;"
+        },
+        {
+          "number": 7,
+          "text": "And there I, too, shall rest,"
+        },
+        {
+          "number": 8,
+          "text": "Heav’n is my home."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "I'm But a Stranger Here"
+}

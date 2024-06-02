@@ -1,0 +1,68 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Jesus walked this lonesome valley;"
+        },
+        {
+          "number": 2,
+          "text": "He had to walk it by Himself."
+        },
+        {
+          "number": 3,
+          "text": "O nobody else could walk it for Him."
+        },
+        {
+          "number": 4,
+          "text": "He had to walk it by Himself."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I must go and stand my trial."
+        },
+        {
+          "number": 2,
+          "text": "I have to stand it by myself."
+        },
+        {
+          "number": 3,
+          "text": "O nobody else could stand it for me."
+        },
+        {
+          "number": 4,
+          "text": "I have to stand it by myself."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Jesus walked this lonesome valley;"
+        },
+        {
+          "number": 2,
+          "text": "He had to walk it by Himself."
+        },
+        {
+          "number": 3,
+          "text": "O nobody else could walk it for Him."
+        },
+        {
+          "number": 4,
+          "text": "He had to walk it by Himself."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Jesus Walked This Lonesome Valley"
+}

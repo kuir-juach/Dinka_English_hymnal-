@@ -1,0 +1,105 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Joy to the world, the Lord is come!"
+        },
+        {
+          "number": 2,
+          "text": "Let earth receive her King;"
+        },
+        {
+          "number": 3,
+          "text": "Let every heart prepare Him room,"
+        },
+        {
+          "number": 4,
+          "text": "And heaven and nature sing, And heaven and nature sing,"
+        },
+        {
+          "number": 5,
+          "text": "And heaven, and heaven and nature sing."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Joy to the earth, the Savior reigns!"
+        },
+        {
+          "number": 2,
+          "text": "Let men their songs employ;"
+        },
+        {
+          "number": 3,
+          "text": "While fields and floods, rocks, hills, and plains,"
+        },
+        {
+          "number": 4,
+          "text": "Repeat the sounding joy, Repeat the sounding joy,"
+        },
+        {
+          "number": 5,
+          "text": "Repeat, repeat the sounding joy."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "No more let sin and sorrow grow,"
+        },
+        {
+          "number": 2,
+          "text": "Nor thorns infest the ground;"
+        },
+        {
+          "number": 3,
+          "text": "He comes to make His blessings flow"
+        },
+        {
+          "number": 4,
+          "text": "Far as the curse is found, Far as the curse is found,"
+        },
+        {
+          "number": 5,
+          "text": "Far as, far as the curse is found."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "He rules the world with truth and grace,"
+        },
+        {
+          "number": 2,
+          "text": "And makes the nations prove"
+        },
+        {
+          "number": 3,
+          "text": "The glories of His righteousness,"
+        },
+        {
+          "number": 4,
+          "text": "And wonders of His love, And wonders of His love,"
+        },
+        {
+          "number": 5,
+          "text": "And wonders, and wonders of His love."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Joy to the World"
+}

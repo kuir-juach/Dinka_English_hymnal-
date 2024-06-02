@@ -1,0 +1,59 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "A-men, A—men."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "A—–men."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "A—men."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "A—men, (A-men.)"
+        }
+      ],
+      "number": 4
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "A—–men."
+        }
+      ],
+      "number": 5
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "A-men, A-men, A—men."
+        }
+      ],
+      "number": 6
+    }
+  ],
+  "title": "Amens"
+}

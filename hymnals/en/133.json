@@ -1,0 +1,72 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Refrain:"
+        },
+        {
+          "number": 2,
+          "text": "Now is born the divine Christ child,"
+        },
+        {
+          "number": 3,
+          "text": "Play the musette, play the tuneful oboe,"
+        },
+        {
+          "number": 4,
+          "text": "Now is born the divine Christ child,"
+        },
+        {
+          "number": 5,
+          "text": "Sing we all and rejoice this day."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "He was born in a stable bare,"
+        },
+        {
+          "number": 2,
+          "text": "On bed of straw how He sleeps so soundly,"
+        },
+        {
+          "number": 3,
+          "text": "He was born in a stable bare,"
+        },
+        {
+          "number": 4,
+          "text": "Let us worship and to Him bow."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Ages long since are past and gone,"
+        },
+        {
+          "number": 2,
+          "text": "When the wise men foretold His coming,"
+        },
+        {
+          "number": 3,
+          "text": "Ages long since are past and gone,"
+        },
+        {
+          "number": 4,
+          "text": "When the wise men foretold His birth."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Now Is Born the Divine Christ Child"
+}

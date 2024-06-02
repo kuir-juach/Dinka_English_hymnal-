@@ -1,0 +1,80 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Anywhere, anywhere! Fear I cannot know;"
+      },
+      {
+        "number": 2,
+        "text": "Anywhere with Jesus I can safely go."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Anywhere with Jesus I can safely go,"
+        },
+        {
+          "number": 2,
+          "text": "Anywhere He leads me in this world below;"
+        },
+        {
+          "number": 3,
+          "text": "Anywhere without Him dearest joys would fade;"
+        },
+        {
+          "number": 4,
+          "text": "Anywhere with Jesus I am not afraid."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Anywhere with Jesus I am not alone;"
+        },
+        {
+          "number": 2,
+          "text": "Other friends may fail me, He is still my own;"
+        },
+        {
+          "number": 3,
+          "text": "Though His hand may lead me over drearest ways,"
+        },
+        {
+          "number": 4,
+          "text": "Anywhere with Jesus is a house of praise."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Anywhere with Jesus I can go to sleep,"
+        },
+        {
+          "number": 2,
+          "text": "When the darkening shadows round about me creep,"
+        },
+        {
+          "number": 3,
+          "text": "Knowing I shall waken nevermore to roam;"
+        },
+        {
+          "number": 4,
+          "text": "Anywhere with Jesus will be home, sweet home."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Anywhere With Jesus"
+}

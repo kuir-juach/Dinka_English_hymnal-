@@ -1,0 +1,89 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "My Jesus, I love thee, I know thou art mine;"
+        },
+        {
+          "number": 2,
+          "text": "for thee all the follies of sin I resign."
+        },
+        {
+          "number": 3,
+          "text": "My gracious Redeemer, my Savior art thou;"
+        },
+        {
+          "number": 4,
+          "text": "if ever I loved thee, my Jesus, ’tis now."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I love thee because thou hast first loved me,"
+        },
+        {
+          "number": 2,
+          "text": "and purchased my pardon on Calvary’s tree;"
+        },
+        {
+          "number": 3,
+          "text": "I love thee for wearing the thorns on thy brow;"
+        },
+        {
+          "number": 4,
+          "text": "if ever I loved thee, my Jesus, ’tis now."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I’ll love Thee in life, I will love Thee ’til death,"
+        },
+        {
+          "number": 2,
+          "text": "And praise Thee as long as Thou lendest me breath;"
+        },
+        {
+          "number": 3,
+          "text": "And say when the death dew lies cold on my brow,"
+        },
+        {
+          "number": 4,
+          "text": "if ever I loved thee, my Jesus, ’tis now."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "In mansions of glory and endless delight;"
+        },
+        {
+          "number": 2,
+          "text": "I’ll ever adore thee in heaven so bright;"
+        },
+        {
+          "number": 3,
+          "text": "I’ll sing with the glittering crown on my brow;"
+        },
+        {
+          "number": 4,
+          "text": "if ever I loved thee, my Jesus, ’tis now."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "My Jesus, I Love Thee"
+}

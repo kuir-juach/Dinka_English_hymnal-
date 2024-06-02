@@ -1,0 +1,109 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Yes, we’ll gather at the river,"
+      },
+      {
+        "number": 2,
+        "text": "the beautiful, the beautiful river;"
+      },
+      {
+        "number": 3,
+        "text": "gather with the saints at the river"
+      },
+      {
+        "number": 4,
+        "text": "that flows by the throne of God."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Shall we gather at the river,"
+        },
+        {
+          "number": 2,
+          "text": "where bright angel feet have trod,"
+        },
+        {
+          "number": 3,
+          "text": "with its crystal tide forever"
+        },
+        {
+          "number": 4,
+          "text": "flowing by the throne of God?"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "On the margin of the river,"
+        },
+        {
+          "number": 2,
+          "text": "washing up its silver spray,"
+        },
+        {
+          "number": 3,
+          "text": "we will walk and worship ever,"
+        },
+        {
+          "number": 4,
+          "text": "all the happy golden day."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Ere we reach the shining river,"
+        },
+        {
+          "number": 2,
+          "text": "lay we every burden down;"
+        },
+        {
+          "number": 3,
+          "text": "grace our spirits will deliver,"
+        },
+        {
+          "number": 4,
+          "text": "and provide a robe and crown."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Soon we’ll reach the shining river,"
+        },
+        {
+          "number": 2,
+          "text": "soon our pilgrimage will cease;"
+        },
+        {
+          "number": 3,
+          "text": "soon our happy hearts will quiver"
+        },
+        {
+          "number": 4,
+          "text": "with the melody of peace."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Shall We Gather at the River"
+}

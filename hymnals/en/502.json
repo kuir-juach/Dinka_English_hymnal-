@@ -1,0 +1,89 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Sun of my soul, O Savior dear!"
+        },
+        {
+          "number": 2,
+          "text": "It is not night if Thou be near;"
+        },
+        {
+          "number": 3,
+          "text": "O may no earth-born cloud arise"
+        },
+        {
+          "number": 4,
+          "text": "To hide Thee from Thy servant’s eyes."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "When soft the dews of kindly sleep"
+        },
+        {
+          "number": 2,
+          "text": "My weary eyelids gently steep,"
+        },
+        {
+          "number": 3,
+          "text": "Be my last thought how sweet to rest"
+        },
+        {
+          "number": 4,
+          "text": "Forever on my Savior’s breast!"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Abide with me from morn till eve,"
+        },
+        {
+          "number": 2,
+          "text": "For without Thee I cannot live;"
+        },
+        {
+          "number": 3,
+          "text": "Abide with me when night is nigh,"
+        },
+        {
+          "number": 4,
+          "text": "For without Thee I dare not die."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Be near and bless me when I wake,"
+        },
+        {
+          "number": 2,
+          "text": "Ere through the world my way I take;"
+        },
+        {
+          "number": 3,
+          "text": "Till in the ocean of Thy love"
+        },
+        {
+          "number": 4,
+          "text": "I lose myself in heaven above."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Sun of My Soul"
+}

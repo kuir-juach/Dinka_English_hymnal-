@@ -1,0 +1,125 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Holy, holy, holy, Lord God of Hosts!"
+      },
+      {
+        "number": 2,
+        "text": "Heaven and earth are full of Thee!"
+      },
+      {
+        "number": 3,
+        "text": "Heaven and earth are praising Thee,"
+      },
+      {
+        "number": 4,
+        "text": "O Lord most high!"
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Day is dying in the west;"
+        },
+        {
+          "number": 2,
+          "text": "Heaven is touching earth with rest;"
+        },
+        {
+          "number": 3,
+          "text": "Wait and worship while the night"
+        },
+        {
+          "number": 4,
+          "text": "Sets the evening lamps alight"
+        },
+        {
+          "number": 5,
+          "text": "Through all the sky."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Lord of life, beneath the dome"
+        },
+        {
+          "number": 2,
+          "text": "Of the universe, Thy home,"
+        },
+        {
+          "number": 3,
+          "text": "Gather us who seek Thy face"
+        },
+        {
+          "number": 4,
+          "text": "To the fold of Thy embrace,"
+        },
+        {
+          "number": 5,
+          "text": "For Thou art nigh."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "While the deepening shadows fall,"
+        },
+        {
+          "number": 2,
+          "text": "Heart of love enfolding all,"
+        },
+        {
+          "number": 3,
+          "text": "Through the glory and the grace"
+        },
+        {
+          "number": 4,
+          "text": "Of the stars that veil Thy face,"
+        },
+        {
+          "number": 5,
+          "text": "Our hearts ascend."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "When forever from our sight"
+        },
+        {
+          "number": 2,
+          "text": "Pass the stars, the day, the night,"
+        },
+        {
+          "number": 3,
+          "text": "Lord of angels, on our eyes"
+        },
+        {
+          "number": 4,
+          "text": "Let eternal morning rise"
+        },
+        {
+          "number": 5,
+          "text": "And shadows end."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Day Is Dying in the West"
+}

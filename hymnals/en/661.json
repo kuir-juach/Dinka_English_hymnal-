@@ -1,0 +1,47 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Holy, holy, holy, Holy is the Lord!"
+        },
+        {
+          "number": 2,
+          "text": "Holy, holy, holy, Holy is our God!"
+        },
+        {
+          "number": 3,
+          "text": "He who always liveth, Evermore the same"
+        },
+        {
+          "number": 4,
+          "text": "Heav’n and earth He ruleth, Come and praise His name!"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Holy, holy, holy, Holy is the Lord!"
+        },
+        {
+          "number": 2,
+          "text": "Holy, holy, holy, Holy is our God!"
+        },
+        {
+          "number": 3,
+          "text": "Glorious adn beloved Is the One adored!"
+        },
+        {
+          "number": 4,
+          "text": "Holy, holy, holy, Holy is the Lord."
+        }
+      ],
+      "number": 2
+    }
+  ],
+  "title": "Holy, Holy, Holy"
+}

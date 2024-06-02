@@ -1,0 +1,89 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Ride on! ride on in majesty!"
+        },
+        {
+          "number": 2,
+          "text": "Hark, all the tribes hosanna cry;"
+        },
+        {
+          "number": 3,
+          "text": "O Savior meek, pursue Thy road"
+        },
+        {
+          "number": 4,
+          "text": "With palms and scattered garments strowed."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Ride on! ride on in majesty!"
+        },
+        {
+          "number": 2,
+          "text": "In lowly pomp ride on to die;"
+        },
+        {
+          "number": 3,
+          "text": "O Christ, Thy triumphs now begin"
+        },
+        {
+          "number": 4,
+          "text": "O’er captive death and conquered sin."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Ride on! ride on in majesty!"
+        },
+        {
+          "number": 2,
+          "text": "The winged squadrons of the sky"
+        },
+        {
+          "number": 3,
+          "text": "Look down with sad and wondering eyes"
+        },
+        {
+          "number": 4,
+          "text": "To see the approaching sacrifice."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Ride on! ride on in majesty!"
+        },
+        {
+          "number": 2,
+          "text": "In lowly pomp ride on to die;"
+        },
+        {
+          "number": 3,
+          "text": "Bow Thy meek head to mortal pain,"
+        },
+        {
+          "number": 4,
+          "text": "Then take, O God, Thy power and reign."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Ride On in Majesty"
+}

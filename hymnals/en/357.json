@@ -1,0 +1,80 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Come, labor on."
+        },
+        {
+          "number": 2,
+          "text": "Who dares stand idle on the harvest plain"
+        },
+        {
+          "number": 3,
+          "text": "While all around him waves the golden grain?"
+        },
+        {
+          "number": 4,
+          "text": "And to each servant does the Master say,"
+        },
+        {
+          "number": 5,
+          "text": "“Go work today.”"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Come, labor on."
+        },
+        {
+          "number": 2,
+          "text": "Claim the high calling angels cannot share;"
+        },
+        {
+          "number": 3,
+          "text": "To young and old the gospel gladness bear;"
+        },
+        {
+          "number": 4,
+          "text": "Redeem the time; its hours too swiftly fly."
+        },
+        {
+          "number": 5,
+          "text": "The night draws nigh."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Come, labor on."
+        },
+        {
+          "number": 2,
+          "text": "No time for rest; till glows the western sky,"
+        },
+        {
+          "number": 3,
+          "text": "Till the long shadows oér our pathway lie,"
+        },
+        {
+          "number": 4,
+          "text": "And a glad sound comes with the setting sun,"
+        },
+        {
+          "number": 5,
+          "text": "“Well done, well done!”"
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Come, Labor On"
+}
