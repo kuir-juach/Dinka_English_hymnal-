@@ -1,0 +1,96 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Going afar (going afar)"
+      },
+      {
+        "number": 2,
+        "text": "Upon the mountain (upon the mountain)"
+      },
+      {
+        "number": 3,
+        "text": "Bringing the wanderer back again, back again,"
+      },
+      {
+        "number": 4,
+        "text": "Into the fold (into the fold)"
+      },
+      {
+        "number": 5,
+        "text": "Of my Redeemer (of my Redeemer)"
+      },
+      {
+        "number": 6,
+        "text": "Jesus the Lamb for sinners slain, for sinners slain."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Seeking the lost, yes, kindly entreating"
+        },
+        {
+          "number": 2,
+          "text": "Wanderers on the mountain astray;"
+        },
+        {
+          "number": 3,
+          "text": "“Come unto Me,” His message repeating,"
+        },
+        {
+          "number": 4,
+          "text": "Words of the Master speaking today."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Seeking the lost and pointing to Jesus"
+        },
+        {
+          "number": 2,
+          "text": "Souls that are weak and hearts that are sore,"
+        },
+        {
+          "number": 3,
+          "text": "Leading them forth in ways of salvation,"
+        },
+        {
+          "number": 4,
+          "text": "Showing the path to life evermore."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Thus would I go on missions of mercy,"
+        },
+        {
+          "number": 2,
+          "text": "Following Christ from day unto day,"
+        },
+        {
+          "number": 3,
+          "text": "Cheering the faint and raising the fallen,"
+        },
+        {
+          "number": 4,
+          "text": "Pointing the lost to Jesus, the Way."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Seeking the Lost"
+}

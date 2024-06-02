@@ -1,0 +1,47 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "May the grace of Christ our Savior"
+        },
+        {
+          "number": 2,
+          "text": "And the Father’s boundless love,"
+        },
+        {
+          "number": 3,
+          "text": "With the Holy Spirit’s favor,"
+        },
+        {
+          "number": 4,
+          "text": "Rest upon them from above."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Thus may they abide in union"
+        },
+        {
+          "number": 2,
+          "text": "With each other and the Lord,"
+        },
+        {
+          "number": 3,
+          "text": "And possess, in sweet communion,"
+        },
+        {
+          "number": 4,
+          "text": "Joys which earth cannot afford."
+        }
+      ],
+      "number": 2
+    }
+  ],
+  "title": "May the Grace of Christ Our Savior"
+}

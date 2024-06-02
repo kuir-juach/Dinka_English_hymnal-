@@ -1,0 +1,88 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Where are the reapers? O who will come"
+      },
+      {
+        "number": 2,
+        "text": "And share in the glory of the “harvest home”?"
+      },
+      {
+        "number": 3,
+        "text": "O who will help us to garner in"
+      },
+      {
+        "number": 4,
+        "text": "The sheaves of good from the fields of sin?"
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O where are the reapers that garner in"
+        },
+        {
+          "number": 2,
+          "text": "The sheaves of the good from the fields of sin?"
+        },
+        {
+          "number": 3,
+          "text": "With sickles of truth must the work be done,"
+        },
+        {
+          "number": 4,
+          "text": "And no one may rest till the “harvest home.”"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "The fields all are ripening, and far and wide"
+        },
+        {
+          "number": 2,
+          "text": "The world now is waiting the harvest tide:"
+        },
+        {
+          "number": 3,
+          "text": "But reapers are few, and the work is great,"
+        },
+        {
+          "number": 4,
+          "text": "And much will be lost should the harvest wait."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "So come with your sickles, ye sons of men,"
+        },
+        {
+          "number": 2,
+          "text": "And gather together the golden grain;"
+        },
+        {
+          "number": 3,
+          "text": "Toil on till the Lord of the harvest come,"
+        },
+        {
+          "number": 4,
+          "text": "Then share ye His joy in the “harvest home.”"
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "O Where Are the Reapers"
+}

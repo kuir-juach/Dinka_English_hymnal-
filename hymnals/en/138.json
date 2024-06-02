@@ -1,0 +1,92 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "There’s a star in the east on Christmas morn."
+        },
+        {
+          "number": 2,
+          "text": "Rise up, shepherd, and follow."
+        },
+        {
+          "number": 3,
+          "text": "It will lead to the place and where the Saviour’s born,"
+        },
+        {
+          "number": 4,
+          "text": "Rise up, shepherd, and follow."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Refrain:"
+        },
+        {
+          "number": 2,
+          "text": "Leave your sheep and leave your lambs,"
+        },
+        {
+          "number": 3,
+          "text": "Rise up, shepherd, and follow."
+        },
+        {
+          "number": 4,
+          "text": "Leave your ewes and leave your rams,"
+        },
+        {
+          "number": 5,
+          "text": "Rise up, shepherd, and follow."
+        },
+        {
+          "number": 6,
+          "text": "Follow, follow,"
+        },
+        {
+          "number": 7,
+          "text": "Rise up shepherd, and follow."
+        },
+        {
+          "number": 8,
+          "text": "Follow the star of Bethlehem,"
+        },
+        {
+          "number": 9,
+          "text": "Rise up, shepherd, and follow."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "If you take good heed to the angel’s words,"
+        },
+        {
+          "number": 2,
+          "text": "Rise up, shepherd, and follow."
+        },
+        {
+          "number": 3,
+          "text": "You’ll forget your flocks,"
+        },
+        {
+          "number": 4,
+          "text": "you’ll forget your herds,"
+        },
+        {
+          "number": 5,
+          "text": "Rise up, shepherd, and follow."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Rise Up, Shepherd, and Follow"
+}

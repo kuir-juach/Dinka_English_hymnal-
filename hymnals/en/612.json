@@ -1,0 +1,101 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Onward, Christian soldiers, marching as to war,"
+      },
+      {
+        "number": 2,
+        "text": "with the cross of Jesus going on before."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Onward, Christian soldiers, marching as to war,"
+        },
+        {
+          "number": 2,
+          "text": "with the cross of Jesus going on before."
+        },
+        {
+          "number": 3,
+          "text": "Christ, the royal Master, leads against the foe;"
+        },
+        {
+          "number": 4,
+          "text": "forward into battle see his banners go!"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Like a mighty army moves the church of God;"
+        },
+        {
+          "number": 2,
+          "text": "brothers, we are treading where the saints have trod."
+        },
+        {
+          "number": 3,
+          "text": "We are not divided, all one body we,"
+        },
+        {
+          "number": 4,
+          "text": "one in hope and doctrine, one in charity."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Crowns and thrones my perish, kingdoms rise and wane,"
+        },
+        {
+          "number": 2,
+          "text": "but the church of Jesus constant will remain."
+        },
+        {
+          "number": 3,
+          "text": "Gates of hell can never ‘gainst that church prevail;"
+        },
+        {
+          "number": 4,
+          "text": "we have Christ’s own promise, and that cannot fail."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Onward then, ye people, join our happy throng,"
+        },
+        {
+          "number": 2,
+          "text": "blend with ours your voices in the triumph song."
+        },
+        {
+          "number": 3,
+          "text": "Glory, laud, and honor unto Christ the King,"
+        },
+        {
+          "number": 4,
+          "text": "this through countless ages men and angels sing."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Onward, Christian Soldiers!"
+}

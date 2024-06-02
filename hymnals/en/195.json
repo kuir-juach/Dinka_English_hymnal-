@@ -1,0 +1,109 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Showers of blessing,"
+      },
+      {
+        "number": 2,
+        "text": "Showers of blessing we need;"
+      },
+      {
+        "number": 3,
+        "text": "Mercy drops round us are falling,"
+      },
+      {
+        "number": 4,
+        "text": "But for the showers we plead."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "“There shall be showers of blessing;”"
+        },
+        {
+          "number": 2,
+          "text": "This is the promise of love;"
+        },
+        {
+          "number": 3,
+          "text": "There shall be seasons refreshing,"
+        },
+        {
+          "number": 4,
+          "text": "Sent from the Savior above."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "“There shall be showers of blessing;”"
+        },
+        {
+          "number": 2,
+          "text": "Precious reviving again;"
+        },
+        {
+          "number": 3,
+          "text": "Over the hills and the valleys,"
+        },
+        {
+          "number": 4,
+          "text": "Sound of abundance of rain."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "“There shall be showers of blessing;”"
+        },
+        {
+          "number": 2,
+          "text": "Send them upon us, O Lord;"
+        },
+        {
+          "number": 3,
+          "text": "Grant to us now a refreshing;"
+        },
+        {
+          "number": 4,
+          "text": "Come, and now honor Thy word."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "“There shall be showers of blessing;”"
+        },
+        {
+          "number": 2,
+          "text": "O that today they might fall,"
+        },
+        {
+          "number": 3,
+          "text": "Now as to God we’re confessing,"
+        },
+        {
+          "number": 4,
+          "text": "Now as on Jesus we call!"
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Showers of Blessing"
+}

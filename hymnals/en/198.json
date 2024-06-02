@@ -1,0 +1,133 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Amazing love! How can it be"
+      },
+      {
+        "number": 2,
+        "text": "that thou, my God, shouldst die for me?"
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "And can it be that I should gain"
+        },
+        {
+          "number": 2,
+          "text": "an interest in the Savior’s blood!"
+        },
+        {
+          "number": 3,
+          "text": "Died he for me? who caused his pain!"
+        },
+        {
+          "number": 4,
+          "text": "For me? who him to death pursued?"
+        },
+        {
+          "number": 5,
+          "text": "Amazing love! How can it be"
+        },
+        {
+          "number": 6,
+          "text": "that thou, my God, shouldst die for me?"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "He left his Father’s throne above"
+        },
+        {
+          "number": 2,
+          "text": "so free, so infinite his grace!;"
+        },
+        {
+          "number": 3,
+          "text": "emptied himself of all but love,"
+        },
+        {
+          "number": 4,
+          "text": "and bled for Adam’s helpless race."
+        },
+        {
+          "number": 5,
+          "text": "‘Tis mercy all, immense and free,"
+        },
+        {
+          "number": 6,
+          "text": "for O my God, it found out me!"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Long my imprisoned sprit lay,"
+        },
+        {
+          "number": 2,
+          "text": "fast bound in sin and nature’s night;"
+        },
+        {
+          "number": 3,
+          "text": "thine eye diffused a quickening ray;"
+        },
+        {
+          "number": 4,
+          "text": "I woke, the dungeon flamed with light;"
+        },
+        {
+          "number": 5,
+          "text": "my chains fell off, my heart was free,"
+        },
+        {
+          "number": 6,
+          "text": "I rose, went forth, and followed thee."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "No condemnation now I dread;"
+        },
+        {
+          "number": 2,
+          "text": "Jesus, and all in him, is mine;"
+        },
+        {
+          "number": 3,
+          "text": "alive in him, my living Head,"
+        },
+        {
+          "number": 4,
+          "text": "and clothed in righteousnes divine,"
+        },
+        {
+          "number": 5,
+          "text": "bold I approach th’ eternal throne,"
+        },
+        {
+          "number": 6,
+          "text": "and claim the crown, through Christ my own."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "And Can It Be"
+}

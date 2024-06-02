@@ -1,0 +1,88 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "There’ll be no sorrow there,"
+      },
+      {
+        "number": 2,
+        "text": "There’ll be no sorrow there;"
+      },
+      {
+        "number": 3,
+        "text": "In heaven above, where all is love,"
+      },
+      {
+        "number": 4,
+        "text": "There’ll be no sorrow there."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "There’ll be no night in heaven,"
+        },
+        {
+          "number": 2,
+          "text": "In that blest world above;"
+        },
+        {
+          "number": 3,
+          "text": "No anxious toil, no weary hours;"
+        },
+        {
+          "number": 4,
+          "text": "For labor there is love."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "There’ll be no grief in heaven;"
+        },
+        {
+          "number": 2,
+          "text": "For life is one glad day,"
+        },
+        {
+          "number": 3,
+          "text": "And tears are those of former things"
+        },
+        {
+          "number": 4,
+          "text": "Which all have passed away."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "There’ll be no sin in heaven;"
+        },
+        {
+          "number": 2,
+          "text": "Behold that blessed throng,"
+        },
+        {
+          "number": 3,
+          "text": "All holy in there spotless robes,"
+        },
+        {
+          "number": 4,
+          "text": "All holy in their song."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "There'll Be No Sorrow There"
+}

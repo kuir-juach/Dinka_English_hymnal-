@@ -1,0 +1,88 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Bring them in, Bring them in,"
+      },
+      {
+        "number": 2,
+        "text": "Bring them in from the fields of sin;"
+      },
+      {
+        "number": 3,
+        "text": "Bring them in, Bring them in,"
+      },
+      {
+        "number": 4,
+        "text": "Bring the wanderers to Jesus."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Hark! ’tis the Shepherd’s voice I hear,"
+        },
+        {
+          "number": 2,
+          "text": "Out in the desert dark and drear,"
+        },
+        {
+          "number": 3,
+          "text": "Calling the sheep who’ve gone astray,"
+        },
+        {
+          "number": 4,
+          "text": "Far from the Shepherd’s fold away."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Who’ll go and help the Shepherd kind,"
+        },
+        {
+          "number": 2,
+          "text": "Help Him the wandering ones to find?"
+        },
+        {
+          "number": 3,
+          "text": "Who’ll bring them back into the fold,"
+        },
+        {
+          "number": 4,
+          "text": "Where they’ll be sheltered from the cold?"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Out in the desert hear their cry,"
+        },
+        {
+          "number": 2,
+          "text": "Out on the mountain wild and high,"
+        },
+        {
+          "number": 3,
+          "text": "Hark! ’tis the Master speaks to thee,"
+        },
+        {
+          "number": 4,
+          "text": "“Go, find My sheep where ‘er they be.”"
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Hark! 'Tis the Shepherd's Voice I Hear"
+}

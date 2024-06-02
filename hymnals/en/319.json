@@ -1,0 +1,89 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Lord, I want to be a Christian in my heart, in my heart,"
+        },
+        {
+          "number": 2,
+          "text": "Lord, I want to be a Christian in my heart, in my heart."
+        },
+        {
+          "number": 3,
+          "text": "In my heart, in my heart,"
+        },
+        {
+          "number": 4,
+          "text": "Lord, I want to be a Christian in my heart, in my heart."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Lord, I want to be more loving in my heart, in my heart,"
+        },
+        {
+          "number": 2,
+          "text": "Lord, I want to be more loving in my heart, in my heart."
+        },
+        {
+          "number": 3,
+          "text": "In my heart, in my heart,"
+        },
+        {
+          "number": 4,
+          "text": "Lord, I want to be more loving in my heart, in my heart."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Lord, I want to be more holy in my heart, in my heart,"
+        },
+        {
+          "number": 2,
+          "text": "Lord, I want to be more holy in my heart, in my heart."
+        },
+        {
+          "number": 3,
+          "text": "In my heart, in my heart,"
+        },
+        {
+          "number": 4,
+          "text": "Lord, I want to be more holy in my heart, in my heart."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Lord, I want to be more like Jesus in my heart, in my heart,"
+        },
+        {
+          "number": 2,
+          "text": "Lord, I want to be more like Jesus in my heart, in my heart."
+        },
+        {
+          "number": 3,
+          "text": "In my heart, in my heart,"
+        },
+        {
+          "number": 4,
+          "text": "Lord, I want to be more like Jesus in my heart, in my heart."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Lord, I Want to Be a Christian"
+}

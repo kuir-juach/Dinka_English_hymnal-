@@ -1,0 +1,109 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "He’s coming, coming, coming soon I know,"
+      },
+      {
+        "number": 2,
+        "text": "Coming back to this earth again;"
+      },
+      {
+        "number": 3,
+        "text": "And the weary pilgrims will to glory go,"
+      },
+      {
+        "number": 4,
+        "text": "When the Savior comes to reign."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "How sweet are the tidings that greet the pilgrim’s ear,"
+        },
+        {
+          "number": 2,
+          "text": "As he wanders in exile from home!"
+        },
+        {
+          "number": 3,
+          "text": "Soon, soon will the Savior in glory appear,"
+        },
+        {
+          "number": 4,
+          "text": "And soon will the kingdom come."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "The mossy old graves where the pilgrims sleep"
+        },
+        {
+          "number": 2,
+          "text": "Shall be open as wide as before,"
+        },
+        {
+          "number": 3,
+          "text": "And the millions that sleep in the mighty deep"
+        },
+        {
+          "number": 4,
+          "text": "Shall live on this earth once more."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "There we’ll meet ne’er to part in our happy"
+        },
+        {
+          "number": 2,
+          "text": "Eden home, Sweet songs of redemption we’ll sing;"
+        },
+        {
+          "number": 3,
+          "text": "From the north, from the south, all the ransomed shall come,"
+        },
+        {
+          "number": 4,
+          "text": "And worship our heavenly King."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Hallelujah, Amen! Hallelujah again!"
+        },
+        {
+          "number": 2,
+          "text": "Soon, if faithful, we all shall be there;"
+        },
+        {
+          "number": 3,
+          "text": "O, be watchful, be hopeful, be joyful till then,"
+        },
+        {
+          "number": 4,
+          "text": "And a crown of bright glory we’ll wear."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "How Sweet Are the Tidings"
+}

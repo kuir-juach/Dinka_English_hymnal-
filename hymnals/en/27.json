@@ -1,0 +1,122 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Rejoice, rejoice, rejoice,"
+      },
+      {
+        "number": 2,
+        "text": "Give thanks and sing."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Rejoice ye pure in heart!"
+        },
+        {
+          "number": 2,
+          "text": "Rejoice, give thanks, and sing;"
+        },
+        {
+          "number": 3,
+          "text": "Your festal banner wave on high,"
+        },
+        {
+          "number": 4,
+          "text": "The cross of Christ your King."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "With voice as full and strong"
+        },
+        {
+          "number": 2,
+          "text": "As ocean’s surging praise,"
+        },
+        {
+          "number": 3,
+          "text": "Send forth the sturdy hymns of old,"
+        },
+        {
+          "number": 4,
+          "text": "The psalms of ancient days."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "With all the angel choirs,"
+        },
+        {
+          "number": 2,
+          "text": "With all the saints of earth,"
+        },
+        {
+          "number": 3,
+          "text": "Pour out the strains of joy and bliss,"
+        },
+        {
+          "number": 4,
+          "text": "True rapture, noblest mirth."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Yes, on through life’s long path,"
+        },
+        {
+          "number": 2,
+          "text": "Still chanting as ye go;"
+        },
+        {
+          "number": 3,
+          "text": "From youth to age, by night and day,"
+        },
+        {
+          "number": 4,
+          "text": "In gladness and in woe."
+        }
+      ],
+      "number": 4
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Praise Him who reigns on high,"
+        },
+        {
+          "number": 2,
+          "text": "The Lord whom we adore,"
+        },
+        {
+          "number": 3,
+          "text": "The Father, Son and Holy Ghost,"
+        },
+        {
+          "number": 4,
+          "text": "One God forever more."
+        }
+      ],
+      "number": 5
+    }
+  ],
+  "title": "Rejoice Ye Pure in Heart!"
+}

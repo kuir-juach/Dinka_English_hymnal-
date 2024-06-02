@@ -1,0 +1,113 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Hallelujah! what a Savior!"
+      },
+      {
+        "number": 2,
+        "text": "Hallelujah! what a Friend!"
+      },
+      {
+        "number": 3,
+        "text": "Saving, helping, keeping, loving,"
+      },
+      {
+        "number": 4,
+        "text": "He is with me to the end."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Jesus! what a Friend for sinners!"
+        },
+        {
+          "number": 2,
+          "text": "Jesus! Lover of my soul;"
+        },
+        {
+          "number": 3,
+          "text": "Friends may fail me, foes assail me,"
+        },
+        {
+          "number": 4,
+          "text": "He, my Savior, makes me whole."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Jesus! what a Strength in weakness!"
+        },
+        {
+          "number": 2,
+          "text": "Let me hide myself in Him."
+        },
+        {
+          "number": 3,
+          "text": "Tempted, tried, and sometimes failing,"
+        },
+        {
+          "number": 4,
+          "text": "He, my Strength, my victory wins."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Jesus! what a Help in sorrow!"
+        },
+        {
+          "number": 2,
+          "text": "While the billows over me roll,"
+        },
+        {
+          "number": 3,
+          "text": "Even when my heart is breaking,"
+        },
+        {
+          "number": 4,
+          "text": "He, my Comfort, helps my soul."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Jesus! I do now receive Him,"
+        },
+        {
+          "number": 2,
+          "text": "[or Jesus! I do now adore Him,]"
+        },
+        {
+          "number": 3,
+          "text": "More than all in Him I find."
+        },
+        {
+          "number": 4,
+          "text": "He hath granted me forgiveness,"
+        },
+        {
+          "number": 5,
+          "text": "I am His, and He is mine."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Jesus, What a Friend for Sinners"
+}

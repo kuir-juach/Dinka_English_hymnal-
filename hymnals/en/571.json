@@ -1,0 +1,56 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "What does the Lord require for praise and offering?"
+        },
+        {
+          "number": 2,
+          "text": "What sacrifice, desire or tribute bid you bring?"
+        },
+        {
+          "number": 3,
+          "text": "Do justly; Love mercy; Walk humbly with your God."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Rulers of men, give ear! Should you not justice show?"
+        },
+        {
+          "number": 2,
+          "text": "Will God your pleading hear, while crime and cruelty grow?"
+        },
+        {
+          "number": 3,
+          "text": "Do justly; Love mercy; Walk humbly with your God."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "How shall our life fulfill God’s law so hard and high?"
+        },
+        {
+          "number": 2,
+          "text": "Let Christ endue our will with grace to fortify."
+        },
+        {
+          "number": 3,
+          "text": "Then justly, in mercy we’ll humbly walk with God."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "What Does the Lord Require"
+}

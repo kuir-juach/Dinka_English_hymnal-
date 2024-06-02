@@ -1,0 +1,82 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Alleluia, alleluia, alleluia!"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "The strife is o’er, the battle done;"
+        },
+        {
+          "number": 2,
+          "text": "Now is the victor’s triumph won!"
+        },
+        {
+          "number": 3,
+          "text": "Now be the song of praise begun. Alleluia!"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "The pow’rs of death have done their worst,"
+        },
+        {
+          "number": 2,
+          "text": "But Christ their legions has dispersed."
+        },
+        {
+          "number": 3,
+          "text": "Let shouts of holy joy outburst. Alleluia!"
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "The three sad days have quickly sped,"
+        },
+        {
+          "number": 2,
+          "text": "He rises glorious from the dead."
+        },
+        {
+          "number": 3,
+          "text": "All glory to our risen head! Alleluia!"
+        }
+      ],
+      "number": 4
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Lord, by the stripes which wounded You,"
+        },
+        {
+          "number": 2,
+          "text": "From death’s sting free Your servants too,"
+        },
+        {
+          "number": 3,
+          "text": "That we may live and sing to You. Alleluia!"
+        }
+      ],
+      "number": 5
+    }
+  ],
+  "title": "The Strife Is O'er"
+}

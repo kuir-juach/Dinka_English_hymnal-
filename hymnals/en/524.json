@@ -1,0 +1,109 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Jesus, Jesus, how I trust him!"
+      },
+      {
+        "number": 2,
+        "text": "How I’ve proved him o’er and o’er!"
+      },
+      {
+        "number": 3,
+        "text": "Jesus, Jesus, precious Jesus!"
+      },
+      {
+        "number": 4,
+        "text": "O for grace to trust him more!"
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "‘Tis so sweet to trust in Jesus,"
+        },
+        {
+          "number": 2,
+          "text": "Just to take Him at His word;"
+        },
+        {
+          "number": 3,
+          "text": "Just to rest upon his promise,"
+        },
+        {
+          "number": 4,
+          "text": "Just to know, “Thus saith the Lord.”"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O how sweet to trust in Jesus,"
+        },
+        {
+          "number": 2,
+          "text": "Just to trust his cleansing blood;"
+        },
+        {
+          "number": 3,
+          "text": "And in simple faith to plunge me"
+        },
+        {
+          "number": 4,
+          "text": "Neath the healing, cleansing flood!"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Yes, ’tis sweet to trust in Jesus,"
+        },
+        {
+          "number": 2,
+          "text": "Just from sin and self to cease;"
+        },
+        {
+          "number": 3,
+          "text": "Just from Jesus simply taking"
+        },
+        {
+          "number": 4,
+          "text": "Life and rest, and joy and peace."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I’m so glad I learned to trust thee,"
+        },
+        {
+          "number": 2,
+          "text": "Precious Jesus, Savior, friend;"
+        },
+        {
+          "number": 3,
+          "text": "And I know that thou art with me,"
+        },
+        {
+          "number": 4,
+          "text": "Wilt be with me to the end."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Tis So Sweet to Trust in Jesus"
+}

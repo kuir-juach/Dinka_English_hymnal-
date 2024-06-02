@@ -1,0 +1,80 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O come, all ye faithful, joyful and triumphant,"
+        },
+        {
+          "number": 2,
+          "text": "O come ye, O come ye to Bethlehem!"
+        },
+        {
+          "number": 3,
+          "text": "Come and behold Him, born the King of angels!"
+        },
+        {
+          "number": 4,
+          "text": "O come, let us adore Him, O come, let us adore Him,"
+        },
+        {
+          "number": 5,
+          "text": "O come, let us adore Him, Christ, the Lord!"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Sing, choirs of angels sing in exultation,"
+        },
+        {
+          "number": 2,
+          "text": "O sing all ye citizens of heaven above!"
+        },
+        {
+          "number": 3,
+          "text": "Glory to God, all glory in the highest!"
+        },
+        {
+          "number": 4,
+          "text": "O come, let us adore Him, O come, let us adore Him,"
+        },
+        {
+          "number": 5,
+          "text": "O come, let us adore Him, Christ, the Lord!"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Yea, Lord, we greet Thee, born this happy morning,"
+        },
+        {
+          "number": 2,
+          "text": "Jesus, to Thee be all glory given;"
+        },
+        {
+          "number": 3,
+          "text": "Word of the Father, now in flesh appearing!"
+        },
+        {
+          "number": 4,
+          "text": "O come, let us adore Him, O come, let us adore Him,"
+        },
+        {
+          "number": 5,
+          "text": "O come, let us adore Him, Christ, the Lord!"
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "O Come, All Ye Faithful"
+}

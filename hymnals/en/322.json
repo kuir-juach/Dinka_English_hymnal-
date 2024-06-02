@@ -1,0 +1,88 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Nothing between my soul and my Savior,"
+      },
+      {
+        "number": 2,
+        "text": "so that his blessed face may be seen;"
+      },
+      {
+        "number": 3,
+        "text": "nothing preventing the least of his favor;"
+      },
+      {
+        "number": 4,
+        "text": "keep the way clear! let nothing between."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Nothing between my soul and my Savior,"
+        },
+        {
+          "number": 2,
+          "text": "naught of this world’s delusive dream;"
+        },
+        {
+          "number": 3,
+          "text": "I have renounced all sinful pleasure;"
+        },
+        {
+          "number": 4,
+          "text": "Jesus is mine, there’s nothing between."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Nothing between, like worldly pleasure;"
+        },
+        {
+          "number": 2,
+          "text": "habits of life, though harmless they seem,"
+        },
+        {
+          "number": 3,
+          "text": "must not my heart from him ever sever;"
+        },
+        {
+          "number": 4,
+          "text": "he is my all, there’s nothing between."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Nothing between, e’en many hard trials,"
+        },
+        {
+          "number": 2,
+          "text": "though the whole world against me convene;"
+        },
+        {
+          "number": 3,
+          "text": "watching with prayer and much self denial,"
+        },
+        {
+          "number": 4,
+          "text": "I’ll triumph at last, there’s nothing between."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Nothing Between"
+}

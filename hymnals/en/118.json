@@ -1,0 +1,122 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Noel, Noel, Noel, Noel,"
+      },
+      {
+        "number": 2,
+        "text": "Born is the King of Israel"
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "The first noel the angel did say"
+        },
+        {
+          "number": 2,
+          "text": "Was to certain poor shepherds in fields where they lay;"
+        },
+        {
+          "number": 3,
+          "text": "In fields where they lay keeping their sheep,"
+        },
+        {
+          "number": 4,
+          "text": "On a cold winter’s night that was so deep."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "They looked up and say a star"
+        },
+        {
+          "number": 2,
+          "text": "Shining in the east, beyond them far,"
+        },
+        {
+          "number": 3,
+          "text": "And to the earth it gave great light,"
+        },
+        {
+          "number": 4,
+          "text": "And so it continued both day and night."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "And by the light of that same star,"
+        },
+        {
+          "number": 2,
+          "text": "Three wise men came from country far,"
+        },
+        {
+          "number": 3,
+          "text": "And to the earth it gave great light,"
+        },
+        {
+          "number": 4,
+          "text": "And to follow the star wherever it went."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "This star drew nigh to the northwest,"
+        },
+        {
+          "number": 2,
+          "text": "O’er Bethlehem it took its rest,"
+        },
+        {
+          "number": 3,
+          "text": "And there it did both stop and stay,"
+        },
+        {
+          "number": 4,
+          "text": "Right over the place where Jesus lay."
+        }
+      ],
+      "number": 4
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Then entered in those wise men three,"
+        },
+        {
+          "number": 2,
+          "text": "Full reverently upon the knee,"
+        },
+        {
+          "number": 3,
+          "text": "And offered there, in His presence,"
+        },
+        {
+          "number": 4,
+          "text": "Their gold, and myrrh, and frankincense."
+        }
+      ],
+      "number": 5
+    }
+  ],
+  "title": "The First Noel"
+}

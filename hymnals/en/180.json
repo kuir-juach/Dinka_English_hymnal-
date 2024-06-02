@@ -1,0 +1,92 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Who saved us from eternal loss?"
+      },
+      {
+        "number": 2,
+        "text": "Who but God’s Son upon the cross?"
+      },
+      {
+        "number": 3,
+        "text": "What did He do? He died for you!"
+      },
+      {
+        "number": 4,
+        "text": "Where is He now? Believe it thou,"
+      },
+      {
+        "number": 5,
+        "text": "In heaven interceding! In heaven interceding!"
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O listen to our wondrous story,"
+        },
+        {
+          "number": 2,
+          "text": "Counted once among the lost;"
+        },
+        {
+          "number": 3,
+          "text": "Yet One came down from heaven’s glory,"
+        },
+        {
+          "number": 4,
+          "text": "Saving us at awful cost!"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "No angel could His place have taken,"
+        },
+        {
+          "number": 2,
+          "text": "Highest of the high tho’ he;"
+        },
+        {
+          "number": 3,
+          "text": "The loved One on the cross forsaken"
+        },
+        {
+          "number": 4,
+          "text": "Was One of the Godhead three!"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Will you surrender to this Savior?"
+        },
+        {
+          "number": 2,
+          "text": "To His scepter humbly bow?"
+        },
+        {
+          "number": 3,
+          "text": "You, too, shall come to know His favor,"
+        },
+        {
+          "number": 4,
+          "text": "He will save you, save you now."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "O Listen to Our Wondrous Story"
+}

@@ -1,0 +1,105 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "On Christ the solid rock I stand;"
+      },
+      {
+        "number": 2,
+        "text": "all other ground is sinking sand,"
+      },
+      {
+        "number": 3,
+        "text": "all other ground is sinking sand."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "My hope is built on nothing less"
+        },
+        {
+          "number": 2,
+          "text": "than Jesus’ blood and righteousness."
+        },
+        {
+          "number": 3,
+          "text": "I dare not trust the sweetest frame,"
+        },
+        {
+          "number": 4,
+          "text": "but wholly lean on Jesus’ name."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "When Darkness seems to veil His face,"
+        },
+        {
+          "number": 2,
+          "text": "I rest on his unchanging grace."
+        },
+        {
+          "number": 3,
+          "text": "in every high and stormy gale,"
+        },
+        {
+          "number": 4,
+          "text": "my anchor holds within the veil."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "His oath, his covenant, his blood"
+        },
+        {
+          "number": 2,
+          "text": "supports me in the whelming flood."
+        },
+        {
+          "number": 3,
+          "text": "When all around my soul gives way,"
+        },
+        {
+          "number": 4,
+          "text": "he then is all my hope and stay."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "When He shall come with trumpet sound,"
+        },
+        {
+          "number": 2,
+          "text": "O may I then in him be found!"
+        },
+        {
+          "number": 3,
+          "text": "Dressed in his righteousness alone,"
+        },
+        {
+          "number": 4,
+          "text": "faultless to stand before the throne."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "My Hope Is Built on Nothing Less"
+}

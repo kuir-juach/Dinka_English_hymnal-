@@ -1,0 +1,92 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Rock of Ages, cleft for me,"
+        },
+        {
+          "number": 2,
+          "text": "Let me hide myself in Thee;"
+        },
+        {
+          "number": 3,
+          "text": "Let the water and the blood,"
+        },
+        {
+          "number": 4,
+          "text": "From Thy riven side which flowed,"
+        },
+        {
+          "number": 5,
+          "text": "Be of sin the double cure,"
+        },
+        {
+          "number": 6,
+          "text": "Cleanse me from its guilt and power."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Not the labor of my hands"
+        },
+        {
+          "number": 2,
+          "text": "Can fulfill Thy law’s demands;"
+        },
+        {
+          "number": 3,
+          "text": "Could my zeal no respite know,"
+        },
+        {
+          "number": 4,
+          "text": "Could my tears forever flow,"
+        },
+        {
+          "number": 5,
+          "text": "All for sin could not atone;"
+        },
+        {
+          "number": 6,
+          "text": "Thou must save, and Thou alone."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "When my pilgrimage I close;"
+        },
+        {
+          "number": 2,
+          "text": "Victor o’er the last of foes,"
+        },
+        {
+          "number": 3,
+          "text": "When I soar to worlds unknown,"
+        },
+        {
+          "number": 4,
+          "text": "And behold Thee on Thy throne,"
+        },
+        {
+          "number": 5,
+          "text": "Rock of Ages, cleft for me,"
+        },
+        {
+          "number": 6,
+          "text": "Let me hide myself in Thee."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Rock of Ages"
+}

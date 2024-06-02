@@ -1,0 +1,89 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O Thou in whose presence my soul takes delight,"
+        },
+        {
+          "number": 2,
+          "text": "On whom in affliction I call,"
+        },
+        {
+          "number": 3,
+          "text": "My comfort by day and my song in the night,"
+        },
+        {
+          "number": 4,
+          "text": "My hope, my salvation, my all!"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "His voice, as the sound of the dulcimer sweet,"
+        },
+        {
+          "number": 2,
+          "text": "Is heard through the shadows of death;"
+        },
+        {
+          "number": 3,
+          "text": "The cedars of Lebanon bow at His feet,"
+        },
+        {
+          "number": 4,
+          "text": "The air is perfumed with His breath."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "His lips, as a fountain of righteousness flow,"
+        },
+        {
+          "number": 2,
+          "text": "To water the gardens of grace;"
+        },
+        {
+          "number": 3,
+          "text": "From which their salvation the Gentiles shall know,"
+        },
+        {
+          "number": 4,
+          "text": "And bask in the smiles of His face."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "He looks, and ten thousands of angels rejoice,"
+        },
+        {
+          "number": 2,
+          "text": "And myriads wait for His word;"
+        },
+        {
+          "number": 3,
+          "text": "He speaks, and eternity, filled with His voice,"
+        },
+        {
+          "number": 4,
+          "text": "Re-echoes the praise of the Lord."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "O Thou in Whose Presence"
+}

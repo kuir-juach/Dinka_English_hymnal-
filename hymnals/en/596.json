@@ -1,0 +1,88 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Look for the way-marks, the great prophetic way-marks,"
+      },
+      {
+        "number": 2,
+        "text": "Down through the ages, past the kingdoms four."
+      },
+      {
+        "number": 3,
+        "text": "Look for the waymarks, the great prophetic way-marks;"
+      },
+      {
+        "number": 4,
+        "text": "The journey’s almost o’er."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Look for the way-marks as you journey on,"
+        },
+        {
+          "number": 2,
+          "text": "Look for the way-marks passing one by one;"
+        },
+        {
+          "number": 3,
+          "text": "Down through the ages, past the kingdoms four—"
+        },
+        {
+          "number": 4,
+          "text": "Where are we standing? Look the way-marks o’er."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "First, the Assyrian kingdom ruled the world,"
+        },
+        {
+          "number": 2,
+          "text": "Then Medo-Persia’s banners were unfurled;"
+        },
+        {
+          "number": 3,
+          "text": "And after Greece held universal sway,"
+        },
+        {
+          "number": 4,
+          "text": "Rome seized the scepter—where are we today?"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Down in the feet of iron and of clay,"
+        },
+        {
+          "number": 2,
+          "text": "Weak and divided, soon to pass away;"
+        },
+        {
+          "number": 3,
+          "text": "What will the next great, glorious drama be?"
+        },
+        {
+          "number": 4,
+          "text": "Christ and His coming, and eternity."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Look for the Waymarks"
+}

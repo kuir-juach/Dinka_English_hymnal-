@@ -1,0 +1,92 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Standing, standing,"
+      },
+      {
+        "number": 2,
+        "text": "Standing on the promises"
+      },
+      {
+        "number": 3,
+        "text": "of God my Savior;"
+      },
+      {
+        "number": 4,
+        "text": "Standing, standing,"
+      },
+      {
+        "number": 5,
+        "text": "I’m standing on the promises of God."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Standing on the promises of Christ my King,"
+        },
+        {
+          "number": 2,
+          "text": "Thru eternal ages let His praises ring;"
+        },
+        {
+          "number": 3,
+          "text": "Glory in the highest I will shout and sing,"
+        },
+        {
+          "number": 4,
+          "text": "Standing on the promises of God."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Standing on the promises that cannot fail,"
+        },
+        {
+          "number": 2,
+          "text": "When the howling storms of doubt and fear assail,"
+        },
+        {
+          "number": 3,
+          "text": "By the living word of God I shall prevail,"
+        },
+        {
+          "number": 4,
+          "text": "Standing on the promises of God."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Standing on the promises of Christ the Lord,"
+        },
+        {
+          "number": 2,
+          "text": "Bound to Him eternally by love’s strong cord,"
+        },
+        {
+          "number": 3,
+          "text": "Overcoming daily with the Spirit’s sword,"
+        },
+        {
+          "number": 4,
+          "text": "Standing on the promises of God."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Standing on the Promises"
+}

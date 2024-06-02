@@ -1,0 +1,88 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "O how I love Jesus,"
+      },
+      {
+        "number": 2,
+        "text": "O how I love Jesus,"
+      },
+      {
+        "number": 3,
+        "text": "O how I love Jesus,"
+      },
+      {
+        "number": 4,
+        "text": "Because He first loved me."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "There is a Name I love to hear,"
+        },
+        {
+          "number": 2,
+          "text": "I love to sing its worth;"
+        },
+        {
+          "number": 3,
+          "text": "It sounds like music in my ears,"
+        },
+        {
+          "number": 4,
+          "text": "The sweetest Name on earth."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "It tells me of a Savior’s love,"
+        },
+        {
+          "number": 2,
+          "text": "Who died to set me free;"
+        },
+        {
+          "number": 3,
+          "text": "It tells me of a Savior’s blood,"
+        },
+        {
+          "number": 4,
+          "text": "The sinners’ perfect plea."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "It tells of one whose loving heart"
+        },
+        {
+          "number": 2,
+          "text": "Can feel my deepest woe;"
+        },
+        {
+          "number": 3,
+          "text": "Who in each sorrow bears"
+        },
+        {
+          "number": 4,
+          "text": "A part that none can bear below."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "O, How I Love Jesus"
+}

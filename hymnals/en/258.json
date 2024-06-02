@@ -1,0 +1,77 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "We humbly beseech Thee, Lord Jesus, we pray,"
+      },
+      {
+        "number": 2,
+        "text": "With love and the Spirit baptize us today."
+      },
+      {
+        "number": 3,
+        "text": "We praise Thee, we bless Thee, dear Lamb that was slain"
+      },
+      {
+        "number": 4,
+        "text": "We laud and adore Thee, Amen and Amen."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Baptize us anew With power from on high,"
+        },
+        {
+          "number": 2,
+          "text": "With love, O refresh us! Dear Savior, draw nigh."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Unworthy we cry, Unholy, unclean,"
+        },
+        {
+          "number": 2,
+          "text": "O wash us and cleanse us From sin’s guilty stain."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O heavenly Dove, Descend from on high!"
+        },
+        {
+          "number": 2,
+          "text": "We plead Thy rich blessing; In mercy draw nigh."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O list the glad voice! From heaven it came:"
+        },
+        {
+          "number": 2,
+          "text": "Thou art My beloved, Well pleased I am."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Baptize Us Anew"
+}

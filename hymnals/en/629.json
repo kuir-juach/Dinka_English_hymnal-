@@ -1,0 +1,110 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O happy band of pilgrims,"
+        },
+        {
+          "number": 2,
+          "text": "If onward ye will tread"
+        },
+        {
+          "number": 3,
+          "text": "With Jesus as your fellow,"
+        },
+        {
+          "number": 4,
+          "text": "To Jesus as your Head!"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O happy if ye labor"
+        },
+        {
+          "number": 2,
+          "text": "As Jesus did for men;"
+        },
+        {
+          "number": 3,
+          "text": "O happy if ye hunger"
+        },
+        {
+          "number": 4,
+          "text": "As Jesus hungered then!"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "The trials that beset you,"
+        },
+        {
+          "number": 2,
+          "text": "The sorrows ye endure,"
+        },
+        {
+          "number": 3,
+          "text": "The manifold temptations"
+        },
+        {
+          "number": 4,
+          "text": "That death alone can cure,"
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "What are they but His jewels"
+        },
+        {
+          "number": 2,
+          "text": "Of right celestial worth?"
+        },
+        {
+          "number": 3,
+          "text": "What are they but the ladder"
+        },
+        {
+          "number": 4,
+          "text": "Set up to heaven on earth?"
+        }
+      ],
+      "number": 4
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O happy band of pilgrims,"
+        },
+        {
+          "number": 2,
+          "text": "Look upward to the skies,"
+        },
+        {
+          "number": 3,
+          "text": "Where such a light affliction"
+        },
+        {
+          "number": 4,
+          "text": "Shall win you such a prize!"
+        }
+      ],
+      "number": 5
+    }
+  ],
+  "title": "O Happy Band of Pilgrims"
+}

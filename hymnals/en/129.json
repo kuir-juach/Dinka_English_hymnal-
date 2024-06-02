@@ -1,0 +1,89 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "As it fell upon a night"
+        },
+        {
+          "number": 2,
+          "text": "In the winter weather,"
+        },
+        {
+          "number": 3,
+          "text": "Angels bright in starry height"
+        },
+        {
+          "number": 4,
+          "text": "Began to sing together."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Shepherds sleeping on the plain"
+        },
+        {
+          "number": 2,
+          "text": "Woke to see the glory,"
+        },
+        {
+          "number": 3,
+          "text": "All amazed they stood and gazed"
+        },
+        {
+          "number": 4,
+          "text": "And heard the angels’ story."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Unto you a child is born"
+        },
+        {
+          "number": 2,
+          "text": "In a manger lowly,"
+        },
+        {
+          "number": 3,
+          "text": "Humble, He, yet born to be"
+        },
+        {
+          "number": 4,
+          "text": "The King of Love most holy."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Happy angels from afar,"
+        },
+        {
+          "number": 2,
+          "text": "Cease your singing never!"
+        },
+        {
+          "number": 3,
+          "text": "In excelsis gloria!"
+        },
+        {
+          "number": 4,
+          "text": "Forever and forever."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "As It Fell Upon a Night"
+}

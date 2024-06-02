@@ -1,0 +1,89 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Father, lead me day by day,"
+        },
+        {
+          "number": 2,
+          "text": "Ever in Thine own sweet way;"
+        },
+        {
+          "number": 3,
+          "text": "Teach me to be pure and true;"
+        },
+        {
+          "number": 4,
+          "text": "Show me what I ought to do."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "When in danger, make me brave;"
+        },
+        {
+          "number": 2,
+          "text": "Make me know that Thou canst save;"
+        },
+        {
+          "number": 3,
+          "text": "Keep me safe by Thy dear side;"
+        },
+        {
+          "number": 4,
+          "text": "Let me in Thy love abide."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "When tempted to do wrong,"
+        },
+        {
+          "number": 2,
+          "text": "Make me steadfast, wise, and strong;"
+        },
+        {
+          "number": 3,
+          "text": "And when all alone I stand,"
+        },
+        {
+          "number": 4,
+          "text": "Shield me with Thy mighty hand."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "May I do the good I know,"
+        },
+        {
+          "number": 2,
+          "text": "Be Thy loving child below,"
+        },
+        {
+          "number": 3,
+          "text": "Then at last go home to Thee,"
+        },
+        {
+          "number": 4,
+          "text": "Evermore Thy child to be."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Father, Lead Me Day by Day"
+}

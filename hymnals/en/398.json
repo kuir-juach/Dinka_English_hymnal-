@@ -1,0 +1,47 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Bread of the world in mercy broken,"
+        },
+        {
+          "number": 2,
+          "text": "Wine of the soul in mercy shed,"
+        },
+        {
+          "number": 3,
+          "text": "By whom the words of life are spoken,"
+        },
+        {
+          "number": 4,
+          "text": "And in whose death our sins are dead;"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Look on the heart by sorrow broken,"
+        },
+        {
+          "number": 2,
+          "text": "Look on the tears by sinners shed;"
+        },
+        {
+          "number": 3,
+          "text": "And be Thy feast to us the token"
+        },
+        {
+          "number": 4,
+          "text": "That by Thy grace our souls are fed. Amen."
+        }
+      ],
+      "number": 2
+    }
+  ],
+  "title": "Bread of the World"
+}

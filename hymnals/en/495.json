@@ -1,0 +1,88 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "O Jesus, blest Redeemer,"
+      },
+      {
+        "number": 2,
+        "text": "sent from the heart of God,"
+      },
+      {
+        "number": 3,
+        "text": "hold us who wait before thee"
+      },
+      {
+        "number": 4,
+        "text": "near to the heart of God."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "There is a place of quiet rest,"
+        },
+        {
+          "number": 2,
+          "text": "near to the heart of God;"
+        },
+        {
+          "number": 3,
+          "text": "a place where sin cannot molest,"
+        },
+        {
+          "number": 4,
+          "text": "near to the heart of God."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "There is a place of comfort sweet,"
+        },
+        {
+          "number": 2,
+          "text": "near to the heart of God;"
+        },
+        {
+          "number": 3,
+          "text": "a place where we our Savior meet,"
+        },
+        {
+          "number": 4,
+          "text": "near to the heart of God."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "There is place a place of full release,"
+        },
+        {
+          "number": 2,
+          "text": "near to the heart of God;"
+        },
+        {
+          "number": 3,
+          "text": "a place where all is joy and peace,"
+        },
+        {
+          "number": 4,
+          "text": "near to the heart of God."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Near to the Heart of God"
+}

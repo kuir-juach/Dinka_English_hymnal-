@@ -1,0 +1,96 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "In the sweet in the sweet"
+      },
+      {
+        "number": 2,
+        "text": "By and by by and by,"
+      },
+      {
+        "number": 3,
+        "text": "We shall meet on that beautiful shore;"
+      },
+      {
+        "number": 4,
+        "text": "In the sweet in the sweet"
+      },
+      {
+        "number": 5,
+        "text": "By and by by and by"
+      },
+      {
+        "number": 6,
+        "text": "We shall meet on that beautiful shore."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "There’s a land that is fairer than day,"
+        },
+        {
+          "number": 2,
+          "text": "And by faith we can see it afar;"
+        },
+        {
+          "number": 3,
+          "text": "For the Father waits over the way"
+        },
+        {
+          "number": 4,
+          "text": "To prepare us a dwelling place there."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "We shall sing on that beautiful shore"
+        },
+        {
+          "number": 2,
+          "text": "The melodious songs of the blest,"
+        },
+        {
+          "number": 3,
+          "text": "And our spirits shall sorrow no more"
+        },
+        {
+          "number": 4,
+          "text": "Not a sigh for the blessing of rest."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "To our bountiful father above"
+        },
+        {
+          "number": 2,
+          "text": "We will offer our tribute of praise;"
+        },
+        {
+          "number": 3,
+          "text": "For the glorious gift of His love"
+        },
+        {
+          "number": 4,
+          "text": "And the blessings that hallow our days."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Sweet By and By"
+}

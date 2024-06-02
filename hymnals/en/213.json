@@ -1,0 +1,101 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Coming again, coming again,"
+      },
+      {
+        "number": 2,
+        "text": "Jesus is coming again!"
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Lift up the trumpet, and loud let it ring:"
+        },
+        {
+          "number": 2,
+          "text": "Jesus is coming again!"
+        },
+        {
+          "number": 3,
+          "text": "Cheer up, ye pilgrims, be joyful and sing:"
+        },
+        {
+          "number": 4,
+          "text": "Jesus is coming again!"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Echo it, hilltops; proclaim it, ye plains:"
+        },
+        {
+          "number": 2,
+          "text": "Jesus is coming again!"
+        },
+        {
+          "number": 3,
+          "text": "Coming in glory, the Lamb that was slain;"
+        },
+        {
+          "number": 4,
+          "text": "Jesus is coming again!"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Heavings of earth, tell the vast, wondering throng:"
+        },
+        {
+          "number": 2,
+          "text": "Jesus is coming again!"
+        },
+        {
+          "number": 3,
+          "text": "Tempests and whirlwinds, the anthem prolong;"
+        },
+        {
+          "number": 4,
+          "text": "Jesus is coming again!"
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Nations are angry–by this we do know"
+        },
+        {
+          "number": 2,
+          "text": "Jesus is coming again!"
+        },
+        {
+          "number": 3,
+          "text": "Knowledge increases; men run to and fro;"
+        },
+        {
+          "number": 4,
+          "text": "Jesus is coming again!"
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Jesus Is Coming Again"
+}

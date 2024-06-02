@@ -1,0 +1,88 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Wholly Thine, wholly Thine,"
+      },
+      {
+        "number": 2,
+        "text": "Wholly Thine, this is my vow;"
+      },
+      {
+        "number": 3,
+        "text": "Wholly Thine, wholly Thine,"
+      },
+      {
+        "number": 4,
+        "text": "Wholly Thine, O Lord, just now."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I would be, dear Savior, wholly Thine;"
+        },
+        {
+          "number": 2,
+          "text": "Teach me how, teach me how;"
+        },
+        {
+          "number": 3,
+          "text": "I would do Thy will, O Lord, not mine;"
+        },
+        {
+          "number": 4,
+          "text": "Help me, help me now."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "What is worldly pleasure, wealth or fame,"
+        },
+        {
+          "number": 2,
+          "text": "Without Thee, without Thee?"
+        },
+        {
+          "number": 3,
+          "text": "I will leave them all for Thy dear Name,"
+        },
+        {
+          "number": 4,
+          "text": "This my wealth shall be."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "As I cast earth’s transient joys behind,"
+        },
+        {
+          "number": 2,
+          "text": "Come Thou near, come Thou near;"
+        },
+        {
+          "number": 3,
+          "text": "In Thy presence all in all I find,"
+        },
+        {
+          "number": 4,
+          "text": "’Tis my comfort here."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Wholly Thine"
+}

@@ -1,0 +1,130 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "I will follow Thee, my Saviour,"
+      },
+      {
+        "number": 2,
+        "text": "Thou didst shed Thy blood for me;"
+      },
+      {
+        "number": 3,
+        "text": "And though all men should forsake Thee;"
+      },
+      {
+        "number": 4,
+        "text": "By Thy grace I’ll follow Thee."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I will follow Thee, my Savior,"
+        },
+        {
+          "number": 2,
+          "text": "Wheresoe’er my lot may be."
+        },
+        {
+          "number": 3,
+          "text": "Where thou goest I will follow;"
+        },
+        {
+          "number": 4,
+          "text": "Yes, my Lord, I’ll follow Thee."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Though the road be rough and thorny,"
+        },
+        {
+          "number": 2,
+          "text": "Trackless as the foaming sea,"
+        },
+        {
+          "number": 3,
+          "text": "Thou hast trod this way before me,"
+        },
+        {
+          "number": 4,
+          "text": "And I’ll gladly follow Thee."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Though I meet with tribulations,"
+        },
+        {
+          "number": 2,
+          "text": "Sorely tempted though I be;"
+        },
+        {
+          "number": 3,
+          "text": "I remember Thou wast tempted,"
+        },
+        {
+          "number": 4,
+          "text": "And rejoice to follow Thee."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Though Thou leadest me through affliction,"
+        },
+        {
+          "number": 2,
+          "text": "Poor, forsaken though I be;"
+        },
+        {
+          "number": 3,
+          "text": "Thou wast destitute, afflicted,"
+        },
+        {
+          "number": 4,
+          "text": "And I only follow Thee."
+        }
+      ],
+      "number": 4
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Though to Jordan’s rolling billows,"
+        },
+        {
+          "number": 2,
+          "text": "Cold and deep, Thou leadest me,"
+        },
+        {
+          "number": 3,
+          "text": "Thou hast crossed the waves before me,"
+        },
+        {
+          "number": 4,
+          "text": "And I still will follow Thee."
+        }
+      ],
+      "number": 5
+    }
+  ],
+  "title": "I Will Follow Thee"
+}

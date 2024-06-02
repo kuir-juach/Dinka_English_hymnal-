@@ -1,0 +1,68 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Softly now the light of day"
+        },
+        {
+          "number": 2,
+          "text": "Fades upon out sight away:"
+        },
+        {
+          "number": 3,
+          "text": "Free from care, from labor free,"
+        },
+        {
+          "number": 4,
+          "text": "Lord, we would commune with Thee."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Thou, whose allpervading eye"
+        },
+        {
+          "number": 2,
+          "text": "Nought escapes, without, within,"
+        },
+        {
+          "number": 3,
+          "text": "Pardon each infirmity,"
+        },
+        {
+          "number": 4,
+          "text": "Open fault, and secret sin."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Soon from us the light of day"
+        },
+        {
+          "number": 2,
+          "text": "Shall forever pass away;"
+        },
+        {
+          "number": 3,
+          "text": "Then, from sin and sorrow free,"
+        },
+        {
+          "number": 4,
+          "text": "Take us, Lord, to dwell with Thee."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Softly Now the Light of Day"
+}

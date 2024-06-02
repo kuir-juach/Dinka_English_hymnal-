@@ -1,0 +1,89 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O Master, let me walk with thee"
+        },
+        {
+          "number": 2,
+          "text": "in lowly paths of service free;"
+        },
+        {
+          "number": 3,
+          "text": "tell me thy secret; help me bear"
+        },
+        {
+          "number": 4,
+          "text": "the strain of toil, the fret of care."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Help me the slow of heart to move"
+        },
+        {
+          "number": 2,
+          "text": "by some clear, winning word of love;"
+        },
+        {
+          "number": 3,
+          "text": "teach me the wayward feet to stay,"
+        },
+        {
+          "number": 4,
+          "text": "and guide them in the homeward way."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Teach me thy patience; still with thee"
+        },
+        {
+          "number": 2,
+          "text": "in closer, dearer company,"
+        },
+        {
+          "number": 3,
+          "text": "in work that keeps faith sweet and strong,"
+        },
+        {
+          "number": 4,
+          "text": "in trust that triumphs over wrong;"
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "In hope that sends a shining ray"
+        },
+        {
+          "number": 2,
+          "text": "far down the future’s broadening way,"
+        },
+        {
+          "number": 3,
+          "text": "in peace that only thou canst give,"
+        },
+        {
+          "number": 4,
+          "text": "with thee, O Master, let me live."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "O Master, Let Me Walk With Thee"
+}

@@ -1,0 +1,38 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Glory be to the Father,"
+        },
+        {
+          "number": 2,
+          "text": "and to the Son,"
+        },
+        {
+          "number": 3,
+          "text": "and to the Holy Ghost;"
+        },
+        {
+          "number": 4,
+          "text": "As it was in the beginning,"
+        },
+        {
+          "number": 5,
+          "text": "is now, and ever shall be,"
+        },
+        {
+          "number": 6,
+          "text": "world without end."
+        },
+        {
+          "number": 7,
+          "text": "Amen, Amen."
+        }
+      ],
+      "number": 1
+    }
+  ],
+  "title": "Glory Be to the Father"
+}

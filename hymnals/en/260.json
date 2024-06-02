@@ -1,0 +1,109 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Fill me now, fill me now,"
+      },
+      {
+        "number": 2,
+        "text": "Jesus, come and fill me now."
+      },
+      {
+        "number": 3,
+        "text": "Fill me with Thy hallowed presence,"
+      },
+      {
+        "number": 4,
+        "text": "Come, O come and fill me now."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Hover o’er me, Holy Spirit,"
+        },
+        {
+          "number": 2,
+          "text": "Bathe my trembling heart and brow;"
+        },
+        {
+          "number": 3,
+          "text": "Fill me with Thy hallowed presence,"
+        },
+        {
+          "number": 4,
+          "text": "Come, O come and fill me now."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Thou canst fill me, gracious Spirit,"
+        },
+        {
+          "number": 2,
+          "text": "Though I cannot tell Thee how;"
+        },
+        {
+          "number": 3,
+          "text": "But I need Thee, greatly need Thee;"
+        },
+        {
+          "number": 4,
+          "text": "Come, O come and fill me now."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I am weakness, full of weakness;"
+        },
+        {
+          "number": 2,
+          "text": "At Thy sacred feet I bow;"
+        },
+        {
+          "number": 3,
+          "text": "Blest, divine, eternal Spirit,"
+        },
+        {
+          "number": 4,
+          "text": "Fill with love, and fill me now."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Cleanse and comfort, bless and save me;"
+        },
+        {
+          "number": 2,
+          "text": "Bathe, O, bathe my heart and brow;"
+        },
+        {
+          "number": 3,
+          "text": "Thou art comforting and saving,"
+        },
+        {
+          "number": 4,
+          "text": "Thou art sweetly filling now."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Hover O'er Me, Holy Spirit"
+}

@@ -1,0 +1,89 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "We are climbing Jacob’s ladder,"
+        },
+        {
+          "number": 2,
+          "text": "We are climbing Jacob’s ladder,"
+        },
+        {
+          "number": 3,
+          "text": "We are climbing Jacob’s ladder,"
+        },
+        {
+          "number": 4,
+          "text": "Soldiers of the cross."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Every round goes higher, higher,"
+        },
+        {
+          "number": 2,
+          "text": "Every round goes higher, higher,"
+        },
+        {
+          "number": 3,
+          "text": "Every round goes higher, higher,"
+        },
+        {
+          "number": 4,
+          "text": "Soldiers of the cross."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Sinner, do you love my Jesus?"
+        },
+        {
+          "number": 2,
+          "text": "Sinner, do you love my Jesus?"
+        },
+        {
+          "number": 3,
+          "text": "Sinner, do you love my Jesus?"
+        },
+        {
+          "number": 4,
+          "text": "Soldiers of the cross."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "If you love him, why not serve him?"
+        },
+        {
+          "number": 2,
+          "text": "If you love him, why not serve him?"
+        },
+        {
+          "number": 3,
+          "text": "If you love him, why not serve him?"
+        },
+        {
+          "number": 4,
+          "text": "Soldiers of the cross."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Jacob's Ladder"
+}

@@ -1,0 +1,136 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Rouse, then soldiers!"
+      },
+      {
+        "number": 2,
+        "text": "rally round the banner!"
+      },
+      {
+        "number": 3,
+        "text": "Ready, steady, pass the word along;"
+      },
+      {
+        "number": 4,
+        "text": "Onward, forward, shout aloud hosanna!"
+      },
+      {
+        "number": 5,
+        "text": "Christ is Captain of the mighty throng."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Sound the battle cry,"
+        },
+        {
+          "number": 2,
+          "text": "See! the foe is nigh;"
+        },
+        {
+          "number": 3,
+          "text": "Raise the standard high"
+        },
+        {
+          "number": 4,
+          "text": "For the Lord;"
+        },
+        {
+          "number": 5,
+          "text": "Gird your armor on,"
+        },
+        {
+          "number": 6,
+          "text": "Stand firm, every one,"
+        },
+        {
+          "number": 7,
+          "text": "Rest your cause upon His holy word."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Strong to meet the foe,"
+        },
+        {
+          "number": 2,
+          "text": "Marching on we go,"
+        },
+        {
+          "number": 3,
+          "text": "While our cause we know"
+        },
+        {
+          "number": 4,
+          "text": "Must prevail;"
+        },
+        {
+          "number": 5,
+          "text": "Shield and banner bright,"
+        },
+        {
+          "number": 6,
+          "text": "Gleaming in the light,"
+        },
+        {
+          "number": 7,
+          "text": "Battling for the right,"
+        },
+        {
+          "number": 8,
+          "text": "We ne’er can fail."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O Thou God of all,"
+        },
+        {
+          "number": 2,
+          "text": "Hear us when we call,"
+        },
+        {
+          "number": 3,
+          "text": "Help us, one and all,"
+        },
+        {
+          "number": 4,
+          "text": "By Thy grace;"
+        },
+        {
+          "number": 5,
+          "text": "When the battle’s done,"
+        },
+        {
+          "number": 6,
+          "text": "And the victory won,"
+        },
+        {
+          "number": 7,
+          "text": "May we wear the crown"
+        },
+        {
+          "number": 8,
+          "text": "Before Thy face."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Sound the Battle Cry"
+}

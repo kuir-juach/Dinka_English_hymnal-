@@ -1,0 +1,104 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Christ for the world we sing,"
+        },
+        {
+          "number": 2,
+          "text": "the world to Christ we bring,"
+        },
+        {
+          "number": 3,
+          "text": "with loving zeal;"
+        },
+        {
+          "number": 4,
+          "text": "the poor, and them that mourn,"
+        },
+        {
+          "number": 5,
+          "text": "the faint and overborne,"
+        },
+        {
+          "number": 6,
+          "text": "sinsick and sorrow-worn,"
+        },
+        {
+          "number": 7,
+          "text": "whom Christ doth heal."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Christ for the world we sing,"
+        },
+        {
+          "number": 2,
+          "text": "the world to Christ we bring,"
+        },
+        {
+          "number": 3,
+          "text": "with fervent prayer;"
+        },
+        {
+          "number": 4,
+          "text": "the wayward and the lost,"
+        },
+        {
+          "number": 5,
+          "text": "by restless passions tossed,"
+        },
+        {
+          "number": 6,
+          "text": "redeemed at countless cost,"
+        },
+        {
+          "number": 7,
+          "text": "from dark despair."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Christ for the world we sing,"
+        },
+        {
+          "number": 2,
+          "text": "the world to Christ we bring,"
+        },
+        {
+          "number": 3,
+          "text": "with joyful song;"
+        },
+        {
+          "number": 4,
+          "text": "the newborn souls, whose days,"
+        },
+        {
+          "number": 5,
+          "text": "reclaimed from error’s ways,"
+        },
+        {
+          "number": 6,
+          "text": "inspired with hope and praise,"
+        },
+        {
+          "number": 7,
+          "text": "to Christ belong."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Christ for the World"
+}

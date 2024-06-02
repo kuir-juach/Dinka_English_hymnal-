@@ -1,0 +1,96 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "God is love; we’re his little children."
+      },
+      {
+        "number": 2,
+        "text": "God is love; we would be like Him."
+      },
+      {
+        "number": 3,
+        "text": "‘Tis love that makes us happy,"
+      },
+      {
+        "number": 4,
+        "text": "‘Tis love that smooths the way;"
+      },
+      {
+        "number": 5,
+        "text": "It helps us “mind,” it makes us kind"
+      },
+      {
+        "number": 6,
+        "text": "To others every day."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "‘Tis love that makes us happy,"
+        },
+        {
+          "number": 2,
+          "text": "‘Tis love that smooths the way;"
+        },
+        {
+          "number": 3,
+          "text": "It helps us mind, it makes us kind"
+        },
+        {
+          "number": 4,
+          "text": "To others every day."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "This world is full of sorrow,"
+        },
+        {
+          "number": 2,
+          "text": "Of sickness, death, and sin;"
+        },
+        {
+          "number": 3,
+          "text": "With loving heart we’ll do our part,"
+        },
+        {
+          "number": 4,
+          "text": "And try some soul to win."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "And when this life is over,"
+        },
+        {
+          "number": 2,
+          "text": "And we are called above"
+        },
+        {
+          "number": 3,
+          "text": "Our song shall be, eternally,"
+        },
+        {
+          "number": 4,
+          "text": "Of Jesus and His love."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Tis Love That Makes Us Happy"
+}

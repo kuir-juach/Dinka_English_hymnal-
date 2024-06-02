@@ -1,0 +1,105 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O Love that wilt not let me go,"
+        },
+        {
+          "number": 2,
+          "text": "I rest my weary soul in thee;"
+        },
+        {
+          "number": 3,
+          "text": "I give thee back the life I owe,"
+        },
+        {
+          "number": 4,
+          "text": "that in thine ocean depths"
+        },
+        {
+          "number": 5,
+          "text": "its flow may richer, fuller be."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O Light that followest all my way,"
+        },
+        {
+          "number": 2,
+          "text": "I yield my flickering torch to thee;"
+        },
+        {
+          "number": 3,
+          "text": "my heart restores its borrowed ray,"
+        },
+        {
+          "number": 4,
+          "text": "that in they sunshine’s blaze"
+        },
+        {
+          "number": 5,
+          "text": "its day may brighter, fairer be."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O Joy that seekest me through pain,"
+        },
+        {
+          "number": 2,
+          "text": "I cannot close my heart to thee;"
+        },
+        {
+          "number": 3,
+          "text": "I trace the rainbow thru the rain,"
+        },
+        {
+          "number": 4,
+          "text": "and feel the promise is not vain,"
+        },
+        {
+          "number": 5,
+          "text": "that morn shall tearless be."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O Cross that liftest up my head,"
+        },
+        {
+          "number": 2,
+          "text": "I dare not ask to fly from thee;"
+        },
+        {
+          "number": 3,
+          "text": "I lay in dust life’s glory dead,"
+        },
+        {
+          "number": 4,
+          "text": "and from the ground there blossoms"
+        },
+        {
+          "number": 5,
+          "text": "red life that shall endless be."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "O Love That Wilt Not Let Me Go"
+}

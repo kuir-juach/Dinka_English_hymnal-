@@ -1,0 +1,80 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Glory! Glory! Hallelujah! Glory! Glory! Hallelujah!"
+      },
+      {
+        "number": 2,
+        "text": "Glory! Glory! Hallelujah! His truth is marching on."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Mine eyes have seen the glory of the coming of the Lord;"
+        },
+        {
+          "number": 2,
+          "text": "He is trampling out the vintage where the grapes of wrath are stored;"
+        },
+        {
+          "number": 3,
+          "text": "He has loosed the fateful lightning of His terrible swift sword;"
+        },
+        {
+          "number": 4,
+          "text": "His truth is marching on."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "He has sounded forth the trumpet that shall never call retreat;"
+        },
+        {
+          "number": 2,
+          "text": "He is sifting out the hearts of men before His judgment seat;"
+        },
+        {
+          "number": 3,
+          "text": "O be swift, my soul, to answer Him! be jubilant, my feet!"
+        },
+        {
+          "number": 4,
+          "text": "Our God is marching on."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "In the beauty of the lilies Christ was born across the sea,"
+        },
+        {
+          "number": 2,
+          "text": "With a glory in His bosom that transfigures you and me;"
+        },
+        {
+          "number": 3,
+          "text": "As He died to make men holy, let us live to make men free!"
+        },
+        {
+          "number": 4,
+          "text": "While God is marching on."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Mine Eyes Have Seen the Glory"
+}

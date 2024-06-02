@@ -1,0 +1,80 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Stayed upon Jehovah, hearts are fully blessed"
+      },
+      {
+        "number": 2,
+        "text": "Finding, as He promised, perfect peace and rest."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Like a river glorious, is God’s perfect peace,"
+        },
+        {
+          "number": 2,
+          "text": "Over all victorious, in its bright increase;"
+        },
+        {
+          "number": 3,
+          "text": "Perfect, yet it floweth, fuller every day,"
+        },
+        {
+          "number": 4,
+          "text": "Perfect, yet it groweth, deeper all the way."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Hidden in the hollow of His blessed hand,"
+        },
+        {
+          "number": 2,
+          "text": "Never foe can follow, never traitor stand;"
+        },
+        {
+          "number": 3,
+          "text": "Not a surge of worry, not a shade of care,"
+        },
+        {
+          "number": 4,
+          "text": "Not a blast of hurry touch the spirit there."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Every joy or trial falleth from above,"
+        },
+        {
+          "number": 2,
+          "text": "Traced upon our dial by the Sun of Love;"
+        },
+        {
+          "number": 3,
+          "text": "We may trust Him fully all for us to do."
+        },
+        {
+          "number": 4,
+          "text": "They who trust Him wholly find Him wholly true."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Like a River Glorious"
+}

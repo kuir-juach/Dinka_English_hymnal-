@@ -1,0 +1,68 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Praise ye the Father for His loving kindness,"
+        },
+        {
+          "number": 2,
+          "text": "Tenderly cares He for His erring children;"
+        },
+        {
+          "number": 3,
+          "text": "Praise Him, ye angels, praise Him in the heavens;"
+        },
+        {
+          "number": 4,
+          "text": "Praise ye Jehovah!"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Praise ye the Savior, great is the compassion,"
+        },
+        {
+          "number": 2,
+          "text": "Graciously cares He for His chosen people;"
+        },
+        {
+          "number": 3,
+          "text": "Young men and maidens, ye old men and children,"
+        },
+        {
+          "number": 4,
+          "text": "Praise ye the Savior!"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Praise ye the Spirit, comforter of Israel,"
+        },
+        {
+          "number": 2,
+          "text": "Sent of the Father and the Son to bless us;"
+        },
+        {
+          "number": 3,
+          "text": "Praise ye the Father, Son, and Holy Spirit,"
+        },
+        {
+          "number": 4,
+          "text": "Praise the Eternal Three!"
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Praise Ye the Father"
+}

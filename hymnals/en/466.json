@@ -1,0 +1,109 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Peace! Peace! wonderful peace,"
+      },
+      {
+        "number": 2,
+        "text": "Coming down from the Father above;"
+      },
+      {
+        "number": 3,
+        "text": "Sweep over my spirit forever, I pray,"
+      },
+      {
+        "number": 4,
+        "text": "In fathomless billows of love."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Far away in the depths of my spirit tonight,"
+        },
+        {
+          "number": 2,
+          "text": "Rolls a melody sweeter than psalm;"
+        },
+        {
+          "number": 3,
+          "text": "In celestial like strains it unceasingly falls"
+        },
+        {
+          "number": 4,
+          "text": "O’er my soul like an infinite calm."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "What a treasure I have in this wonderful peace,"
+        },
+        {
+          "number": 2,
+          "text": "Buried deep in my inner most soul,"
+        },
+        {
+          "number": 3,
+          "text": "So secure that no power can mine it away,"
+        },
+        {
+          "number": 4,
+          "text": "While the years of eternity roll!"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I believe when I rise to that city of peace,"
+        },
+        {
+          "number": 2,
+          "text": "Where the Author of peace I shall see,"
+        },
+        {
+          "number": 3,
+          "text": "That one strain of the song which the ransomed will sing,"
+        },
+        {
+          "number": 4,
+          "text": "In that heavenly kingdom will be-"
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Weary soul, without gladness or comfort or rest,"
+        },
+        {
+          "number": 2,
+          "text": "Passing down the rough pathway of time!"
+        },
+        {
+          "number": 3,
+          "text": "Make the Savior your friend ere the shadows grow dark;"
+        },
+        {
+          "number": 4,
+          "text": "O accept of this peace so sublime."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Wonderful Peace"
+}

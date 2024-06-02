@@ -1,0 +1,82 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Lift high the cross, the love of Christ proclaim,"
+      },
+      {
+        "number": 2,
+        "text": "Till all the world adore His sacred Name."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Come, Christians, follow where our Captain trod,"
+        },
+        {
+          "number": 2,
+          "text": "Our King victorious, Christ, the Son of God."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Led on their way by this triumphant sign,"
+        },
+        {
+          "number": 2,
+          "text": "The hosts of God in conquering ranks combine."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "All newborn soldiers of the Crucified"
+        },
+        {
+          "number": 2,
+          "text": "Bear on their brows the seal of Him Who died."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O Lord, once lifted on the glorious tree,"
+        },
+        {
+          "number": 2,
+          "text": "As Thou hast promised, draw us all to Thee."
+        }
+      ],
+      "number": 4
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "So shall our song of triumph ever be:"
+        },
+        {
+          "number": 2,
+          "text": "Praise to the Crucified for victory!"
+        }
+      ],
+      "number": 5
+    }
+  ],
+  "title": "Lift High the Cross"
+}

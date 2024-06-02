@@ -1,0 +1,88 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "All good gifts around us"
+      },
+      {
+        "number": 2,
+        "text": "Are sent from heaven above;"
+      },
+      {
+        "number": 3,
+        "text": "Then thank the Lord, O thank the Lord"
+      },
+      {
+        "number": 4,
+        "text": "For all His love."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "We plow the fields, and scatter the good seed on the land,"
+        },
+        {
+          "number": 2,
+          "text": "But it is fed and watered by God’s almighty hand."
+        },
+        {
+          "number": 3,
+          "text": "He sends the snow in winter, the warmth to swell the grain,"
+        },
+        {
+          "number": 4,
+          "text": "The breezes and the sunshine, and soft refreshing rain."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "He only is the Maker of all things near and far;"
+        },
+        {
+          "number": 2,
+          "text": "He paints the wayside flower, He lights the evening star."
+        },
+        {
+          "number": 3,
+          "text": "The winds and waves obey Him, by Him the birds are fed;"
+        },
+        {
+          "number": 4,
+          "text": "Much more, to us His children, He gives our daily bread."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "We thank Thee then, O Father, for all things bright and good,"
+        },
+        {
+          "number": 2,
+          "text": "The seed-time and the harvest, our life, our health, and food."
+        },
+        {
+          "number": 3,
+          "text": "Accept the gifts we to offer for all Thy love imparts,"
+        },
+        {
+          "number": 4,
+          "text": "And, what Thou most desirest, our humble, thankful hearts."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "We Plow the Fields"
+}

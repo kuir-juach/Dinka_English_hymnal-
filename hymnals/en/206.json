@@ -1,0 +1,109 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Face to face shall I behold Him,"
+      },
+      {
+        "number": 2,
+        "text": "Far beyond the starry sky;"
+      },
+      {
+        "number": 3,
+        "text": "Face to face in all His glory"
+      },
+      {
+        "number": 4,
+        "text": "I shall see Him by and by!"
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Face to face with Christ my Savior,"
+        },
+        {
+          "number": 2,
+          "text": "Face to face, what will it be,"
+        },
+        {
+          "number": 3,
+          "text": "When with rapture I behold Him,"
+        },
+        {
+          "number": 4,
+          "text": "Jesus Christ, who died for me?"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Only faintly now I see Him,"
+        },
+        {
+          "number": 2,
+          "text": "With the darkening veil between,"
+        },
+        {
+          "number": 3,
+          "text": "But a blessed day is coming,"
+        },
+        {
+          "number": 4,
+          "text": "When His glory shall be seen."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "What rejoicing in His presence,"
+        },
+        {
+          "number": 2,
+          "text": "When are banished grief and pain;"
+        },
+        {
+          "number": 3,
+          "text": "When the crooked ways are straightened,"
+        },
+        {
+          "number": 4,
+          "text": "And the dark things shall be plain!"
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Face to face! oh, blissful moment!"
+        },
+        {
+          "number": 2,
+          "text": "Face to face to see and know;"
+        },
+        {
+          "number": 3,
+          "text": "Face to face with my Redeemer,"
+        },
+        {
+          "number": 4,
+          "text": "Jesus Christ, who loves me so."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Face to Face"
+}

@@ -1,0 +1,110 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "There is a green hill far away,"
+        },
+        {
+          "number": 2,
+          "text": "Without a city wall,"
+        },
+        {
+          "number": 3,
+          "text": "Where the dear Lord was crucified,"
+        },
+        {
+          "number": 4,
+          "text": "Who died to save us all."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "We may not know, we cannot tell,"
+        },
+        {
+          "number": 2,
+          "text": "What pains He had to bear,"
+        },
+        {
+          "number": 3,
+          "text": "But we believe it was for us"
+        },
+        {
+          "number": 4,
+          "text": "He hung and suffered there."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "He died that we might be forgiven,"
+        },
+        {
+          "number": 2,
+          "text": "He died to make us good,"
+        },
+        {
+          "number": 3,
+          "text": "That we might go at last to heaven,"
+        },
+        {
+          "number": 4,
+          "text": "Saved by His precious blood."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "There was no other good enough"
+        },
+        {
+          "number": 2,
+          "text": "To pay the price of sin;"
+        },
+        {
+          "number": 3,
+          "text": "He only could unlock the gate"
+        },
+        {
+          "number": 4,
+          "text": "Of heaven, and let us in."
+        }
+      ],
+      "number": 4
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O dearly, dearly has He loved!"
+        },
+        {
+          "number": 2,
+          "text": "And we must love Him too,"
+        },
+        {
+          "number": 3,
+          "text": "And trust in His redeeming blood,"
+        },
+        {
+          "number": 4,
+          "text": "And try His works to do."
+        }
+      ],
+      "number": 5
+    }
+  ],
+  "title": "There Is a Green Hill Far Away"
+}

@@ -1,0 +1,92 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "O yes, He cares- I know He cares!"
+      },
+      {
+        "number": 2,
+        "text": "His heart is touched with my grief;"
+      },
+      {
+        "number": 3,
+        "text": "When the days are weary,"
+      },
+      {
+        "number": 4,
+        "text": "The long nights dreary,"
+      },
+      {
+        "number": 5,
+        "text": "I know my Savior cares. (He cares.)"
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Does Jesus care when my heart is pained"
+        },
+        {
+          "number": 2,
+          "text": "Too deeply for mirth and song;"
+        },
+        {
+          "number": 3,
+          "text": "As the burdens press, and the cares distress,"
+        },
+        {
+          "number": 4,
+          "text": "And the way grows weary and long?"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Does Jesus care when my way is dark"
+        },
+        {
+          "number": 2,
+          "text": "With a nameless dread and fear?"
+        },
+        {
+          "number": 3,
+          "text": "As the daylight fades into deep night shades,"
+        },
+        {
+          "number": 4,
+          "text": "Does He care enough to be near?"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Does Jesus care when I’ve said goodbye"
+        },
+        {
+          "number": 2,
+          "text": "To the dearest on earth to me,"
+        },
+        {
+          "number": 3,
+          "text": "And my sad heart aches till it nearly breaks ­"
+        },
+        {
+          "number": 4,
+          "text": "Is it aught to Him? Does He see?"
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Does Jesus Care"
+}

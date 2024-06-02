@@ -1,0 +1,89 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "God of our fathers, Whose almighty hand"
+        },
+        {
+          "number": 2,
+          "text": "Leads forth in beauty all the starry band"
+        },
+        {
+          "number": 3,
+          "text": "Of shining worlds in splendor through the skies"
+        },
+        {
+          "number": 4,
+          "text": "Our grateful songs before Thy throne arise."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Thy love divine hath led us in the past,"
+        },
+        {
+          "number": 2,
+          "text": "In this free land by Thee our lot is cast,"
+        },
+        {
+          "number": 3,
+          "text": "Be Thou our Ruler, Guardian, Guide and Stay,"
+        },
+        {
+          "number": 4,
+          "text": "Thy Word our law, Thy paths our chosen way."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "From war’s alarms, from deadly pestilence,"
+        },
+        {
+          "number": 2,
+          "text": "Be Thy strong arm our ever sure defense;"
+        },
+        {
+          "number": 3,
+          "text": "Thy true religion in our hearts increase,"
+        },
+        {
+          "number": 4,
+          "text": "Thy bounteous goodness nourish us in peace."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Refresh Thy people on their toilsome way,"
+        },
+        {
+          "number": 2,
+          "text": "Lead us from night to never ending day;"
+        },
+        {
+          "number": 3,
+          "text": "Fill all our lives with love and grace divine,"
+        },
+        {
+          "number": 4,
+          "text": "And glory, laud, and praise be ever Thine."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "God of our fathers"
+}

@@ -1,0 +1,145 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Tell me the story of Jesus,"
+      },
+      {
+        "number": 2,
+        "text": "Write on my heart every word."
+      },
+      {
+        "number": 3,
+        "text": "Tell me the story most precious,"
+      },
+      {
+        "number": 4,
+        "text": "Sweetest that ever was heard."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Tell me the story of Jesus,"
+        },
+        {
+          "number": 2,
+          "text": "Write on my heart every word."
+        },
+        {
+          "number": 3,
+          "text": "Tell me the story most precious,"
+        },
+        {
+          "number": 4,
+          "text": "Sweetest that ever was heard."
+        },
+        {
+          "number": 5,
+          "text": "Tell how the angels in chorus,"
+        },
+        {
+          "number": 6,
+          "text": "Sang as they welcomed His birth."
+        },
+        {
+          "number": 7,
+          "text": "“Glory to God in the highest!"
+        },
+        {
+          "number": 8,
+          "text": "Peace and good tidings to earth.”"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Fasting alone in the desert,"
+        },
+        {
+          "number": 2,
+          "text": "Tell of the days that are past."
+        },
+        {
+          "number": 3,
+          "text": "How for our sins He was tempted,"
+        },
+        {
+          "number": 4,
+          "text": "Yet was triumphant at last."
+        },
+        {
+          "number": 5,
+          "text": "Tell of the years of His labor,"
+        },
+        {
+          "number": 6,
+          "text": "Tell of the sorrow He bore."
+        },
+        {
+          "number": 7,
+          "text": "He was despised and afflicted,"
+        },
+        {
+          "number": 8,
+          "text": "Homeless, rejected and poor."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Tell of the cross where they nailed Him,"
+        },
+        {
+          "number": 2,
+          "text": "Writhing in anguish and pain."
+        },
+        {
+          "number": 3,
+          "text": "Tell of the grave where they laid Him,"
+        },
+        {
+          "number": 4,
+          "text": "Tell how He liveth again."
+        },
+        {
+          "number": 5,
+          "text": "Love in that story so tender,"
+        },
+        {
+          "number": 6,
+          "text": "Clearer than ever I see."
+        },
+        {
+          "number": 7,
+          "text": "Stay, let me weep while you whisper,"
+        },
+        {
+          "number": 8,
+          "text": "Love paid the ransom for me."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": " "
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Tell Me the Story of Jesus"
+}

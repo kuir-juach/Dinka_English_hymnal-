@@ -1,0 +1,114 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Teach, me, Father, what to say;"
+        },
+        {
+          "number": 2,
+          "text": "Teach me, Father, how to pray;"
+        },
+        {
+          "number": 3,
+          "text": "Teach me all along the way"
+        },
+        {
+          "number": 4,
+          "text": "How to be like Jesus."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Refrain:"
+        },
+        {
+          "number": 2,
+          "text": "I would be like Jesus,"
+        },
+        {
+          "number": 3,
+          "text": "I would be like Jesus!"
+        },
+        {
+          "number": 4,
+          "text": "Help me, Lord, to daily grow"
+        },
+        {
+          "number": 5,
+          "text": "More and more like Jesus!"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Teach me as the days go by,"
+        },
+        {
+          "number": 2,
+          "text": "Teach me not to reason why,"
+        },
+        {
+          "number": 3,
+          "text": "Teach me that to do and die,"
+        },
+        {
+          "number": 4,
+          "text": "Is to be like Jesus."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Teach me that the time is short,"
+        },
+        {
+          "number": 2,
+          "text": "Teach me how to live and work,"
+        },
+        {
+          "number": 3,
+          "text": "Teach me that to never shirk"
+        },
+        {
+          "number": 4,
+          "text": "Is to be like Jesus."
+        }
+      ],
+      "number": 4
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Teach me how we may be one,"
+        },
+        {
+          "number": 2,
+          "text": "Like the Father and the Son;"
+        },
+        {
+          "number": 3,
+          "text": "And when all is overcome,"
+        },
+        {
+          "number": 4,
+          "text": "I will be like Jesus."
+        }
+      ],
+      "number": 5
+    }
+  ],
+  "title": "Like Jesus"
+}

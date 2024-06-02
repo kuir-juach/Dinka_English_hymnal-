@@ -1,0 +1,80 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Stand like the brave, stand like the brave,"
+      },
+      {
+        "number": 2,
+        "text": "Stand like the brave, with thy face to the foe."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O Christian, awake! ’tis the Master’s command;"
+        },
+        {
+          "number": 2,
+          "text": "With helmet and shield, and a sword in thy hand,"
+        },
+        {
+          "number": 3,
+          "text": "To meet the bold tempter, go, fearlessly go,"
+        },
+        {
+          "number": 4,
+          "text": "Then stand like the brave, with thy face to the foe."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "The cause of thy Master with vigor defend;"
+        },
+        {
+          "number": 2,
+          "text": "Be watchful, be zealous, and fight to the end;"
+        },
+        {
+          "number": 3,
+          "text": "Wherever He leads thee, go, valiantly go,"
+        },
+        {
+          "number": 4,
+          "text": "Then stand like the brave, with thy face to the foe."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Press on, never doubting, thy Captain is near,"
+        },
+        {
+          "number": 2,
+          "text": "With grace to supply, and with comfort to cheer;"
+        },
+        {
+          "number": 3,
+          "text": "His love, like a stream in the desert will flow;"
+        },
+        {
+          "number": 4,
+          "text": "Then stand like the brave, with thy face to the foe."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Stand Like the Brave"
+}

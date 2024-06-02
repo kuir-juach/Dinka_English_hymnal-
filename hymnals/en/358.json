@@ -1,0 +1,88 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Lord of harvest, send forth reapers!"
+      },
+      {
+        "number": 2,
+        "text": "Hear us Lord,to Thee we cry;"
+      },
+      {
+        "number": 3,
+        "text": "Send them now the sheaves to gather,"
+      },
+      {
+        "number": 4,
+        "text": "Ere the harvest-time pass by."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Far and near the fields are teeming"
+        },
+        {
+          "number": 2,
+          "text": "with the sheaves of ripened grain;"
+        },
+        {
+          "number": 3,
+          "text": "Far and near their gold is gleaming"
+        },
+        {
+          "number": 4,
+          "text": "O’er the summy slope and plain."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Send them forth with morn’s first beaming,"
+        },
+        {
+          "number": 2,
+          "text": "Send them in the noon-tides’s glare;"
+        },
+        {
+          "number": 3,
+          "text": "When the sun’s last rays are streaming,"
+        },
+        {
+          "number": 4,
+          "text": "bid them gather everywhere."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O thou, whom thy Lord is sending,"
+        },
+        {
+          "number": 2,
+          "text": "gather now the sheaves of gold;"
+        },
+        {
+          "number": 3,
+          "text": "Heavenward then at evening wending"
+        },
+        {
+          "number": 4,
+          "text": "Thou shalt come with joy untold."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Far and Near the Fields Are Teeming"
+}

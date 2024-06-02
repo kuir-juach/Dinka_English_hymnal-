@@ -1,0 +1,109 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "I will arise and go to Jesus,"
+      },
+      {
+        "number": 2,
+        "text": "He will embrace me in His arms;"
+      },
+      {
+        "number": 3,
+        "text": "In the arms of my dear Savior,"
+      },
+      {
+        "number": 4,
+        "text": "O there are ten thousand charms."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Come, ye sinners poor and needy,"
+        },
+        {
+          "number": 2,
+          "text": "Weak and wounded, sick and sore;"
+        },
+        {
+          "number": 3,
+          "text": "Jesus ready stands to save you,"
+        },
+        {
+          "number": 4,
+          "text": "Full of pity, love, and power."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Come. ye thirsty, come, and welcome,"
+        },
+        {
+          "number": 2,
+          "text": "God’s free bounty glorify;"
+        },
+        {
+          "number": 3,
+          "text": "True belief and true repentance,"
+        },
+        {
+          "number": 4,
+          "text": "Every grace that brings you nigh."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Let not conscience make you linger,"
+        },
+        {
+          "number": 2,
+          "text": "Nor of fitness fondly dream;"
+        },
+        {
+          "number": 3,
+          "text": "All the fitness He requireth"
+        },
+        {
+          "number": 4,
+          "text": "Is to feel your need of Him."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Lo! th’incarnate God, ascended,"
+        },
+        {
+          "number": 2,
+          "text": "Pleads the merit of His blood;"
+        },
+        {
+          "number": 3,
+          "text": "Venture on Him, venture wholly,"
+        },
+        {
+          "number": 4,
+          "text": "Let no other trust intrude."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Come, Ye Sinners"
+}

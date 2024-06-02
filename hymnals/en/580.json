@@ -1,0 +1,68 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "This little light of mine, I’m going to let it shine, (shine)"
+        },
+        {
+          "number": 2,
+          "text": "This little light of mine, I’m going to let it shine, (shine)"
+        },
+        {
+          "number": 3,
+          "text": "This little light of mine, I’m going to let it shine,"
+        },
+        {
+          "number": 4,
+          "text": "Let it shine, let it shine, let it shine."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Every where I go, I’m going to let it shine, (shine)"
+        },
+        {
+          "number": 2,
+          "text": "Every where I go, I’m going to let it shine, (shine)"
+        },
+        {
+          "number": 3,
+          "text": "Every where I go, I’m going to let it shine,"
+        },
+        {
+          "number": 4,
+          "text": "Let it shine, let it shine, let it shine."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "All through the night, I’m going to let it shine, (shine)"
+        },
+        {
+          "number": 2,
+          "text": "All through the night, I’m going to let it shine, (shine)"
+        },
+        {
+          "number": 3,
+          "text": "All through the night, I’m going to let it shine,"
+        },
+        {
+          "number": 4,
+          "text": "Let it shine, let it shine, let it shine."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "This Little Light of Mine"
+}

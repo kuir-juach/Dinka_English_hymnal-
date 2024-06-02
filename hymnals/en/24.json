@@ -1,0 +1,92 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Every star shall sing a carol;"
+        },
+        {
+          "number": 2,
+          "text": "Every creatures, high or low,"
+        },
+        {
+          "number": 3,
+          "text": "Come and praise the King of heaven"
+        },
+        {
+          "number": 4,
+          "text": "By whatever name you know."
+        },
+        {
+          "number": 5,
+          "text": "God above, Man below,"
+        },
+        {
+          "number": 6,
+          "text": "Holy is the name I know."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "When the King of all creation"
+        },
+        {
+          "number": 2,
+          "text": "Had a cradle on the earth,"
+        },
+        {
+          "number": 3,
+          "text": "Holy was the human body,"
+        },
+        {
+          "number": 4,
+          "text": "Holy was the human birth."
+        },
+        {
+          "number": 5,
+          "text": "God above, Man below,"
+        },
+        {
+          "number": 6,
+          "text": "Holy is the name I know."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Every star and every planet,"
+        },
+        {
+          "number": 2,
+          "text": "Every creature, high or low,"
+        },
+        {
+          "number": 3,
+          "text": "Come and praise the King of heaven"
+        },
+        {
+          "number": 4,
+          "text": "By whatever name you know."
+        },
+        {
+          "number": 5,
+          "text": "God above, Man below,"
+        },
+        {
+          "number": 6,
+          "text": "Holy is the name I know."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Every Star Shall Sing a Carol"
+}

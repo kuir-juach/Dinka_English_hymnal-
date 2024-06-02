@@ -1,0 +1,89 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "All praise to thee, my God, this night,"
+        },
+        {
+          "number": 2,
+          "text": "for all the blessings of the light!"
+        },
+        {
+          "number": 3,
+          "text": "Keep me, O keep me, King of kings,"
+        },
+        {
+          "number": 4,
+          "text": "beneath thine own almighty wings."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Forgive me, Lord, for thy dear Son,"
+        },
+        {
+          "number": 2,
+          "text": "the ill that I this day have done,"
+        },
+        {
+          "number": 3,
+          "text": "that with the world, myself, and thee,"
+        },
+        {
+          "number": 4,
+          "text": "I, ere I sleep, at peace may be."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O may my soul on thee repose,"
+        },
+        {
+          "number": 2,
+          "text": "and with sweet sleep mine eyelids close,"
+        },
+        {
+          "number": 3,
+          "text": "sleep that may me more vigorous make"
+        },
+        {
+          "number": 4,
+          "text": "to serve my God when I awake."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Praise God, from whom all blessings flow;"
+        },
+        {
+          "number": 2,
+          "text": "praise him, all creatures here below;"
+        },
+        {
+          "number": 3,
+          "text": "praise him above, ye heavenly host;"
+        },
+        {
+          "number": 4,
+          "text": "praise Father, Son, and Holy Ghost."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "All Praise to Thee"
+}

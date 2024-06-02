@@ -1,0 +1,89 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Abide with me; fast falls the eventide;"
+        },
+        {
+          "number": 2,
+          "text": "The darkness deepens; Lord with me abide!"
+        },
+        {
+          "number": 3,
+          "text": "When other helpers fail and comforts flee,"
+        },
+        {
+          "number": 4,
+          "text": "Help of the helpless, O abide with me."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Swift to its close ebbs out life’s little day;"
+        },
+        {
+          "number": 2,
+          "text": "Earth’s joys grow dim; its glories pass away;"
+        },
+        {
+          "number": 3,
+          "text": "Change and decay in all around I see;"
+        },
+        {
+          "number": 4,
+          "text": "O Thou who changest not, abide with me."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I need Thy presence every passing hour."
+        },
+        {
+          "number": 2,
+          "text": "What but Thy grace can foil the tempter’s power?"
+        },
+        {
+          "number": 3,
+          "text": "Who, like Thyself, my guide and stay can be?"
+        },
+        {
+          "number": 4,
+          "text": "Through cloud and sunshine, Lord, abide with me."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I fear no foe, with Thee at hand to bless;"
+        },
+        {
+          "number": 2,
+          "text": "Ills have no weight, and tears no bitterness."
+        },
+        {
+          "number": 3,
+          "text": "Where is death’s sting? Where, grave, thy victory?"
+        },
+        {
+          "number": 4,
+          "text": "I triumph still, if Thou abide with me!"
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Abide With Me"
+}

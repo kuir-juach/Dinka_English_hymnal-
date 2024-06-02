@@ -1,0 +1,112 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "When the roll is called up yonder,"
+      },
+      {
+        "number": 2,
+        "text": "When the roll is called up yonder,"
+      },
+      {
+        "number": 3,
+        "text": "When the roll is called up yonder,"
+      },
+      {
+        "number": 4,
+        "text": "When the roll is called up yonder, I’ll be there."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "When the trumpet of the Lord shall sound,"
+        },
+        {
+          "number": 2,
+          "text": "and time shall be no more,"
+        },
+        {
+          "number": 3,
+          "text": "And the morning breaks, eternal, bright and fair;"
+        },
+        {
+          "number": 4,
+          "text": "When the saved of earth shall gather"
+        },
+        {
+          "number": 5,
+          "text": "over on the other shore,"
+        },
+        {
+          "number": 6,
+          "text": "And the roll is called up yonder, I’ll be there."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "On that bright and cloudless morning,"
+        },
+        {
+          "number": 2,
+          "text": "when the dead in Christ shall rise,"
+        },
+        {
+          "number": 3,
+          "text": "And the glory of His resurection share;"
+        },
+        {
+          "number": 4,
+          "text": "When His chosen ones shall gather"
+        },
+        {
+          "number": 5,
+          "text": "to their home beyond the skies,"
+        },
+        {
+          "number": 6,
+          "text": "And the roll is called up yonder, I’ll be there."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Let us labor for the Master"
+        },
+        {
+          "number": 2,
+          "text": "from the dawn till setting sun,"
+        },
+        {
+          "number": 3,
+          "text": "Let us talk of all His wondrous love and care,"
+        },
+        {
+          "number": 4,
+          "text": "Then, when all of life is over,"
+        },
+        {
+          "number": 5,
+          "text": "and our work on earth is done,"
+        },
+        {
+          "number": 6,
+          "text": "And the roll is called up yonder I’ll be there."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "When the Roll Is Called Up Yonder"
+}

@@ -1,0 +1,110 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "How sweet the name of Jesus sounds"
+        },
+        {
+          "number": 2,
+          "text": "In a believer’s ear!"
+        },
+        {
+          "number": 3,
+          "text": "It soothes his sorrows, heals his wounds,"
+        },
+        {
+          "number": 4,
+          "text": "And drives away his fear."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "It makes the wounded spirit whole,"
+        },
+        {
+          "number": 2,
+          "text": "And calms the troubled breast;"
+        },
+        {
+          "number": 3,
+          "text": "“Tis manna to the hungry soul,"
+        },
+        {
+          "number": 4,
+          "text": "And to the weary, rest."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Dear name, the rock on which I build,"
+        },
+        {
+          "number": 2,
+          "text": "My shield and hiding place,"
+        },
+        {
+          "number": 3,
+          "text": "My neverfailing treasury, filled"
+        },
+        {
+          "number": 4,
+          "text": "With boundless stores of grace."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Jesus! my Shepherd, Guardian, Friend,"
+        },
+        {
+          "number": 2,
+          "text": "My Prophet, Priest, and King!"
+        },
+        {
+          "number": 3,
+          "text": "My Lord, my life, my way, my end!"
+        },
+        {
+          "number": 4,
+          "text": "Accept the praise I bring."
+        }
+      ],
+      "number": 4
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Weak is the effort of my heart,"
+        },
+        {
+          "number": 2,
+          "text": "And cold my warmest thought;"
+        },
+        {
+          "number": 3,
+          "text": "But when I see Thee as Thou art,"
+        },
+        {
+          "number": 4,
+          "text": "I’ll praise Thee as I ought."
+        }
+      ],
+      "number": 5
+    }
+  ],
+  "title": "How Sweet the Name!"
+}

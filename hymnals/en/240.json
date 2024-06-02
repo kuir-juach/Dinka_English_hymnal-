@@ -1,0 +1,89 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Fairest Lord Jesus, ruler of all nature,"
+        },
+        {
+          "number": 2,
+          "text": "O thou of God and man the Son!"
+        },
+        {
+          "number": 3,
+          "text": "Thee will I cherish, Thee will I honor,"
+        },
+        {
+          "number": 4,
+          "text": "thou, my soul’s glory, joy, and crown."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Fair are the meadows, fairer still the woodlands,"
+        },
+        {
+          "number": 2,
+          "text": "robed in the blooming garb of spring:"
+        },
+        {
+          "number": 3,
+          "text": "Jesus is fairer, Jesus is purer"
+        },
+        {
+          "number": 4,
+          "text": "who makes the woeful heart to sing."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Fair is the sunshine, fairer still the moonlight,"
+        },
+        {
+          "number": 2,
+          "text": "and all the twinkling starry host:"
+        },
+        {
+          "number": 3,
+          "text": "Jesus shines brighter, Jesus shines purer"
+        },
+        {
+          "number": 4,
+          "text": "than all the angels heaven can boast."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Beautiful Savior! Lord of all the nations,"
+        },
+        {
+          "number": 2,
+          "text": "Son of God and Son of Man!"
+        },
+        {
+          "number": 3,
+          "text": "Glory and honor, praise, adoration,"
+        },
+        {
+          "number": 4,
+          "text": "now and forevermore be thine!"
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Fairest Lord Jesus"
+}

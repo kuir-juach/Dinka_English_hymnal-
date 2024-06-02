@@ -1,0 +1,30 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Surely, surely the Lord has been here,"
+        },
+        {
+          "number": 2,
+          "text": "Surely angels still linger near;"
+        },
+        {
+          "number": 3,
+          "text": "I hear music soft on my ear,"
+        },
+        {
+          "number": 4,
+          "text": "I feel His Spirit,"
+        },
+        {
+          "number": 5,
+          "text": "I have no fear."
+        }
+      ],
+      "number": 1
+    }
+  ],
+  "title": "Surely, Surely"
+}

@@ -1,0 +1,137 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "A hymn of glory let us sing;"
+        },
+        {
+          "number": 2,
+          "text": "New hymns thro’-out the world shall ring"
+        },
+        {
+          "number": 3,
+          "text": "Alleluia! Alleluia!"
+        },
+        {
+          "number": 4,
+          "text": "Christ, by a road before untrod,"
+        },
+        {
+          "number": 5,
+          "text": "Ascends unto the throne of God."
+        },
+        {
+          "number": 6,
+          "text": "Alleluia! Alleluia!"
+        },
+        {
+          "number": 7,
+          "text": "Alleluia, alleluia, alleluia!"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O Lord, our homeward pathway bend,"
+        },
+        {
+          "number": 2,
+          "text": "That our unwearied hearts ascend."
+        },
+        {
+          "number": 3,
+          "text": "Alleluia! Alleluia!"
+        },
+        {
+          "number": 4,
+          "text": "Where, seated on Your Father’s throne,"
+        },
+        {
+          "number": 5,
+          "text": "You reign as King of kings alone."
+        },
+        {
+          "number": 6,
+          "text": "Alleluia! Alleluia!"
+        },
+        {
+          "number": 7,
+          "text": "Alleluia, alleluia, alleluia!"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Give us Your joy on earth, O Lord,"
+        },
+        {
+          "number": 2,
+          "text": "In heav’n to be our great reward."
+        },
+        {
+          "number": 3,
+          "text": "Alleluia! Alleluia!"
+        },
+        {
+          "number": 4,
+          "text": "When throned with You forever, we"
+        },
+        {
+          "number": 5,
+          "text": "Shall praise Your name eternally."
+        },
+        {
+          "number": 6,
+          "text": "Alleluia! Alleluia!"
+        },
+        {
+          "number": 7,
+          "text": "Alleluia, alleluia, alleluia!"
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O risen Christ, ascended Lord,"
+        },
+        {
+          "number": 2,
+          "text": "All praise to you let earth accord:"
+        },
+        {
+          "number": 3,
+          "text": "Alleluia! Alleluia!"
+        },
+        {
+          "number": 4,
+          "text": "You are, while endless ages run,"
+        },
+        {
+          "number": 5,
+          "text": "With Father and with Spirit one."
+        },
+        {
+          "number": 6,
+          "text": "Alleluia! Alleluia!"
+        },
+        {
+          "number": 7,
+          "text": "Alleluia, alleluia, alleluia!"
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "A Hymn of Glory Let Us Sing"
+}

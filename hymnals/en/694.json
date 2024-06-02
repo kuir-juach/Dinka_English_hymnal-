@@ -1,0 +1,26 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Praise God, from Whom all blessings flow;"
+        },
+        {
+          "number": 2,
+          "text": "Praise Him, all creatures here below;"
+        },
+        {
+          "number": 3,
+          "text": "Praise Him above, ye heavenly host;"
+        },
+        {
+          "number": 4,
+          "text": "Praise Father, Son, and Holy Ghost."
+        }
+      ],
+      "number": 1
+    }
+  ],
+  "title": "Praise God, From Whom All Blessings"
+}

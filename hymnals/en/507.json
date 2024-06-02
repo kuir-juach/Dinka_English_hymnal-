@@ -1,0 +1,109 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Moment by moment I’m kept in His love;"
+      },
+      {
+        "number": 2,
+        "text": "Moment by moment I’ve life from above;"
+      },
+      {
+        "number": 3,
+        "text": "Looking to Jesus till glory doth shine;"
+      },
+      {
+        "number": 4,
+        "text": "Moment by moment, O Lord, I am Thine."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Dying with Jesus, by death reckoned mine,"
+        },
+        {
+          "number": 2,
+          "text": "Living with Jesus, a new life divine,"
+        },
+        {
+          "number": 3,
+          "text": "Looking to Jesus till glory doth shine,"
+        },
+        {
+          "number": 4,
+          "text": "Moment by moment, O Lord, I am Thine."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Never a trial that He is not there,"
+        },
+        {
+          "number": 2,
+          "text": "Never a burden that He doth not bear,"
+        },
+        {
+          "number": 3,
+          "text": "Never a sorrow that He doth not share,"
+        },
+        {
+          "number": 4,
+          "text": "Moment by moment I’m under His care."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Never a heart-ache, and never a groan,"
+        },
+        {
+          "number": 2,
+          "text": "Never a teardrop and never a moan;"
+        },
+        {
+          "number": 3,
+          "text": "Never a danger but there on teh throne,"
+        },
+        {
+          "number": 4,
+          "text": "Moment by moment He thinks of His own."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Never a weakness that He doth not feel,"
+        },
+        {
+          "number": 2,
+          "text": "Never a sickness that He cannot heal;"
+        },
+        {
+          "number": 3,
+          "text": "Moment by moment, in woe or in weal,"
+        },
+        {
+          "number": 4,
+          "text": "Jesus, my Savior, abides with me still."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Moment by Moment"
+}

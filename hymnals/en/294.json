@@ -1,0 +1,88 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "There is pow’r, pow’r, wonder working pow’r"
+      },
+      {
+        "number": 2,
+        "text": "In the blood of the Lamb;"
+      },
+      {
+        "number": 3,
+        "text": "There is pow’r, pow’r, wonder working pow’r"
+      },
+      {
+        "number": 4,
+        "text": "In the precious blood of the Lamb."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Would you be free from the burden of sin?"
+        },
+        {
+          "number": 2,
+          "text": "There’s pow’r in the blood, pow’r in the blood;"
+        },
+        {
+          "number": 3,
+          "text": "Would you o’er evil a victory win?"
+        },
+        {
+          "number": 4,
+          "text": "There’s wonderful power in the blood."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Would be free from your passion and pride?"
+        },
+        {
+          "number": 2,
+          "text": "There’s pow’r in the blood, pow’r in the blood;"
+        },
+        {
+          "number": 3,
+          "text": "Come for a cleansing to Calvary’s tide?"
+        },
+        {
+          "number": 4,
+          "text": "There’s wonderful power in the blood."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Would you do service for Jesus your King?"
+        },
+        {
+          "number": 2,
+          "text": "There’s pow’r in the blood, pow’r in the blood;"
+        },
+        {
+          "number": 3,
+          "text": "Would you live daily His praises to sing?"
+        },
+        {
+          "number": 4,
+          "text": "There’s wonderful power in the blood."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Power in the Blood"
+}

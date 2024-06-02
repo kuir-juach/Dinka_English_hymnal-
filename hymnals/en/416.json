@@ -1,0 +1,88 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "How shall we stand in that great day?"
+      },
+      {
+        "number": 2,
+        "text": "How shall we stand in that great day?"
+      },
+      {
+        "number": 3,
+        "text": "Shall we be found before Him wanting?"
+      },
+      {
+        "number": 4,
+        "text": "Or with our sins all washed away?"
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "The judgment has set, the books have been opened;"
+        },
+        {
+          "number": 2,
+          "text": "How shall we stand in that great day,"
+        },
+        {
+          "number": 3,
+          "text": "When every thought, and word, and action,"
+        },
+        {
+          "number": 4,
+          "text": "God, the righteous Judge, shall weigh?"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "The work is begun with those who are sleeping,"
+        },
+        {
+          "number": 2,
+          "text": "Soon will the living here be tried,"
+        },
+        {
+          "number": 3,
+          "text": "Out of the books of God’s remembrance,"
+        },
+        {
+          "number": 4,
+          "text": "His decision to abide."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O, how shall we stand that moment of searching,"
+        },
+        {
+          "number": 2,
+          "text": "When all our sins those books reveal?"
+        },
+        {
+          "number": 3,
+          "text": "When from that court, each case decided,"
+        },
+        {
+          "number": 4,
+          "text": "Shall be granted no appeal?"
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "The Judgment Has Set"
+}

@@ -1,0 +1,92 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Great is Thy faithfulness!"
+      },
+      {
+        "number": 2,
+        "text": "Great is Thy faithfulness!"
+      },
+      {
+        "number": 3,
+        "text": "Morning by morning new mercies I see."
+      },
+      {
+        "number": 4,
+        "text": "All I have needed Thy hand hath provided;"
+      },
+      {
+        "number": 5,
+        "text": "Great is Thy faithfulness, Lord, unto me!"
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Great is Thy faithfulness, O God my Father;"
+        },
+        {
+          "number": 2,
+          "text": "There is no shadow of turning with Thee;"
+        },
+        {
+          "number": 3,
+          "text": "Thou changest not, Thy compassions, they fail not;"
+        },
+        {
+          "number": 4,
+          "text": "As Thou hast been, Thou forever will be."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Summer and winter and springtime and harvest,"
+        },
+        {
+          "number": 2,
+          "text": "Sun, moon and stars in their courses above"
+        },
+        {
+          "number": 3,
+          "text": "Join with all nature in manifold witness"
+        },
+        {
+          "number": 4,
+          "text": "To Thy great faithfulness, mercy and love."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Pardon for sin and a peace that endureth"
+        },
+        {
+          "number": 2,
+          "text": "Thine own dear presence to cheer and to guide;"
+        },
+        {
+          "number": 3,
+          "text": "Strength for today and bright hope for tomorrow,"
+        },
+        {
+          "number": 4,
+          "text": "Blessings all mine, with ten thousand beside!"
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Great Is Thy Faithfulness"
+}

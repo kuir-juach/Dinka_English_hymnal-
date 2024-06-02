@@ -1,0 +1,68 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Beautiful Zion, built above,"
+        },
+        {
+          "number": 2,
+          "text": "Beautiful city that I love,"
+        },
+        {
+          "number": 3,
+          "text": "Beautiful gates of pearly white,"
+        },
+        {
+          "number": 4,
+          "text": "Beautiful temple, God its light."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Beautiful trees forever there,"
+        },
+        {
+          "number": 2,
+          "text": "Beautiful fruit they always bear,"
+        },
+        {
+          "number": 3,
+          "text": "Beautiful rivers gliding by,"
+        },
+        {
+          "number": 4,
+          "text": "Beautiful fountains never dry."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Beautiful crowns on every brow,"
+        },
+        {
+          "number": 2,
+          "text": "Beautiful palms the conquerors show,"
+        },
+        {
+          "number": 3,
+          "text": "Beautiful robes the ransomed wear,"
+        },
+        {
+          "number": 4,
+          "text": "Beautiful all who enter there."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Beautiful Zion"
+}

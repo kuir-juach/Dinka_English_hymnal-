@@ -1,0 +1,88 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "For He loves me, yes, He loves me,"
+      },
+      {
+        "number": 2,
+        "text": "Jesus loves me, this I know."
+      },
+      {
+        "number": 3,
+        "text": "Jesus loves me, died to save me,"
+      },
+      {
+        "number": 4,
+        "text": "This is why I love Him so."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I will early seek the Savior,"
+        },
+        {
+          "number": 2,
+          "text": "I will learn of Him each day;"
+        },
+        {
+          "number": 3,
+          "text": "I will follow in His footsteps,"
+        },
+        {
+          "number": 4,
+          "text": "I will walk the narrow way."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I will hasten where He bids me,"
+        },
+        {
+          "number": 2,
+          "text": "I am not too young to go"
+        },
+        {
+          "number": 3,
+          "text": "In the pathway where He leadeth,"
+        },
+        {
+          "number": 4,
+          "text": "Not too young His will to know."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "He is standing at the doorway"
+        },
+        {
+          "number": 2,
+          "text": "Of escape from every sin;"
+        },
+        {
+          "number": 3,
+          "text": "I will knock, for He has promised,"
+        },
+        {
+          "number": 4,
+          "text": "He will hear and let me in."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "I Will Early Seek the Savior"
+}

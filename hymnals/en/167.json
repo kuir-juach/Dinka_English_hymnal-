@@ -1,0 +1,68 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Alleluia! sing to Jesus! His the scepter, His the throne."
+        },
+        {
+          "number": 2,
+          "text": "Alleluia! His the triumph, His the victory alone."
+        },
+        {
+          "number": 3,
+          "text": "Hark! the songs of peaceful Zion thunder like a mighty flood."
+        },
+        {
+          "number": 4,
+          "text": "Jesus out of every nation has redeemed us by His blood."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Alleluia! not as orphans are we left in sorrow now;"
+        },
+        {
+          "number": 2,
+          "text": "Alleluia! He is near us, faith believes, nor questions how;"
+        },
+        {
+          "number": 3,
+          "text": "Though the cloud from sight received Him when the forty days were o’er"
+        },
+        {
+          "number": 4,
+          "text": "Shall our hearts forget His promise, “I am with you evermore”?"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Alleluia! bread of angels, Thou on earth our food, our stay;"
+        },
+        {
+          "number": 2,
+          "text": "Alleluia! here the sinful flee to Thee from day to day:"
+        },
+        {
+          "number": 3,
+          "text": "Intercessor, Friend of sinners, Earth’s Redeemer, plead for me,"
+        },
+        {
+          "number": 4,
+          "text": "Where the songs of all the sinless sweep across the crystal sea."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Alleluia! Sing to Jesus!"
+}

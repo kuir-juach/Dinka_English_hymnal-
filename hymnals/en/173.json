@@ -1,0 +1,89 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Good Christian friends, rejoice and sing!"
+        },
+        {
+          "number": 2,
+          "text": "Now is the triumph of our King!"
+        },
+        {
+          "number": 3,
+          "text": "To all the world glad news we bring:"
+        },
+        {
+          "number": 4,
+          "text": "Alleluia! Alleluia! Alleluia!"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "The Lord of life is risen for aye;"
+        },
+        {
+          "number": 2,
+          "text": "Bring flowers of song to strew His way;"
+        },
+        {
+          "number": 3,
+          "text": "Let all mankind rejoice and say:"
+        },
+        {
+          "number": 4,
+          "text": "Alleluia! Alleluia! Alleluia!"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Praise we in songs of victory"
+        },
+        {
+          "number": 2,
+          "text": "That love, that life which cannot die,"
+        },
+        {
+          "number": 3,
+          "text": "And sing with hearts uplifted high:"
+        },
+        {
+          "number": 4,
+          "text": "Alleluia! Alleluia! Alleluia!"
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Thy name we bless, O risen Lord,"
+        },
+        {
+          "number": 2,
+          "text": "And sing today with one accord"
+        },
+        {
+          "number": 3,
+          "text": "The life laid down, the life restored:"
+        },
+        {
+          "number": 4,
+          "text": "Alleluia! Alleluia! Alleluia!"
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Good Christian Friends, Rejoice!"
+}

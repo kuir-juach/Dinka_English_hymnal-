@@ -1,0 +1,162 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "My heart shall rejoice, Lord Jesus,"
+      },
+      {
+        "number": 2,
+        "text": "When Thou comest and callest for me."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Thou didst leave Thy throne"
+        },
+        {
+          "number": 2,
+          "text": "And Thy kingly crown"
+        },
+        {
+          "number": 3,
+          "text": "When Thou camest to earth for me;"
+        },
+        {
+          "number": 4,
+          "text": "But in Bethlehem’s home"
+        },
+        {
+          "number": 5,
+          "text": "Was there found no room"
+        },
+        {
+          "number": 6,
+          "text": "For Thy holy nativity."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Heaven’s arches rang"
+        },
+        {
+          "number": 2,
+          "text": "When the angels sang"
+        },
+        {
+          "number": 3,
+          "text": "Proclaiming Thy royal degree;"
+        },
+        {
+          "number": 4,
+          "text": "But of lowly birth"
+        },
+        {
+          "number": 5,
+          "text": "Didst Thou come to earth,"
+        },
+        {
+          "number": 6,
+          "text": "And in greatest humility."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "The foxes found rest,"
+        },
+        {
+          "number": 2,
+          "text": "And the birds their nest"
+        },
+        {
+          "number": 3,
+          "text": "In the shade of the forest tree;"
+        },
+        {
+          "number": 4,
+          "text": "But Thy couch was the sod,"
+        },
+        {
+          "number": 5,
+          "text": "O Thou Son of God,"
+        },
+        {
+          "number": 6,
+          "text": "In the deserts of Galilee."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Thou camest, O Lord,"
+        },
+        {
+          "number": 2,
+          "text": "With the living word"
+        },
+        {
+          "number": 3,
+          "text": "That should set Thy people free;"
+        },
+        {
+          "number": 4,
+          "text": "But with mocking scorn,"
+        },
+        {
+          "number": 5,
+          "text": "And with crown of thorn,"
+        },
+        {
+          "number": 6,
+          "text": "They bore Thee to Calvary."
+        }
+      ],
+      "number": 4
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "When the heavens shall ring,"
+        },
+        {
+          "number": 2,
+          "text": "And the angels sing,"
+        },
+        {
+          "number": 3,
+          "text": "At Thy coming to victory,"
+        },
+        {
+          "number": 4,
+          "text": "Let Thy voice call me home,"
+        },
+        {
+          "number": 5,
+          "text": "Saying, “Yet there is room,"
+        },
+        {
+          "number": 6,
+          "text": "There is room at My side for thee.”"
+        }
+      ],
+      "number": 5
+    }
+  ],
+  "title": "Thou Didst Leave Thy Throne"
+}

@@ -1,0 +1,89 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O little town of Bethlehem, how still we see thee lie!"
+        },
+        {
+          "number": 2,
+          "text": "Above thy deep and dreamless sleep the silent stars go by."
+        },
+        {
+          "number": 3,
+          "text": "Yet in thy dark streets shineth the everlasting Light;"
+        },
+        {
+          "number": 4,
+          "text": "The hopes and fears of all the years are met in thee tonight."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "For Christ is born of Mary, and gathered all above,"
+        },
+        {
+          "number": 2,
+          "text": "While mortals sleep, the angels keep their watch of wondering love."
+        },
+        {
+          "number": 3,
+          "text": "O morning stars together, proclaim the holy birth,"
+        },
+        {
+          "number": 4,
+          "text": "And praises sing to God the King, and peace to men on earth!"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "How silently, how silently, the wondrous Gift is giv’n;"
+        },
+        {
+          "number": 2,
+          "text": "So God imparts to human hearts the blessings of His heav’n."
+        },
+        {
+          "number": 3,
+          "text": "No ear may hear His coming, but in this world of sin,"
+        },
+        {
+          "number": 4,
+          "text": "Where meek souls will receive Him still, the dear Christ enters in."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O holy Child of Bethlehem, descend to us, we pray;"
+        },
+        {
+          "number": 2,
+          "text": "Cast out our sin, and enter in, be born in us today."
+        },
+        {
+          "number": 3,
+          "text": "We hear the Christmas angels the great glad tidings tell;"
+        },
+        {
+          "number": 4,
+          "text": "O come to us, abide with us, our Lord Emmanuel!"
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "O Little Town of Bethlehem"
+}

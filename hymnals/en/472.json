@@ -1,0 +1,136 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "O sweet, celestial music,"
+      },
+      {
+        "number": 2,
+        "text": "Heard from a land afar-"
+      },
+      {
+        "number": 3,
+        "text": "The song of Heav’n and Homeland,"
+      },
+      {
+        "number": 4,
+        "text": "Thro’ doors God leaves ajar!"
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Sometimes I hear strange music,"
+        },
+        {
+          "number": 2,
+          "text": "Like none e’er heard before,"
+        },
+        {
+          "number": 3,
+          "text": "Come floating softly earthward"
+        },
+        {
+          "number": 4,
+          "text": "As thro’ heav’n’s open door:"
+        },
+        {
+          "number": 5,
+          "text": "It seems like angel voices,"
+        },
+        {
+          "number": 6,
+          "text": "In strains of and love,"
+        },
+        {
+          "number": 7,
+          "text": "That swell the mighty chorus"
+        },
+        {
+          "number": 8,
+          "text": "Around the throne above."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Now soft, and low, and restful,"
+        },
+        {
+          "number": 2,
+          "text": "It floods my soul with peace,"
+        },
+        {
+          "number": 3,
+          "text": "As if God’s benediction"
+        },
+        {
+          "number": 4,
+          "text": "Bade all earth’s troubles cease."
+        },
+        {
+          "number": 5,
+          "text": "Then grander than the voices,"
+        },
+        {
+          "number": 6,
+          "text": "Of wind, and wave, and sea-"
+        },
+        {
+          "number": 7,
+          "text": "It fills the dome of heaven"
+        },
+        {
+          "number": 8,
+          "text": "With glorious harmony."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "This music haunts me ever,"
+        },
+        {
+          "number": 2,
+          "text": "Like something heard in dreams-"
+        },
+        {
+          "number": 3,
+          "text": "It seems to catch the cadence"
+        },
+        {
+          "number": 4,
+          "text": "Of heav’nly winds and streams,"
+        },
+        {
+          "number": 5,
+          "text": "My heart is filled with rapture,"
+        },
+        {
+          "number": 6,
+          "text": "To think, some day to come,"
+        },
+        {
+          "number": 7,
+          "text": "I’ll sing it with the angels-"
+        },
+        {
+          "number": 8,
+          "text": "The song of heav’n and home."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "A Song of Heaven and Homeland"
+}

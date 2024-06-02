@@ -1,0 +1,96 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Glory, hallelujah!"
+      },
+      {
+        "number": 2,
+        "text": "Praise Him, hallelujah!"
+      },
+      {
+        "number": 3,
+        "text": "Glory, hallelujah!"
+      },
+      {
+        "number": 4,
+        "text": "To the Lamb!"
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Worthy, worthy is the Lamb,"
+        },
+        {
+          "number": 2,
+          "text": "Worthy, worthy is the Lamb,"
+        },
+        {
+          "number": 3,
+          "text": "Worthy, worthy is the Lamb,"
+        },
+        {
+          "number": 4,
+          "text": "That was slain."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Savior, let Thy kingdom come!"
+        },
+        {
+          "number": 2,
+          "text": "Now the power of sin consume;"
+        },
+        {
+          "number": 3,
+          "text": "Bring Thy blest millennium,"
+        },
+        {
+          "number": 4,
+          "text": "Holy Lamb."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Thus may we"
+        },
+        {
+          "number": 2,
+          "text": "each moment feel,"
+        },
+        {
+          "number": 3,
+          "text": "Love Him, serve Him,"
+        },
+        {
+          "number": 4,
+          "text": "praise Him still,"
+        },
+        {
+          "number": 5,
+          "text": "Till we all on Zion’s hill"
+        },
+        {
+          "number": 6,
+          "text": "See the Lamb."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Worthy, Worthy Is the Lamb"
+}

@@ -1,0 +1,89 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "How cheering is the Christian’s hope,"
+        },
+        {
+          "number": 2,
+          "text": "While toiling here below!"
+        },
+        {
+          "number": 3,
+          "text": "It bouys us up while this passing through"
+        },
+        {
+          "number": 4,
+          "text": "This wilderness of woe,"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "It bouys us up while this passing through"
+        },
+        {
+          "number": 2,
+          "text": "This wilderness of woe,"
+        },
+        {
+          "number": 3,
+          "text": "It bouys us up while passing through"
+        },
+        {
+          "number": 4,
+          "text": "This wilderness of woe."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "It points us to a land of rest,"
+        },
+        {
+          "number": 2,
+          "text": "Where saints with Christ will reign;"
+        },
+        {
+          "number": 3,
+          "text": "Where we shall meet the loved of earth,"
+        },
+        {
+          "number": 4,
+          "text": "And never part again."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Fly, lingering moments, fly, O, fly,"
+        },
+        {
+          "number": 2,
+          "text": "Dear Savior, quickly come!"
+        },
+        {
+          "number": 3,
+          "text": "We long to see Thee as Thou art,"
+        },
+        {
+          "number": 4,
+          "text": "And reach that blissful home."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "How Cheering Is the Christian's Hope"
+}

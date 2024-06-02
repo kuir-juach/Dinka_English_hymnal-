@@ -1,0 +1,68 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "There is a balm in Gilead"
+        },
+        {
+          "number": 2,
+          "text": "To make the wounded whole;"
+        },
+        {
+          "number": 3,
+          "text": "There is a balm in Gilead"
+        },
+        {
+          "number": 4,
+          "text": "To heal the sin-sick soul."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Sometimes I feel discouraged,"
+        },
+        {
+          "number": 2,
+          "text": "And think my work’s in vain,"
+        },
+        {
+          "number": 3,
+          "text": "But then the Holy Spirit"
+        },
+        {
+          "number": 4,
+          "text": "Revives my soul again."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "If you can not preach like Peter,"
+        },
+        {
+          "number": 2,
+          "text": "If you can not pray like Paul,"
+        },
+        {
+          "number": 3,
+          "text": "You can tell the love of Jesus,"
+        },
+        {
+          "number": 4,
+          "text": "And say He died for all."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Balm in Gilead"
+}

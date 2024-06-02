@@ -1,0 +1,101 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Gloria, in excelsis Deo!"
+      },
+      {
+        "number": 2,
+        "text": "Gloria, in excelsis Deo!"
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Angels we have heard on high"
+        },
+        {
+          "number": 2,
+          "text": "Sweetly singing o’er the plains,"
+        },
+        {
+          "number": 3,
+          "text": "And the mountains in reply"
+        },
+        {
+          "number": 4,
+          "text": "Echoing their joyous strains."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Shepherds, why this jubilee?"
+        },
+        {
+          "number": 2,
+          "text": "Why your joyous strains prolong?"
+        },
+        {
+          "number": 3,
+          "text": "What the gladsome tidings be"
+        },
+        {
+          "number": 4,
+          "text": "Which inspire your heavenly song?"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Come to Bethlehem and see"
+        },
+        {
+          "number": 2,
+          "text": "Christ Whose birth the angels sing;"
+        },
+        {
+          "number": 3,
+          "text": "Come, adore on bended knee,"
+        },
+        {
+          "number": 4,
+          "text": "Christ the Lord, the newborn King."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "See Him in a manger laid,"
+        },
+        {
+          "number": 2,
+          "text": "Whom the choirs of angels praise;"
+        },
+        {
+          "number": 3,
+          "text": "Mary, Joseph, lend your aid,"
+        },
+        {
+          "number": 4,
+          "text": "While our hearts in love we raise."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Angels We Have Heard on High"
+}

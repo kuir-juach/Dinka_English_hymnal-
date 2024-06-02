@@ -1,0 +1,109 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Precious Name, O how sweet!"
+      },
+      {
+        "number": 2,
+        "text": "Hope of earth and joy of Heav’n."
+      },
+      {
+        "number": 3,
+        "text": "Precious Name, O how sweet!"
+      },
+      {
+        "number": 4,
+        "text": "Hope of earth and joy of Heav’n."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Take the Name of Jesus with you,"
+        },
+        {
+          "number": 2,
+          "text": "Child of sorrow and of woe,"
+        },
+        {
+          "number": 3,
+          "text": "It will joy and comfort give you;"
+        },
+        {
+          "number": 4,
+          "text": "Take it then, where’er you go."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Take the Name of Jesus ever,"
+        },
+        {
+          "number": 2,
+          "text": "As a shield from every snare;"
+        },
+        {
+          "number": 3,
+          "text": "If temptations round you gather,"
+        },
+        {
+          "number": 4,
+          "text": "Breathe that holy Name in prayer."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O the precious Name of Jesus!"
+        },
+        {
+          "number": 2,
+          "text": "How it thrills our souls with joy,"
+        },
+        {
+          "number": 3,
+          "text": "When His loving arms receive us,"
+        },
+        {
+          "number": 4,
+          "text": "And His songs our tongues employ!"
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "At the Name of Jesus bowing,"
+        },
+        {
+          "number": 2,
+          "text": "Falling prostrate at His feet,"
+        },
+        {
+          "number": 3,
+          "text": "King of kings in heav’n we’ll crown Him,"
+        },
+        {
+          "number": 4,
+          "text": "When our journey is complete."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Take the Name of Jesus With You"
+}

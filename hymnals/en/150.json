@@ -1,0 +1,128 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "‘Tis the Lord, O wondrous story,"
+      },
+      {
+        "number": 2,
+        "text": "‘Tis the Lord, the King of glory!"
+      },
+      {
+        "number": 3,
+        "text": "At His feet we humbly fall,"
+      },
+      {
+        "number": 4,
+        "text": "Crown Him, crown Him Lord of all."
+      },
+      {
+        "number": 5,
+        "text": "At His feet we humbly fall- the Lord of all."
+      },
+      {
+        "number": 6,
+        "text": "Crown Him, crown Him, Jesus, Jesus,"
+      },
+      {
+        "number": 7,
+        "text": "Crown Him Lord of all."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Who is He in yonder stall,"
+        },
+        {
+          "number": 2,
+          "text": "At whose feet the shepherds fall?"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Who is He in deep distress,"
+        },
+        {
+          "number": 2,
+          "text": "Fasting in the wilderness?"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Who is He, the gathering throng"
+        },
+        {
+          "number": 2,
+          "text": "Greet with loud triumphant song?"
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Lo, at midnight, who is He"
+        },
+        {
+          "number": 2,
+          "text": "Prays in dark Gethsemane?"
+        }
+      ],
+      "number": 4
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Who is He on yonder tree"
+        },
+        {
+          "number": 2,
+          "text": "Dies in shame and agony?"
+        }
+      ],
+      "number": 5
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Who is He that from the grave"
+        },
+        {
+          "number": 2,
+          "text": "Comes to heal and help and save?"
+        }
+      ],
+      "number": 6
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Who is He that from His throne"
+        },
+        {
+          "number": 2,
+          "text": "Rules through all the world alone?"
+        }
+      ],
+      "number": 7
+    }
+  ],
+  "title": "Who Is He in Yonder Stall"
+}

@@ -1,0 +1,89 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Jerusalem, my happy home,"
+        },
+        {
+          "number": 2,
+          "text": "O how I long for thee!"
+        },
+        {
+          "number": 3,
+          "text": "When will my sorrows have an end,"
+        },
+        {
+          "number": 4,
+          "text": "The joys when shall I see?"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "The walls are all of precious stone,"
+        },
+        {
+          "number": 2,
+          "text": "Most glorious to behold;"
+        },
+        {
+          "number": 3,
+          "text": "Thy gates are richly set with pearl,"
+        },
+        {
+          "number": 4,
+          "text": "Thy streets are paved with gold."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Thy garden and thy pleasant walks"
+        },
+        {
+          "number": 2,
+          "text": "My study long have been;"
+        },
+        {
+          "number": 3,
+          "text": "Such dazzling views by human sight"
+        },
+        {
+          "number": 4,
+          "text": "Have never yet been seen."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Lord, help us by Thy mighty grace,"
+        },
+        {
+          "number": 2,
+          "text": "To keep in view the prize,"
+        },
+        {
+          "number": 3,
+          "text": "Till Thou dost come to take us home"
+        },
+        {
+          "number": 4,
+          "text": "To that blessed paradise."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Jerusalem, My Happy Home"
+}

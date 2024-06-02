@@ -1,0 +1,68 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Morning has broken like the first morning,"
+        },
+        {
+          "number": 2,
+          "text": "Blackbird has spoken like the first bird."
+        },
+        {
+          "number": 3,
+          "text": "Praise for the singing!Praise for the morning!"
+        },
+        {
+          "number": 4,
+          "text": "Praise for the springing fresh from the Word!"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Sweet the rain’s new fall sunlit from heaven,"
+        },
+        {
+          "number": 2,
+          "text": "Like the first dewfall on the first grass."
+        },
+        {
+          "number": 3,
+          "text": "Praise for the sweetness of the wet garden,"
+        },
+        {
+          "number": 4,
+          "text": "Sprung in completeness where His feet pass."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Mine is the sunlight! Mine is the morning"
+        },
+        {
+          "number": 2,
+          "text": "Born of the one light Eden saw play!"
+        },
+        {
+          "number": 3,
+          "text": "Praise with elation, Praise every morning,"
+        },
+        {
+          "number": 4,
+          "text": "God’s recreation of the new day!"
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Morning Has Broken"
+}

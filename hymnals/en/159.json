@@ -1,0 +1,88 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "So I’ll cherish the old rugged cross,"
+      },
+      {
+        "number": 2,
+        "text": "till my trophies at last I lay down;"
+      },
+      {
+        "number": 3,
+        "text": "I will cling to the old rugged cross,"
+      },
+      {
+        "number": 4,
+        "text": "and exchange it some day for a crown."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "On a hill far away stood an old rugged cross,"
+        },
+        {
+          "number": 2,
+          "text": "the emblem of suffering and shame;"
+        },
+        {
+          "number": 3,
+          "text": "and I love that old cross where the dearest and best"
+        },
+        {
+          "number": 4,
+          "text": "for a world of lost sinners was slain."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O that old rugged cross, so despised by the world,"
+        },
+        {
+          "number": 2,
+          "text": "has a wondrous attraction for me;"
+        },
+        {
+          "number": 3,
+          "text": "for the dear Lamb of God left his glory above"
+        },
+        {
+          "number": 4,
+          "text": "to bear it to dark Calvary."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "To that old rugged cross I will ever be true,"
+        },
+        {
+          "number": 2,
+          "text": "its shame and reproach gladly bear;"
+        },
+        {
+          "number": 3,
+          "text": "then he’ll call me some day to my home far away,"
+        },
+        {
+          "number": 4,
+          "text": "where his glory forever I’ll share."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "The Old Rugged Cross"
+}

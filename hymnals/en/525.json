@@ -1,0 +1,84 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Hiding in Thee, hiding in Thee,"
+      },
+      {
+        "number": 2,
+        "text": "Thou blest “Rock of Ages,”"
+      },
+      {
+        "number": 3,
+        "text": "I’m hiding in Thee."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O safe to the Rock that is higher than I,"
+        },
+        {
+          "number": 2,
+          "text": "My soul in its conflicts and sorrows would fly;"
+        },
+        {
+          "number": 3,
+          "text": "So sinful, so weary, Thine, Thine, would I be;"
+        },
+        {
+          "number": 4,
+          "text": "Thou blest “Rock of Ages,” I’m hiding in Thee."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "In the calm of the noontide, in sorrow’s lone hour,"
+        },
+        {
+          "number": 2,
+          "text": "In times when temptation casts over me its power;"
+        },
+        {
+          "number": 3,
+          "text": "In the tempests of life, on its wide, heaving sea,"
+        },
+        {
+          "number": 4,
+          "text": "Thou blest “Rock of Ages,“ I’m hiding in Thee."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "How oft in the conflict, when pressed by the foe,"
+        },
+        {
+          "number": 2,
+          "text": "I have fled to my refuge and breathed out my woe;"
+        },
+        {
+          "number": 3,
+          "text": "How often, when trials like sea billows roll,"
+        },
+        {
+          "number": 4,
+          "text": "Have I hidden in Thee, O Thou Rock of my soul."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Hiding in Thee"
+}

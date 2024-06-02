@@ -1,0 +1,89 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Christ the Lord is risen today, Alleluia!"
+        },
+        {
+          "number": 2,
+          "text": "Sons of man and angels say, Alleluia!"
+        },
+        {
+          "number": 3,
+          "text": "Raise your joys and triumphs high, Alleluia!"
+        },
+        {
+          "number": 4,
+          "text": "Sing, ye heavens, and earth reply, Alleluia!"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Lives again our glorious King, Alleluia!"
+        },
+        {
+          "number": 2,
+          "text": "Where, O death, is now thy sting? Alleluia!"
+        },
+        {
+          "number": 3,
+          "text": "Once he died our souls to save, Alleluia!"
+        },
+        {
+          "number": 4,
+          "text": "Where’s thy victory, boasting grave? Alleluia!"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Love’s redeeming work is done, Alleluia!"
+        },
+        {
+          "number": 2,
+          "text": "Fought the fight, the battle won, Alleluia!"
+        },
+        {
+          "number": 3,
+          "text": "Death in vain forbids him rise, Alleluia!"
+        },
+        {
+          "number": 4,
+          "text": "Christ has opened paradise, Alleluia!"
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Soar we now where Christ has led, Alleluia!"
+        },
+        {
+          "number": 2,
+          "text": "Following our exalted Head, Alleluia!"
+        },
+        {
+          "number": 3,
+          "text": "Made like him, like him we rise, Alleluia!"
+        },
+        {
+          "number": 4,
+          "text": "Ours the cross, the grave, the skies, Alleluia!"
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Christ the Lord Is Risen Today"
+}

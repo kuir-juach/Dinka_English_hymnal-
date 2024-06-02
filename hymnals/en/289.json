@@ -1,0 +1,79 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Time after time"
+      },
+      {
+        "number": 2,
+        "text": "He has waited before"
+      },
+      {
+        "number": 3,
+        "text": "And now He is waiting again"
+      },
+      {
+        "number": 4,
+        "text": "To see if you are willing"
+      },
+      {
+        "number": 5,
+        "text": "To open the door"
+      },
+      {
+        "number": 6,
+        "text": "Oh, how He wants to come in."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "The Savior is waiting to enter your heart"
+        },
+        {
+          "number": 2,
+          "text": "Why don’t you let Him come in?"
+        },
+        {
+          "number": 3,
+          "text": "There’s nothing in this world to keep you apart"
+        },
+        {
+          "number": 4,
+          "text": "What is your answer to Him?"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "If you’ll take one step"
+        },
+        {
+          "number": 2,
+          "text": "Toward the Savior, my friend,"
+        },
+        {
+          "number": 3,
+          "text": "You’ll find His arms open wide."
+        },
+        {
+          "number": 4,
+          "text": "Receive Him, and all of your darkness will end"
+        },
+        {
+          "number": 5,
+          "text": "Within your heart He’ll abide."
+        }
+      ],
+      "number": 2
+    }
+  ],
+  "title": "The Savior Is Waiting"
+}

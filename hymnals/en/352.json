@@ -1,0 +1,89 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "This is My will, My one command,"
+        },
+        {
+          "number": 2,
+          "text": "That love should dwell among you all."
+        },
+        {
+          "number": 3,
+          "text": "This is My will that you should love"
+        },
+        {
+          "number": 4,
+          "text": "As I have shown that I love you."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "No greater love a man can have"
+        },
+        {
+          "number": 2,
+          "text": "Than that he die to save his friends."
+        },
+        {
+          "number": 3,
+          "text": "You are My friends if you obey"
+        },
+        {
+          "number": 4,
+          "text": "What I command that you should do."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "You chose not Me, but I chose you"
+        },
+        {
+          "number": 2,
+          "text": "That you should go and bear much fruit."
+        },
+        {
+          "number": 3,
+          "text": "I chose you out that you in Me"
+        },
+        {
+          "number": 4,
+          "text": "Should bear much fruit that will abide."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "All that I ask My Father, dear,"
+        },
+        {
+          "number": 2,
+          "text": "For My name’s sake you shall receive."
+        },
+        {
+          "number": 3,
+          "text": "This is My will, My one command,"
+        },
+        {
+          "number": 4,
+          "text": "That love should dwell in each, in all."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "This Is My Will"
+}

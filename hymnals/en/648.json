@@ -1,0 +1,63 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I vow to thee, my country, all earthly things above,"
+        },
+        {
+          "number": 2,
+          "text": "Entire and whole and perfect, the service of my love:"
+        },
+        {
+          "number": 3,
+          "text": "The love that asks the reason, the love that stands the test,"
+        },
+        {
+          "number": 4,
+          "text": "That lays upon the altar the dearest and the best;"
+        },
+        {
+          "number": 5,
+          "text": "The love that never falters, the love that pays the price,"
+        },
+        {
+          "number": 6,
+          "text": "The love that makes undaunted the final sacrifice."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "And there’s another country, I’ve heard of long ago,"
+        },
+        {
+          "number": 2,
+          "text": "Most dear to them that love her, most great to them that know;"
+        },
+        {
+          "number": 3,
+          "text": "We may not count her armies, we may not see her King;"
+        },
+        {
+          "number": 4,
+          "text": "Her fortress is a faithful heart, her pride is suffering;"
+        },
+        {
+          "number": 5,
+          "text": "And one by one and fervently we pray for her increase,"
+        },
+        {
+          "number": 6,
+          "text": "And her ways are ways of gentleness, and all her paths are peace."
+        }
+      ],
+      "number": 2
+    }
+  ],
+  "title": "I Vow to Thee, My Country"
+}

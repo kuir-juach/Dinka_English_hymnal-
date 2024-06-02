@@ -1,0 +1,88 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Come home, come home;"
+      },
+      {
+        "number": 2,
+        "text": "ye who are weary come home;"
+      },
+      {
+        "number": 3,
+        "text": "earnestly, tenderly, Jesus is calling,"
+      },
+      {
+        "number": 4,
+        "text": "calling, O sinner, come home!"
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Softly and tenderly Jesus is calling,"
+        },
+        {
+          "number": 2,
+          "text": "calling for you and for me;"
+        },
+        {
+          "number": 3,
+          "text": "see, on the portals he’s waiting and watching,"
+        },
+        {
+          "number": 4,
+          "text": "watching for you and for me."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Why should we tary when Jesus is pleading,"
+        },
+        {
+          "number": 2,
+          "text": "pleading for you and for me?"
+        },
+        {
+          "number": 3,
+          "text": "Why should we linger and heed not his mercies,"
+        },
+        {
+          "number": 4,
+          "text": "mercies for you and for me?"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Think of the wonderful love he has promised,"
+        },
+        {
+          "number": 2,
+          "text": "promised for you and for me!"
+        },
+        {
+          "number": 3,
+          "text": "Though we have sinned, he has mercy and pardon,"
+        },
+        {
+          "number": 4,
+          "text": "pardon for you and for me."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Softly and Tenderly"
+}

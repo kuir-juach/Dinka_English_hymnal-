@@ -1,0 +1,113 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Thine is the glory,"
+        },
+        {
+          "number": 2,
+          "text": "Risen, conquering Son;"
+        },
+        {
+          "number": 3,
+          "text": "Endless is the victory thou o’er death hast won."
+        },
+        {
+          "number": 4,
+          "text": "Angels in bright raiment rolled the stone away,"
+        },
+        {
+          "number": 5,
+          "text": "Kept the folded grave-clothes where Thy body lay."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Refrain :"
+        },
+        {
+          "number": 2,
+          "text": "Thine is the glory,"
+        },
+        {
+          "number": 3,
+          "text": "Risen, conquering Son;"
+        },
+        {
+          "number": 4,
+          "text": "Endless is the victory Thou o’er death hast won."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Lo! Jesus meets us."
+        },
+        {
+          "number": 2,
+          "text": "Risen from the tomb,"
+        },
+        {
+          "number": 3,
+          "text": "Lovingly He greets us,"
+        },
+        {
+          "number": 4,
+          "text": "Scatters fear and gloom;"
+        },
+        {
+          "number": 5,
+          "text": "Let His Church with gladness hymns of triumph sing,"
+        },
+        {
+          "number": 6,
+          "text": "For her Lord now liveth;"
+        },
+        {
+          "number": 7,
+          "text": "Death has lost its sting."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "No more we doubt Thee,"
+        },
+        {
+          "number": 2,
+          "text": "Glorious Prince of life!"
+        },
+        {
+          "number": 3,
+          "text": "Life is nought without Thee;"
+        },
+        {
+          "number": 4,
+          "text": "Aid us in our strife;"
+        },
+        {
+          "number": 5,
+          "text": "Make us more than conquerors through Thy deathless love"
+        },
+        {
+          "number": 6,
+          "text": "Bring us safe through Jordan to Thy home above."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Thine Is the Glory"
+}

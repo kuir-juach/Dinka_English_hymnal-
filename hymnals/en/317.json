@@ -1,0 +1,109 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Lest I forget Gethsemane,"
+      },
+      {
+        "number": 2,
+        "text": "Lest I forget Thine agony;"
+      },
+      {
+        "number": 3,
+        "text": "Lest I forget Thy love for me,"
+      },
+      {
+        "number": 4,
+        "text": "Lead me to Calvary."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "King of my life, I crown Thee now,"
+        },
+        {
+          "number": 2,
+          "text": "Thine shall the glory be;"
+        },
+        {
+          "number": 3,
+          "text": "Lest I forget Thy thorn crowned brow,"
+        },
+        {
+          "number": 4,
+          "text": "Lead me to Calvary."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Show me the tomb where Thou wast laid,"
+        },
+        {
+          "number": 2,
+          "text": "Tenderly mourned and wept;"
+        },
+        {
+          "number": 3,
+          "text": "Angels in robes of light arrayed"
+        },
+        {
+          "number": 4,
+          "text": "Guarded Thee whilst Thou slept."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Let me like Mary, through the gloom,"
+        },
+        {
+          "number": 2,
+          "text": "Come with a gift to Thee;"
+        },
+        {
+          "number": 3,
+          "text": "Show to me now the empty tomb,"
+        },
+        {
+          "number": 4,
+          "text": "Lead me to Calvary."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "May I be willing, Lord, to bear"
+        },
+        {
+          "number": 2,
+          "text": "Daily my cross for Thee;"
+        },
+        {
+          "number": 3,
+          "text": "Even Thy cup of grief to share,"
+        },
+        {
+          "number": 4,
+          "text": "Thou hast borne all for me."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Lead Me to Calvary"
+}

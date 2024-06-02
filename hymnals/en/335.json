@@ -1,0 +1,109 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "What a wonderful Savior"
+      },
+      {
+        "number": 2,
+        "text": "is Jesus, my Jesus!"
+      },
+      {
+        "number": 3,
+        "text": "What a wonderful Savior"
+      },
+      {
+        "number": 4,
+        "text": "is Jesus, my Lord!"
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Christ has for sin atonement made,"
+        },
+        {
+          "number": 2,
+          "text": "What a wonderful Saviour!"
+        },
+        {
+          "number": 3,
+          "text": "We are redeemed! the price is paid!"
+        },
+        {
+          "number": 4,
+          "text": "What a wonderful Savior!"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I praise Him for the cleansing blood,"
+        },
+        {
+          "number": 2,
+          "text": "What a wonderful Saviour!"
+        },
+        {
+          "number": 3,
+          "text": "That reconciled my soul to God;"
+        },
+        {
+          "number": 4,
+          "text": "What a wonderful Saviour!"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "He walks beside me all the way,"
+        },
+        {
+          "number": 2,
+          "text": "What a wonderful Saviour!"
+        },
+        {
+          "number": 3,
+          "text": "And keeps me faithful day by day;"
+        },
+        {
+          "number": 4,
+          "text": "What a wonderful Saviour!"
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "He gives me overcoming power,"
+        },
+        {
+          "number": 2,
+          "text": "What a wonderful Saviour!"
+        },
+        {
+          "number": 3,
+          "text": "And triumph in each trying hour;"
+        },
+        {
+          "number": 4,
+          "text": "What a wonderful Saviour!"
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "What a Wonderful Savior"
+}

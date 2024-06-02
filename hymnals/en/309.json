@@ -1,0 +1,105 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "I surrender all, I surrender all,"
+      },
+      {
+        "number": 2,
+        "text": "all to thee, my blessed Savior,"
+      },
+      {
+        "number": 3,
+        "text": "I surrender all."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "All to Jesus I surrender;"
+        },
+        {
+          "number": 2,
+          "text": "all to him I freely give;"
+        },
+        {
+          "number": 3,
+          "text": "I will ever love and trust him,"
+        },
+        {
+          "number": 4,
+          "text": "in his presence daily live."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "All to Jesus I surrender;"
+        },
+        {
+          "number": 2,
+          "text": "humbly at his feet I bow,"
+        },
+        {
+          "number": 3,
+          "text": "worldly pleasures all forsaken;"
+        },
+        {
+          "number": 4,
+          "text": "take me, Jesus, take me now."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "All to Jesus I surrender;"
+        },
+        {
+          "number": 2,
+          "text": "make me, Savior, wholly thine;"
+        },
+        {
+          "number": 3,
+          "text": "fill me with thy love and power;"
+        },
+        {
+          "number": 4,
+          "text": "truly know that thou art mine."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "All to Jesus I surrender;"
+        },
+        {
+          "number": 2,
+          "text": "now I feel the sacred flame."
+        },
+        {
+          "number": 3,
+          "text": "O the joy of full salvation!"
+        },
+        {
+          "number": 4,
+          "text": "Glory, glory, to his name!"
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "I Surrender All"
+}

@@ -1,0 +1,110 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Amazing grace! How sweet the sound"
+        },
+        {
+          "number": 2,
+          "text": "that saved a wretch like me!"
+        },
+        {
+          "number": 3,
+          "text": "I once was lost, but now am found;"
+        },
+        {
+          "number": 4,
+          "text": "was blind, but now I see."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "‘Twas grace that taught my heart to fear,"
+        },
+        {
+          "number": 2,
+          "text": "and grace my fears relieved;"
+        },
+        {
+          "number": 3,
+          "text": "how precious did that grace appear"
+        },
+        {
+          "number": 4,
+          "text": "the hour I first believed."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "The Lord has promised good to me,"
+        },
+        {
+          "number": 2,
+          "text": "his word my hope secures;"
+        },
+        {
+          "number": 3,
+          "text": "he will my shield and portion be,"
+        },
+        {
+          "number": 4,
+          "text": "as long as life endures."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Through many dangers, toils, and snares,"
+        },
+        {
+          "number": 2,
+          "text": "I have already come;"
+        },
+        {
+          "number": 3,
+          "text": "’tis grace hath brought me safe thus far,"
+        },
+        {
+          "number": 4,
+          "text": "and grace will lead me home."
+        }
+      ],
+      "number": 4
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "When we’ve been there ten thousand years,"
+        },
+        {
+          "number": 2,
+          "text": "bright shining as the sun,"
+        },
+        {
+          "number": 3,
+          "text": "we’ve no less days to sing God’s praise"
+        },
+        {
+          "number": 4,
+          "text": "than when we first begun."
+        }
+      ],
+      "number": 5
+    }
+  ],
+  "title": "Amazing Grace"
+}

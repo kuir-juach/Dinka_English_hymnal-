@@ -1,0 +1,88 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Sing, oh sing, of my Redeemer,"
+      },
+      {
+        "number": 2,
+        "text": "With His blood, He purchased me."
+      },
+      {
+        "number": 3,
+        "text": "On the cross, He sealed my pardon,"
+      },
+      {
+        "number": 4,
+        "text": "Paid the debt, and made me free."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I will sing of my Redeemer,"
+        },
+        {
+          "number": 2,
+          "text": "And His wondrous love to me;"
+        },
+        {
+          "number": 3,
+          "text": "On the cruel cross He suffered,"
+        },
+        {
+          "number": 4,
+          "text": "From the curse to set me free."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I will tell the wondrous story,"
+        },
+        {
+          "number": 2,
+          "text": "How my lost estate to save,"
+        },
+        {
+          "number": 3,
+          "text": "In His boundless love and mercy,"
+        },
+        {
+          "number": 4,
+          "text": "He the ransom freely gave."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I will sing of my Redeemer,"
+        },
+        {
+          "number": 2,
+          "text": "And His heavenly love to me;"
+        },
+        {
+          "number": 3,
+          "text": "He from death to life hath brought me,"
+        },
+        {
+          "number": 4,
+          "text": "Son of God with Him to be."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "I Will Sing of My Redeemer"
+}

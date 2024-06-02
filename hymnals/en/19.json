@@ -1,0 +1,93 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "O sing a new song to the Lord"
+        },
+        {
+          "number": 2,
+          "text": "For marvels He has done;"
+        },
+        {
+          "number": 3,
+          "text": "His right hand and His holy arm"
+        },
+        {
+          "number": 4,
+          "text": "The victory have won."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "With harp, and voice of psalms"
+        },
+        {
+          "number": 2,
+          "text": "Unto Jehovah sing;"
+        },
+        {
+          "number": 3,
+          "text": "Let trumpets and the echoing horn"
+        },
+        {
+          "number": 4,
+          "text": "Acclaim the Lord our King!"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Let seas with all their creatures roar,"
+        },
+        {
+          "number": 2,
+          "text": "The world and dwellers there,"
+        },
+        {
+          "number": 3,
+          "text": "And let the rivers clap their hands,"
+        },
+        {
+          "number": 4,
+          "text": "The hills their joy declare."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Before the Lord: because He comes,"
+        },
+        {
+          "number": 2,
+          "text": "To judge the earth come He;"
+        },
+        {
+          "number": 3,
+          "text": "He’ll judge the world"
+        },
+        {
+          "number": 4,
+          "text": "with righteousness,"
+        },
+        {
+          "number": 5,
+          "text": "His folk with equity."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "O Sing a New Song to the Lord"
+}

@@ -1,0 +1,38 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "A-men,"
+        },
+        {
+          "number": 2,
+          "text": "A-men,"
+        },
+        {
+          "number": 3,
+          "text": "A—men,"
+        },
+        {
+          "number": 4,
+          "text": "A—–men,"
+        },
+        {
+          "number": 5,
+          "text": "A—–men,"
+        },
+        {
+          "number": 6,
+          "text": "A—–men,"
+        },
+        {
+          "number": 7,
+          "text": "A-men."
+        }
+      ],
+      "number": 1
+    }
+  ],
+  "title": "Sevenfold Amen"
+}

@@ -1,0 +1,88 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Grace, grace, God’s grace,"
+      },
+      {
+        "number": 2,
+        "text": "Grace that will pardon and cleanse within"
+      },
+      {
+        "number": 3,
+        "text": "Grace, grace, God’s grace,"
+      },
+      {
+        "number": 4,
+        "text": "Grace that is greater than all our sin!"
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Marvelous grace of our loving Lord."
+        },
+        {
+          "number": 2,
+          "text": "Grace that exceeds our sin and our guilt!"
+        },
+        {
+          "number": 3,
+          "text": "Yonder on Calvary’s mount outpoured"
+        },
+        {
+          "number": 4,
+          "text": "There where the blood of the Lamb was spilt."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Sin and despair, like the sea waves cold,"
+        },
+        {
+          "number": 2,
+          "text": "Threaten the soul with infinite loss;"
+        },
+        {
+          "number": 3,
+          "text": "Grace that is greater, yes, grace untold"
+        },
+        {
+          "number": 4,
+          "text": "Points to the Refuge, the mighty Cross."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Marvelous, infinite, matchless grace,"
+        },
+        {
+          "number": 2,
+          "text": "Freely bestowed on all who believe!"
+        },
+        {
+          "number": 3,
+          "text": "You that are longing to see His face,"
+        },
+        {
+          "number": 4,
+          "text": "Will you this moment His grace receive?"
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Marvelous Grace"
+}

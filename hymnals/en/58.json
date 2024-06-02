@@ -1,0 +1,47 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Hark! the vesper hymn is stealing"
+        },
+        {
+          "number": 2,
+          "text": "O’er the waters soft and clear;"
+        },
+        {
+          "number": 3,
+          "text": "Jubilate, Jubilate, Jubilate,"
+        },
+        {
+          "number": 4,
+          "text": "Amen."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Nearer yet, and nearer pealing,"
+        },
+        {
+          "number": 2,
+          "text": "Soft it breaks upon the ear."
+        },
+        {
+          "number": 3,
+          "text": "Jubilate, Jubilate, Jubilate,"
+        },
+        {
+          "number": 4,
+          "text": "Amen."
+        }
+      ],
+      "number": 2
+    }
+  ],
+  "title": "Hark, the Vesper Hymn Is Stealing"
+}

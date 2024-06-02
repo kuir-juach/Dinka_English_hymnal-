@@ -1,0 +1,109 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Yes, the holy Sabbath rest,"
+      },
+      {
+        "number": 2,
+        "text": "By our God divinely blest,"
+      },
+      {
+        "number": 3,
+        "text": "It to us a sign shall be"
+      },
+      {
+        "number": 4,
+        "text": "Throughout all eternity."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Holy Sabbath day of rest,"
+        },
+        {
+          "number": 2,
+          "text": "By our Master richly blest,"
+        },
+        {
+          "number": 3,
+          "text": "God created and divine,"
+        },
+        {
+          "number": 4,
+          "text": "Set aside for holy time."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Seek not pleasures of this earth,"
+        },
+        {
+          "number": 2,
+          "text": "With its folly, noise, and mirth,"
+        },
+        {
+          "number": 3,
+          "text": "There are better things in store,"
+        },
+        {
+          "number": 4,
+          "text": "Over on the other shore."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "As the Sabbath draweth on"
+        },
+        {
+          "number": 2,
+          "text": "Friday eve at set of sun,"
+        },
+        {
+          "number": 3,
+          "text": "Christian household then should meet,"
+        },
+        {
+          "number": 4,
+          "text": "Sing and pray at Jesus’feet."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Asking Him for saving grace,"
+        },
+        {
+          "number": 2,
+          "text": "Also vict’ry in the race,"
+        },
+        {
+          "number": 3,
+          "text": "And to help us by His pow’r,"
+        },
+        {
+          "number": 4,
+          "text": "To keep holy every hour."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Holy Sabbath Day of Rest"
+}

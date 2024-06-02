@@ -1,0 +1,89 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "What a balm for the weary! O how sweet to be there!"
+      },
+      {
+        "number": 2,
+        "text": "Blessed hour of prayer, Blessed hour of prayer,"
+      },
+      {
+        "number": 3,
+        "text": "What a balm for the weary! O how sweet to be there!"
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "‘Tis the blessed hour of prayer, when our hearts lowly bend,"
+        },
+        {
+          "number": 2,
+          "text": "And we gather to Jesus, our Savior and Friend;"
+        },
+        {
+          "number": 3,
+          "text": "If we come to Him in faith, His protection to share,"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "‘Tis the blessed hour of prayer, when the Savior draws near,"
+        },
+        {
+          "number": 2,
+          "text": "With a tender compassion His children to hear;"
+        },
+        {
+          "number": 3,
+          "text": "When He tells us we may cast at His feet every care,"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "‘Tis the blessed hour of prayer, when the tempted and tried"
+        },
+        {
+          "number": 2,
+          "text": "To the Savior who loves them their sorrows confide;"
+        },
+        {
+          "number": 3,
+          "text": "With a sympathizing heart He removes every care;"
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "‘Tis the blessed hour of prayer, trusting Him we believe,"
+        },
+        {
+          "number": 2,
+          "text": "That the blessings we’re needing we’ll surely receive;"
+        },
+        {
+          "number": 3,
+          "text": "In the fullness of this trust we shall lose every care;"
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Tis the Blessed Hour of Prayer"
+}

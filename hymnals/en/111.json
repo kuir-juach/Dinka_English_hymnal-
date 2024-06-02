@@ -1,0 +1,92 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "It took a miracle to put the stars in place;"
+      },
+      {
+        "number": 2,
+        "text": "It took a miracle to hang the world in space."
+      },
+      {
+        "number": 3,
+        "text": "But when He saved my soul,"
+      },
+      {
+        "number": 4,
+        "text": "Cleansed and made me whole,"
+      },
+      {
+        "number": 5,
+        "text": "It took a miracle of love and grace!"
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "My Father is omnipotent"
+        },
+        {
+          "number": 2,
+          "text": "And that you can’t deny;"
+        },
+        {
+          "number": 3,
+          "text": "A God of might and miracles;"
+        },
+        {
+          "number": 4,
+          "text": "‘Tis written in the sky."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Though here His glory has been shown,"
+        },
+        {
+          "number": 2,
+          "text": "We still can’t fully see"
+        },
+        {
+          "number": 3,
+          "text": "The wonders of His might, His throne;"
+        },
+        {
+          "number": 4,
+          "text": "‘Till eternity."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "The Bible tells us of His power"
+        },
+        {
+          "number": 2,
+          "text": "And wisdom all way through;"
+        },
+        {
+          "number": 3,
+          "text": "And every little bird and flower"
+        },
+        {
+          "number": 4,
+          "text": "Are testimonies, too."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "It Took a Miracle"
+}

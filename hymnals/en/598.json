@@ -1,0 +1,130 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Lo! He comes, lo! Jesus comes;"
+      },
+      {
+        "number": 2,
+        "text": "Lo! He come, He comes all glorious!"
+      },
+      {
+        "number": 3,
+        "text": "Jesus comes to reign victorious,"
+      },
+      {
+        "number": 4,
+        "text": "Lo! He comes, yes, Jesus comes."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Watch, ye saints, with eyelids waking;"
+        },
+        {
+          "number": 2,
+          "text": "Lo! The powers of heaven are shaking;"
+        },
+        {
+          "number": 3,
+          "text": "Keep your lamps all trimmed an burning,"
+        },
+        {
+          "number": 4,
+          "text": "Ready for your Lord’s returning."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Lo! the promise of your Savior,"
+        },
+        {
+          "number": 2,
+          "text": "Pardoned sin and purchased favor,"
+        },
+        {
+          "number": 3,
+          "text": "Blood-washed robes and crowns of glory;"
+        },
+        {
+          "number": 4,
+          "text": "Haste to tell redemption’s story."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Kingdoms at their base are crumbling,"
+        },
+        {
+          "number": 2,
+          "text": "Hark! His chariot wheels are rumbling;"
+        },
+        {
+          "number": 3,
+          "text": "Tell, O tell of grace abounding,"
+        },
+        {
+          "number": 4,
+          "text": "While the seventh trump is sounding."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Nations wane, though proud and stately;"
+        },
+        {
+          "number": 2,
+          "text": "Christ His kingdom hasteneth greatly;"
+        },
+        {
+          "number": 3,
+          "text": "Earth her latest pangs is summing;"
+        },
+        {
+          "number": 4,
+          "text": "Shout, ye saints, your Lord is coming."
+        }
+      ],
+      "number": 4
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Sinners, come, while Christ is pleading;"
+        },
+        {
+          "number": 2,
+          "text": "Now for you He’s interceding;"
+        },
+        {
+          "number": 3,
+          "text": "Haste, ere grace and time diminished"
+        },
+        {
+          "number": 4,
+          "text": "Shall proclaim the mystery finished."
+        }
+      ],
+      "number": 5
+    }
+  ],
+  "title": "Watch, Ye Saints"
+}

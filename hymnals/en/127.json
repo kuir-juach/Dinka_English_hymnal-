@@ -1,0 +1,79 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Infant holy, infant lowly,"
+        },
+        {
+          "number": 2,
+          "text": "For His bed a cattle stall;"
+        },
+        {
+          "number": 3,
+          "text": "Oxen lowing, little knowing"
+        },
+        {
+          "number": 4,
+          "text": "Christ the babe is Lord of all;"
+        },
+        {
+          "number": 5,
+          "text": "Swift are winging angels singing,"
+        },
+        {
+          "number": 6,
+          "text": "Noels ringing, tidings bringing,"
+        },
+        {
+          "number": 7,
+          "text": "Christ the babe is Lord of all,"
+        },
+        {
+          "number": 8,
+          "text": "Christ the babe is Lord of all."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Flocks were sleeping, shepherds keeping"
+        },
+        {
+          "number": 2,
+          "text": "Vigil till the morning new;"
+        },
+        {
+          "number": 3,
+          "text": "Saw the glory, heard the story,"
+        },
+        {
+          "number": 4,
+          "text": "Tidings of the gospel true;"
+        },
+        {
+          "number": 5,
+          "text": "Thus rejoicing, free from sorrow,"
+        },
+        {
+          "number": 6,
+          "text": "Praises voicing greet the morrow,"
+        },
+        {
+          "number": 7,
+          "text": "Christ the babe was born for you,"
+        },
+        {
+          "number": 8,
+          "text": "Christ the babe was born for you."
+        }
+      ],
+      "number": 2
+    }
+  ],
+  "title": "Infant Holy, Infant Lowly"
+}

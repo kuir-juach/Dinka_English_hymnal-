@@ -1,0 +1,153 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I am going to Calvary,"
+        },
+        {
+          "number": 2,
+          "text": "Would you like to come with Me"
+        },
+        {
+          "number": 3,
+          "text": "All the way and back again?"
+        },
+        {
+          "number": 4,
+          "text": "You must follow the Leader then."
+        },
+        {
+          "number": 5,
+          "text": "You must follow the Leader,"
+        },
+        {
+          "number": 6,
+          "text": "You must follow the Leader,"
+        },
+        {
+          "number": 7,
+          "text": "All the way and back again,"
+        },
+        {
+          "number": 8,
+          "text": "You must follow the Leader."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "If I want a thorny crown,"
+        },
+        {
+          "number": 2,
+          "text": "If the soldiers knock me down"
+        },
+        {
+          "number": 3,
+          "text": "Can I really be a king?"
+        },
+        {
+          "number": 4,
+          "text": "Love will answer everything"
+        },
+        {
+          "number": 5,
+          "text": "If you follow the Leader,"
+        },
+        {
+          "number": 6,
+          "text": "If you follow the Leader,"
+        },
+        {
+          "number": 7,
+          "text": "Love will answer everything,"
+        },
+        {
+          "number": 8,
+          "text": "If you follow the Leader."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "When I go along the road,"
+        },
+        {
+          "number": 2,
+          "text": "I shall lift a heavy load."
+        },
+        {
+          "number": 3,
+          "text": "I will carry a cross for you."
+        },
+        {
+          "number": 4,
+          "text": "You will learn to carry it too"
+        },
+        {
+          "number": 5,
+          "text": "When you follow the Leader,"
+        },
+        {
+          "number": 6,
+          "text": "When you follow the Leader,"
+        },
+        {
+          "number": 7,
+          "text": "You will learn to carry it too"
+        },
+        {
+          "number": 8,
+          "text": "When you follow the Leader."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I am going to stretch My hands,"
+        },
+        {
+          "number": 2,
+          "text": "Reaching out to all the lands."
+        },
+        {
+          "number": 3,
+          "text": "Can I really be a king?"
+        },
+        {
+          "number": 4,
+          "text": "Love’s the lord of everything,"
+        },
+        {
+          "number": 5,
+          "text": "When you follow the Leader,"
+        },
+        {
+          "number": 6,
+          "text": "When you follow the Leader"
+        },
+        {
+          "number": 7,
+          "text": "Love’s the lord of everything,"
+        },
+        {
+          "number": 8,
+          "text": "When you follow the Leader."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "I Am Going to Calvary"
+}

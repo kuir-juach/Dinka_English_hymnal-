@@ -1,0 +1,109 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "I am coming, Lord!"
+      },
+      {
+        "number": 2,
+        "text": "Coming now to Thee!"
+      },
+      {
+        "number": 3,
+        "text": "Wash me, cleanse me, in the blood"
+      },
+      {
+        "number": 4,
+        "text": "That flowed on Calvary."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I hear Thy welcome voice,"
+        },
+        {
+          "number": 2,
+          "text": "That calls me, Lord, to Thee;"
+        },
+        {
+          "number": 3,
+          "text": "For cleansing in Thy precious blood,"
+        },
+        {
+          "number": 4,
+          "text": "That flowed on Calvary."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Though coming weak and vile,"
+        },
+        {
+          "number": 2,
+          "text": "Thou dost my strength assure;"
+        },
+        {
+          "number": 3,
+          "text": "Thou dost my vileness fully cleanse,"
+        },
+        {
+          "number": 4,
+          "text": "Till spotless all, and pure."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "‘Tis Jesus calls me on"
+        },
+        {
+          "number": 2,
+          "text": "To perfect faith and love,"
+        },
+        {
+          "number": 3,
+          "text": "To perfect hope, and peace, and trust,"
+        },
+        {
+          "number": 4,
+          "text": "For earth and heaven above."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "All hail, atoning blood!"
+        },
+        {
+          "number": 2,
+          "text": "All hail, redeeming grace!"
+        },
+        {
+          "number": 3,
+          "text": "All hail! the gift of Christ, our Lord,"
+        },
+        {
+          "number": 4,
+          "text": "Our Strength and Righteousness."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "I Hear Thy Welcome Voice"
+}

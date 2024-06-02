@@ -1,0 +1,113 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "He hideth my soul in the cleft of the rock"
+      },
+      {
+        "number": 2,
+        "text": "That shadows a dry, thirsty land;"
+      },
+      {
+        "number": 3,
+        "text": "he hideth my life in the depths of His love,"
+      },
+      {
+        "number": 4,
+        "text": "And covers me there with His hand,"
+      },
+      {
+        "number": 5,
+        "text": "And covers me there with His hand."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "A wonderful Savior is Jesus my Lord,"
+        },
+        {
+          "number": 2,
+          "text": "A wonderful Savior to me,"
+        },
+        {
+          "number": 3,
+          "text": "He hideth my soul in the cleft of the rock,"
+        },
+        {
+          "number": 4,
+          "text": "Where rivers of pleasure I see."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "A wonderful Savior is Jesus my Lord,"
+        },
+        {
+          "number": 2,
+          "text": "He taketh my burden away,"
+        },
+        {
+          "number": 3,
+          "text": "He holdeth me up, and I shall not be moved,"
+        },
+        {
+          "number": 4,
+          "text": "He giveth me strength as my day."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "With numberless blessings each moment He crowns,"
+        },
+        {
+          "number": 2,
+          "text": "And filled with His fullness divine,"
+        },
+        {
+          "number": 3,
+          "text": "I sing in my rapture, Oh, Glory to God"
+        },
+        {
+          "number": 4,
+          "text": "For such a Redeemer as mine."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "When clothed in His brightness, transported I rise"
+        },
+        {
+          "number": 2,
+          "text": "To meet Him in clouds of the sky,"
+        },
+        {
+          "number": 3,
+          "text": "His perfect salvation, His wonderful love,"
+        },
+        {
+          "number": 4,
+          "text": "I’ll shout with the millions on high."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "He Hideth My Soul"
+}

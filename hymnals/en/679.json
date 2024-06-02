@@ -1,0 +1,42 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "God be in my head,"
+        },
+        {
+          "number": 2,
+          "text": "And in my thinking."
+        },
+        {
+          "number": 3,
+          "text": "god be in my eyes,"
+        },
+        {
+          "number": 4,
+          "text": "And in my looking."
+        },
+        {
+          "number": 5,
+          "text": "God be in my mouth"
+        },
+        {
+          "number": 6,
+          "text": "And in my speaking."
+        },
+        {
+          "number": 7,
+          "text": "Oh, God be in my hear,"
+        },
+        {
+          "number": 8,
+          "text": "And in my understanding."
+        }
+      ],
+      "number": 1
+    }
+  ],
+  "title": "God Be in My Head"
+}

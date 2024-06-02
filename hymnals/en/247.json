@@ -1,0 +1,68 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Come, my Way, my Truth, my Life:"
+        },
+        {
+          "number": 2,
+          "text": "such a way as gives us breath,"
+        },
+        {
+          "number": 3,
+          "text": "such a truth as ends all strife,"
+        },
+        {
+          "number": 4,
+          "text": "such a life as killeth death."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Come, my Light, my Feast, my Strength:"
+        },
+        {
+          "number": 2,
+          "text": "such a light as shows a feast,"
+        },
+        {
+          "number": 3,
+          "text": "such a feast as mends in length,"
+        },
+        {
+          "number": 4,
+          "text": "such a strength as makes his guest."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Come, my Joy, my Love, my Heart:"
+        },
+        {
+          "number": 2,
+          "text": "such a joy as none can move,"
+        },
+        {
+          "number": 3,
+          "text": "such a love as none can part,"
+        },
+        {
+          "number": 4,
+          "text": "such a heart as joys in love."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Come, My Way"
+}

@@ -1,0 +1,80 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "For the fruits of His creation, thanks be to God;"
+        },
+        {
+          "number": 2,
+          "text": "For the gifts to every nation, thanks be to God;"
+        },
+        {
+          "number": 3,
+          "text": "For the plowing, sowing, reaping,"
+        },
+        {
+          "number": 4,
+          "text": "Silent growth while men are sleeping,"
+        },
+        {
+          "number": 5,
+          "text": "Future needs in earth’s safe keeping, thanks be to God!"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "In the just reward of labor, God’s will is done;"
+        },
+        {
+          "number": 2,
+          "text": "In the hop we give our neighbor, God’s will is done;"
+        },
+        {
+          "number": 3,
+          "text": "In our worldwide take of caring"
+        },
+        {
+          "number": 4,
+          "text": "For the hungry and despairing,"
+        },
+        {
+          "number": 5,
+          "text": "In the harvests men are sharing, God’s will is done."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "For the harvests of His Spirit, thanks be to God;"
+        },
+        {
+          "number": 2,
+          "text": "For the good all men inherit, thanks be to God;"
+        },
+        {
+          "number": 3,
+          "text": "For the wonders that astound us,"
+        },
+        {
+          "number": 4,
+          "text": "For the truths that still confound us,"
+        },
+        {
+          "number": 5,
+          "text": "Most of all, that love has found us, thanks be to God!"
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "For the Fruits of His Creation"
+}

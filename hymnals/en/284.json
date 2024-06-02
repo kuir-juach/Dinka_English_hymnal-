@@ -1,0 +1,101 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "For you I am praying, For you I am Praying,"
+      },
+      {
+        "number": 2,
+        "text": "For you am I praying, I’m praying for you."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I have a Savior, He’s pleading in glory,"
+        },
+        {
+          "number": 2,
+          "text": "A dear, loving Savior, though earth friends be few;"
+        },
+        {
+          "number": 3,
+          "text": "And now He is watching in tenderness o’er me,"
+        },
+        {
+          "number": 4,
+          "text": "But oh that my Savior were your Savior, too."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I have a Father; to me He has given"
+        },
+        {
+          "number": 2,
+          "text": "A hope for eternity, blessed and true;"
+        },
+        {
+          "number": 3,
+          "text": "And soon He will call to meet Him in heaven,"
+        },
+        {
+          "number": 4,
+          "text": "But oh that He’d let me bring you with me, too!"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "I have a robe; ’tis resplendent in whiteness,"
+        },
+        {
+          "number": 2,
+          "text": "Awaiting in glory my wondering view;"
+        },
+        {
+          "number": 3,
+          "text": "Oh, when I receive it, all shining in brightness,"
+        },
+        {
+          "number": 4,
+          "text": "Dear friend, could I see you receiving one, too!"
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "When Jesus has found you, tell others the story,"
+        },
+        {
+          "number": 2,
+          "text": "That my loving Savior is your Savior, too;"
+        },
+        {
+          "number": 3,
+          "text": "Then pray that your Savior will bring them to glory,"
+        },
+        {
+          "number": 4,
+          "text": "And prayer will be answered-’twas answered for you!"
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "For You I Am Praying"
+}

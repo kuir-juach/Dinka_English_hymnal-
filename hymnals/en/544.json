@@ -1,0 +1,68 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Jesus, Son of blessed Mary,"
+        },
+        {
+          "number": 2,
+          "text": "Once on earth a little child,"
+        },
+        {
+          "number": 3,
+          "text": "Pattern fair of holy living,"
+        },
+        {
+          "number": 4,
+          "text": "Gracious, loving, undefiled;"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Though Thy eager heart was yearning"
+        },
+        {
+          "number": 2,
+          "text": "Heavy laden souls to free,"
+        },
+        {
+          "number": 3,
+          "text": "Yet Thou calledst little children"
+        },
+        {
+          "number": 4,
+          "text": "In their happiness to Thee."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Grant that we, like little children,"
+        },
+        {
+          "number": 2,
+          "text": "Free from pride and guile my be;"
+        },
+        {
+          "number": 3,
+          "text": "Cheerful, trusting, safe, protected"
+        },
+        {
+          "number": 4,
+          "text": "By the blessed Trinity."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Jesus, Son of Blessed Mary"
+}

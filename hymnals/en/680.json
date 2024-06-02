@@ -1,0 +1,68 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Holy Spirit, hear us;"
+        },
+        {
+          "number": 2,
+          "text": "Help us while we sing;"
+        },
+        {
+          "number": 3,
+          "text": "Breath into the music"
+        },
+        {
+          "number": 4,
+          "text": "Of the praise we bring."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Holy Spirit, prompt us"
+        },
+        {
+          "number": 2,
+          "text": "When we kneel to pray;"
+        },
+        {
+          "number": 3,
+          "text": "Nearer come, and teach us"
+        },
+        {
+          "number": 4,
+          "text": "What we ought to say."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Holy Spirit, shine Thou"
+        },
+        {
+          "number": 2,
+          "text": "On the Book we read;"
+        },
+        {
+          "number": 3,
+          "text": "Gild it’s holy pages"
+        },
+        {
+          "number": 4,
+          "text": "With the light we need."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Holy Spirit, Hear Us"
+}

@@ -1,0 +1,104 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "O that will be"
+      },
+      {
+        "number": 2,
+        "text": "O      that will"
+      },
+      {
+        "number": 3,
+        "text": "Glory for me, Glory for me,"
+      },
+      {
+        "number": 4,
+        "text": "Be    glory for me,    Glory for me,"
+      },
+      {
+        "number": 5,
+        "text": "Glory for me; When by His grace"
+      },
+      {
+        "number": 6,
+        "text": " Glory for me;"
+      },
+      {
+        "number": 7,
+        "text": "I shall look on His face,"
+      },
+      {
+        "number": 8,
+        "text": "That will be glory, be glory for me."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "When all my labors and trails are o’er,"
+        },
+        {
+          "number": 2,
+          "text": "And I am safe on that beautiful shore,"
+        },
+        {
+          "number": 3,
+          "text": "Just to be near the Lord I adore,"
+        },
+        {
+          "number": 4,
+          "text": "Will through the ages be glory for me."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "When, by the gift of His infinite grace,"
+        },
+        {
+          "number": 2,
+          "text": "I am accorded in heaven a place,"
+        },
+        {
+          "number": 3,
+          "text": "Just to be there and to look on His face,"
+        },
+        {
+          "number": 4,
+          "text": "Will through the ages be glory for me."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Friends will be there I have loved long ago;"
+        },
+        {
+          "number": 2,
+          "text": "Joy like a river around me will flow,"
+        },
+        {
+          "number": 3,
+          "text": "Yet, just a smile form my Savior, I know,"
+        },
+        {
+          "number": 4,
+          "text": "Will through the ages be glory for me."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "The Glory Song"
+}

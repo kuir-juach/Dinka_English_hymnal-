@@ -1,0 +1,88 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Yes, Jesus loves me!"
+      },
+      {
+        "number": 2,
+        "text": "Yes, Jesus loves me!"
+      },
+      {
+        "number": 3,
+        "text": "Yes, Jesus loves me!"
+      },
+      {
+        "number": 4,
+        "text": "The Bible tells me so."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Jesus loves me! this I know,"
+        },
+        {
+          "number": 2,
+          "text": "For the Bible tells me so;"
+        },
+        {
+          "number": 3,
+          "text": "Little ones to Him belong"
+        },
+        {
+          "number": 4,
+          "text": "They are weak but He is strong"
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Jesus loves me! He who died"
+        },
+        {
+          "number": 2,
+          "text": "Heaven’s gate to open wide:"
+        },
+        {
+          "number": 3,
+          "text": "He will wash away my sin,"
+        },
+        {
+          "number": 4,
+          "text": "Let His little child come in."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Jesus, take this heart of mine,"
+        },
+        {
+          "number": 2,
+          "text": "Make it pure and wholly thine;"
+        },
+        {
+          "number": 3,
+          "text": "On the cross You died for me,"
+        },
+        {
+          "number": 4,
+          "text": "I will love and live for Thee."
+        }
+      ],
+      "number": 3
+    }
+  ],
+  "title": "Jesus Loves Me"
+}

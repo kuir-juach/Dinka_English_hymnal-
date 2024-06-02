@@ -1,0 +1,89 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "The King of love my Shepherd is,"
+        },
+        {
+          "number": 2,
+          "text": "Whose goodness faileth never;"
+        },
+        {
+          "number": 3,
+          "text": "I nothing lack if I am His,"
+        },
+        {
+          "number": 4,
+          "text": "And He is mine forever."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Where streams of living water flow"
+        },
+        {
+          "number": 2,
+          "text": "My ransomed soul He leadeth,"
+        },
+        {
+          "number": 3,
+          "text": "And, where the verdant pastures grow,"
+        },
+        {
+          "number": 4,
+          "text": "With food celestial feedeth."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Perverse and foolish, oft I strayed,"
+        },
+        {
+          "number": 2,
+          "text": "But yet in love He sought me,"
+        },
+        {
+          "number": 3,
+          "text": "And on His shoulder gently laid,"
+        },
+        {
+          "number": 4,
+          "text": "And home, rejoicing, brought me."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "And so through all the length of days"
+        },
+        {
+          "number": 2,
+          "text": "Thy goodness faileth never;"
+        },
+        {
+          "number": 3,
+          "text": "Good Shepherd! I would sing Thy praise"
+        },
+        {
+          "number": 4,
+          "text": "Within Thy house forever."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "The King of Love My Shepherd Is"
+}

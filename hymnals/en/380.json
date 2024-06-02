@@ -1,0 +1,89 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Welcome, day of sweet repose!"
+        },
+        {
+          "number": 2,
+          "text": "Blessed be thy sacred hours!"
+        },
+        {
+          "number": 3,
+          "text": "We would trust the One who knows"
+        },
+        {
+          "number": 4,
+          "text": "All our weak and failing powers."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Welcome, day in Eden born!"
+        },
+        {
+          "number": 2,
+          "text": "Holy rest for sinless man!"
+        },
+        {
+          "number": 3,
+          "text": "Like the dawning of fair morn"
+        },
+        {
+          "number": 4,
+          "text": "Come thy hours to us again."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Welcome, day blessed by our Lord!"
+        },
+        {
+          "number": 2,
+          "text": "Toil shall cease and anxious care."
+        },
+        {
+          "number": 3,
+          "text": "Day commanded by His word,"
+        },
+        {
+          "number": 4,
+          "text": "Day for song and praise and prayer."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Welcome, day our Savior kept!"
+        },
+        {
+          "number": 2,
+          "text": "Keeping, wrought our righteousness,"
+        },
+        {
+          "number": 3,
+          "text": "Day God bids us ne’er forget,"
+        },
+        {
+          "number": 4,
+          "text": "Day of days His name to bless."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Welcome, Day of Sweet Repose"
+}

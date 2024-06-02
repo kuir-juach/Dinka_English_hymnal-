@@ -1,0 +1,97 @@
+{
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Lord, make us more holy;"
+        },
+        {
+          "number": 2,
+          "text": "Lord, make us more holy;"
+        },
+        {
+          "number": 3,
+          "text": "Lord, make us more holy"
+        },
+        {
+          "number": 4,
+          "text": "Until we meet again."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Lord, make us more faithful;"
+        },
+        {
+          "number": 2,
+          "text": "Lord, make us more faithful;"
+        },
+        {
+          "number": 3,
+          "text": "Lord, make us more faithful"
+        },
+        {
+          "number": 4,
+          "text": "Until we meet again."
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Lord, make us more humble;"
+        },
+        {
+          "number": 2,
+          "text": "Lord, make us more humble;"
+        },
+        {
+          "number": 3,
+          "text": "Lord, make us more humble"
+        },
+        {
+          "number": 4,
+          "text": "Until we meet again."
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Lord, make us more loving;"
+        },
+        {
+          "number": 2,
+          "text": "Lord, make us more loving;"
+        },
+        {
+          "number": 3,
+          "text": "Lord, make us more loving"
+        },
+        {
+          "number": 4,
+          "text": "Until we meet again."
+        },
+        {
+          "number": 5,
+          "text": "Like Jesus, the Saviour,"
+        },
+        {
+          "number": 6,
+          "text": "Until we meet again."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Lord, Make Us More Holy"
+}

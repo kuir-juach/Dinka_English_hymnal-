@@ -1,0 +1,109 @@
+{
+  "refrain": {
+    "lines": [
+      {
+        "number": 1,
+        "text": "Cover with His life, whiter than snow;"
+      },
+      {
+        "number": 2,
+        "text": "Fullness of His life then shall I know;"
+      },
+      {
+        "number": 3,
+        "text": "My life of scarlet, my sin and woe,"
+      },
+      {
+        "number": 4,
+        "text": "Cover with His life, whither than snow."
+      }
+    ]
+  },
+  "stanzas": [
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Look upon Jesus, sinless is He;"
+        },
+        {
+          "number": 2,
+          "text": "Father, impute His life unto me."
+        },
+        {
+          "number": 3,
+          "text": "My life of scarlet, my sin and woe,"
+        },
+        {
+          "number": 4,
+          "text": "Cover with His life, whiter than snow."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Deep are the wounds transgression has made;"
+        },
+        {
+          "number": 2,
+          "text": "Red are the stains; my soul is afraid."
+        },
+        {
+          "number": 3,
+          "text": "O to be covered, Jesus, with Thee,"
+        },
+        {
+          "number": 4,
+          "text": "Safe from the law that now judgeth me!"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Longing the joy of pardon to know;"
+        },
+        {
+          "number": 2,
+          "text": "Jesus holds out a robe white as snow;"
+        },
+        {
+          "number": 3,
+          "text": "“Lord, I accept it! Leaving my own,"
+        },
+        {
+          "number": 4,
+          "text": "Gladly I wear Thy pure life alone.”"
+        }
+      ],
+      "number": 3
+    },
+    {
+      "lines": [
+        {
+          "number": 1,
+          "text": "Reconciled by His death for my sin,"
+        },
+        {
+          "number": 2,
+          "text": "Justified by His life pure and clean,"
+        },
+        {
+          "number": 3,
+          "text": "Sanctified by obeying His word,"
+        },
+        {
+          "number": 4,
+          "text": "Glorified when returneth my Lord."
+        }
+      ],
+      "number": 4
+    }
+  ],
+  "title": "Cover With His Life"
+}
