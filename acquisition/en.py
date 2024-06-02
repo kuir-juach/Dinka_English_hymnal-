@@ -114,7 +114,12 @@ def main(url, save_dir):
             ), i[1]
         )
         formatted_song_text = get_formatted_song_text(song_text)
-        save_as_json(formatted_song_text, os.path.join(save_dir, f"{i[0]}.json"))
+        song_number = f"{i[0]}"
+
+        while len(song_number) < 3:
+            song_number = f"0{song_number}"
+
+        save_as_json(formatted_song_text, os.path.join(save_dir, f"{song_number}.json"))
         print(f"\r{idx + 1}/{num_of_songs}", end="")
 
 
